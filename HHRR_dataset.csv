@@ -1,0 +1,311 @@
+EmpID;GenderID;EmpStatusID;DeptID;PerfScoreID;FromDiversityJobFairID;PayRate;Termd;PositionID;Position;Oficina;DOB;Sex;DateofHire;DateofTermination;TermReason;EmploymentStatus;Department;ManagerID;origen_contratacion;PerformanceScore;EngagementSurvey;EmpSatisfaction;SpecialProjectsCount;LastPerformanceReview_Date;DaysLateLast30
+1103024456.0;0.0;1.0;1.0;3.0;1.0;28.5;0.0;1.0;Accountant I;Madrid;11/24/87;F;10/27/2008;;N/A - still employed;Active;Admin Offices;1.0;FeriaEmpleo;Acorde;2.04;2.0;6.0;1/15/2019;0.0
+1106026572.0;1.0;1.0;1.0;3.0;0.0;23.0;0.0;1.0;Accountant I;Madrid;04/26/84;M ;01/06/2014;;N/A - still employed;Active;Admin Offices;1.0;SitioWeb;Acorde;5.0;4.0;4.0;1/17/2019;0.0
+1302053333.0;1.0;1.0;1.0;3.0;0.0;29.0;0.0;1.0;Accountant I;Madrid;09/01/1986;M ;9/29/2014;;N/A - still employed;Active;Admin Offices;1.0;Linkedin;Acorde;3.9;5.0;5.0;1/18/2019;0.0
+1211050782.0;0.0;1.0;1.0;3.0;0.0;21.5;1.0;2.0;Administrative Assistant;Madrid;09/16/85;F;2/16/2015;04/15/15;;Terminated for Cause;Admin Offices;1.0;Anuncio;Acorde;3.24;3.0;4.0;;
+1307059817.0;0.0;1.0;1.0;3.0;0.0;16.56;0.0;2.0;Administrative Assistant;Madrid;05/19/88;F;05/01/2015;;N/A - still employed;Active;Admin Offices;1.0;SitioWeb;Acorde;5.0;3.0;5.0;1/15/2019;0.0
+711007713.0;0.0;5.0;1.0;3.0;1.0;20.5;1.0;2.0;Administrative Assistant;Madrid;06/14/87;F;9/26/2011;09/25/13;career change;Voluntarily Terminated;Admin Offices;1.0;FeriaEmpleo;Acorde;3.8;4.0;4.0;;
+1504073368.0;0.0;5.0;6.0;3.0;0.0;55.0;1.0;3.0;Area Sales Manager;Madrid;06/01/1964;F;8/15/2011;08/02/2014;Another position;Voluntarily Terminated;Sales;17.0;Linkedin;Acorde;3.14;5.0;0.0;;
+1403065721.0;0.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;05/15/63;F;8/18/2014;;N/A - still employed;Active;Sales;17.0;Anuncio;Acorde;5.0;5.0;0.0;1/21/2019;0.0
+1408069481.0;0.0;1.0;6.0;1.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;05/14/87;F;2/20/2012;;N/A - still employed;Active;Sales;17.0;SitioWeb;Bajo;2.3;1.0;0.0;1/29/2019;0.0
+1306059197.0;1.0;1.0;6.0;3.0;0.0;56.0;0.0;3.0;Area Sales Manager;Madrid;09/14/88;M ;8/18/2014;;N/A - still employed;Active;Sales;17.0;Anuncio;Acorde;3.6;5.0;0.0;1/30/2019;0.0
+1204032843.0;1.0;1.0;6.0;3.0;1.0;55.5;0.0;3.0;Area Sales Manager;Madrid;02/24/69;M ;03/07/2011;;N/A - still employed;Active;Sales;17.0;FeriaEmpleo;Acorde;3.65;5.0;0.0;1/17/2019;0.0
+1302053046.0;0.0;4.0;6.0;3.0;0.0;55.0;1.0;3.0;Area Sales Manager;Madrid;07/10/1971;F;07/07/2014;09/05/2015;attendance;Terminated for Cause;Sales;17.0;infojobs;Acorde;3.97;4.0;0.0;;
+1411071481.0;1.0;1.0;6.0;3.0;0.0;55.5;0.0;3.0;Area Sales Manager;Madrid;10/12/1954;M ;05/12/2014;;N/A - still employed;Active;Sales;17.0;infojobs;Acorde;3.98;3.0;0.0;1/28/2019;0.0
+1001167253.0;1.0;5.0;6.0;3.0;0.0;55.0;1.0;3.0;Area Sales Manager;Madrid;02/09/1969;M ;03/07/2011;10/31/14;relocation out of area;Voluntarily Terminated;Sales;17.0;periodico;Acorde;4.5;5.0;0.0;;
+1412071660.0;1.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;12/27/88;M ;4/30/2012;;N/A - still employed;Active;Sales;17.0;SitioWeb;Acorde;4.53;3.0;0.0;1/29/2019;0.0
+1306057978.0;1.0;1.0;6.0;1.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;11/02/1975;M ;9/29/2014;;N/A - still employed;Active;Sales;17.0;Linkedin;Bajo;1.93;3.0;0.0;1/30/2019;0.0
+812011761.0;1.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;05/19/82;M ;01/05/2015;;N/A - still employed;Active;Sales;17.0;SitioWeb;Acorde;5.0;5.0;0.0;1/14/2019;0.0
+1411071295.0;0.0;1.0;6.0;3.0;0.0;54.0;0.0;3.0;Area Sales Manager;Madrid;05/12/1989;F;9/27/2010;;N/A - still employed;Active;Sales;17.0;Universidad;Acorde;2.0;4.0;0.0;1/31/2019;0.0
+1312063714.0;0.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;05/23/91;F;07/05/2011;;N/A - still employed;Active;Sales;17.0;Otro;Acorde;2.81;3.0;0.0;1/17/2019;0.0
+1111030503.0;1.0;1.0;6.0;3.0;0.0;56.0;0.0;3.0;Area Sales Manager;Madrid;07/11/1989;M ;03/05/2012;;N/A - still employed;Active;Sales;17.0;SitioWeb;Acorde;1.77;4.0;0.0;1/18/2019;0.0
+1504073313.0;1.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;07/07/1975;M ;9/29/2014;;N/A - still employed;Active;Sales;21.0;Ref_empleado;Acorde;3.31;5.0;0.0;1/28/2019;0.0
+1409070567.0;0.0;1.0;6.0;4.0;0.0;55.0;0.0;3.0;Area Sales Manager;Madrid;11/08/1988;F;01/10/2011;;N/A - still employed;Active;Sales;21.0;Otro;Excede;4.77;5.0;0.0;1/27/2019;0.0
+1411071302.0;1.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;08/28/63;M ;09/06/2011;;N/A - still employed;Active;Sales;21.0;infojobs;Acorde;1.64;3.0;0.0;1/27/2019;0.0
+1203032099.0;0.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;09/22/89;F;2/16/2015;;N/A - still employed;Active;Sales;21.0;Anuncio;Acorde;1.72;5.0;0.0;1/25/2019;0.0
+1001084890.0;1.0;1.0;6.0;1.0;0.0;56.0;0.0;3.0;Area Sales Manager;Barcelona;05/09/1974;M ;05/12/2014;;N/A - still employed;Active;Sales;21.0;SitioWeb;Bajo;1.81;2.0;0.0;1/17/2019;0.0
+1104025008.0;1.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;11/27/79;M ;8/19/2013;;N/A - still employed;Active;Sales;21.0;Anuncio;Acorde;2.19;5.0;0.0;1/22/2019;0.0
+1209048771.0;1.0;1.0;6.0;3.0;0.0;56.0;0.0;3.0;Area Sales Manager;Barcelona;06/11/1970;M ;5/14/2012;;N/A - still employed;Active;Sales;21.0;Ref_empleado;Acorde;2.94;5.0;0.0;1/19/2019;0.0
+1209049326.0;1.0;2.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;07/01/1984;M ;07/06/2016;;N/A - Has not started yet;Future Start;Sales;21.0;SitioWeb;Acorde;2.91;4.0;0.0;1/29/2019;0.0
+1111030684.0;0.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;03/31/89;F;07/08/2013;;N/A - still employed;Active;Sales;21.0;Anuncio;Acorde;5.0;5.0;0.0;1/25/2019;0.0
+1501072180.0;0.0;1.0;6.0;3.0;0.0;57.0;0.0;3.0;Area Sales Manager;Barcelona;05/11/1990;F;9/30/2013;;N/A - still employed;Active;Sales;21.0;Anuncio;Acorde;4.28;3.0;0.0;1/25/2019;0.0
+1102024106.0;0.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;08/29/88;F;01/09/2012;;N/A - still employed;Active;Sales;21.0;SitioWeb;Acorde;4.2;5.0;0.0;02/01/2019;0.0
+1502072711.0;1.0;1.0;6.0;4.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;01/15/68;M ;01/09/2006;;N/A - still employed;Active;Sales;21.0;Anuncio;Excede;4.1;3.0;0.0;01/04/2019;0.0
+1401064637.0;0.0;1.0;6.0;3.0;0.0;55.0;0.0;3.0;Area Sales Manager;Barcelona;05/07/1965;F;9/29/2014;;N/A - still employed;Active;Sales;21.0;infojobs;Acorde;3.69;3.0;0.0;1/28/2019;0.0
+1009919940.0;0.0;1.0;3.0;3.0;0.0;45.0;0.0;4.0;BI Developer;Madrid;05/12/1980;F;10/02/2016;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;2.02;4.0;6.0;02/06/2019;0.0
+1009919980.0;1.0;1.0;3.0;3.0;0.0;46.0;0.0;4.0;BI Developer;Madrid;09/04/1983;M ;2/15/2017;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;3.01;5.0;7.0;1/23/2019;0.0
+1009919990.0;1.0;1.0;3.0;3.0;0.0;45.0;0.0;4.0;BI Developer;Madrid;10/24/87;M ;4/20/2017;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;1.82;3.0;6.0;01/02/2019;0.0
+1009920000.0;1.0;1.0;3.0;3.0;0.0;45.0;0.0;4.0;BI Developer;Madrid;06/30/89;M ;4/20/2017;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;2.06;5.0;5.0;1/28/2019;0.0
+1009919920.0;1.0;1.0;3.0;3.0;0.0;63.5;0.0;5.0;BI Director;Madrid;02/09/1972;M ;09/06/2016;;N/A - still employed;Active;IT/IS;5.0;Universidad;Acorde;4.5;5.0;7.0;1/15/2019;0.0
+1112030816.0;0.0;1.0;3.0;4.0;0.0;65.0;0.0;6.0;CIO;Madrid;08/30/79;F;04/10/2010;;N/A - still employed;Active;IT/IS;2.0;Ref_empleado;Excede;1.12;5.0;6.0;2/21/2019;0.0
+1009919950.0;0.0;1.0;3.0;3.0;0.0;55.0;0.0;7.0;Data Architect;Madrid;11/21/72;F;01/07/2017;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;4.94;3.0;5.0;02/06/2019;0.0
+1102024056.0;0.0;4.0;3.0;3.0;0.0;43.0;1.0;8.0;Database Administrator;Madrid;04/04/1986;F;07/07/2014;09/12/2015;performance;Terminated for Cause;IT/IS;4.0;infojobs;Acorde;1.87;4.0;5.0;;
+905013738.0;0.0;4.0;3.0;3.0;0.0;48.5;1.0;8.0;Database Administrator;Madrid;10/23/71;F;2/16/2015;03/15/15;no-call, no-show;Terminated for Cause;IT/IS;4.0;jobandtalent;Acorde;1.87;4.0;4.0;;
+1410071156.0;1.0;4.0;3.0;3.0;0.0;40.1;1.0;8.0;Database Administrator;Madrid;08/07/1986;M ;2/16/2015;02/22/15;no-call, no-show;Terminated for Cause;IT/IS;4.0;Ref_empleado;Acorde;4.33;3.0;7.0;;
+1105025718.0;0.0;1.0;3.0;3.0;0.0;34.0;0.0;8.0;Database Administrator;Madrid;02/21/84;F;3/30/2015;;N/A - still employed;Active;IT/IS;4.0;jobandtalent;Acorde;4.48;5.0;6.0;01/03/2019;0.0
+1003018246.0;0.0;3.0;3.0;3.0;0.0;40.0;0.0;8.0;Database Administrator;Madrid;11/07/1986;F;01/05/2015;;N/A - still employed;Leave of Absence;IT/IS;4.0;jobandtalent;Acorde;3.75;3.0;5.0;02/11/2019;0.0
+1406068403.0;1.0;1.0;3.0;4.0;1.0;35.5;0.0;9.0;Data Analyst;Barcelona;07/04/1988;M ;11/10/2014;;N/A - still employed;Active;IT/IS;4.0;FeriaEmpleo;Excede;4.28;4.0;5.0;2/25/2019;0.0
+1102023965.0;1.0;5.0;3.0;3.0;0.0;41.0;1.0;9.0;Data Analyst;Madrid;09/05/1984;M ;12/01/2014;05/01/2016;performance;Voluntarily Terminated;IT/IS;4.0;Ref_empleado;Acorde;1.62;4.0;5.0;;
+1108027853.0;0.0;1.0;3.0;4.0;0.0;42.75;0.0;9.0;Data Analyst;Madrid;09/16/84;F;11/10/2014;;N/A - still employed;Active;IT/IS;4.0;Ref_empleado;Excede;3.71;5.0;7.0;01/04/2019;0.0
+1407068885.0;0.0;1.0;3.0;3.0;0.0;39.55;0.0;9.0;Data Analyst;Madrid;10/11/1981;F;2/16/2015;;N/A - still employed;Active;IT/IS;4.0;Ref_empleado;Acorde;3.69;5.0;6.0;2/14/2019;0.0
+1203032255.0;1.0;1.0;3.0;3.0;0.0;42.2;0.0;9.0;Data Analyst;Madrid;08/26/86;M ;3/30/2015;;N/A - still employed;Active;IT/IS;4.0;Anuncio;Acorde;3.04;3.0;6.0;1/22/2019;0.0
+1111030148.0;1.0;5.0;3.0;3.0;0.0;45.0;1.0;9.0;Data Analyst ;Madrid;12/17/87;M ;01/05/2015;10/31/15;hours;Voluntarily Terminated;IT/IS;4.0;EquipoRRHH;Acorde;2.19;3.0;5.0;;
+808010278.0;1.0;1.0;3.0;3.0;0.0;30.2;0.0;9.0;Data Analyst;Madrid;02/08/1970;M ;01/05/2015;;N/A - still employed;Active;IT/IS;4.0;Ref_empleado;Acorde;3.32;3.0;7.0;1/14/2019;0.0
+1110029732.0;0.0;1.0;3.0;3.0;0.0;31.4;0.0;9.0;Data Analyst;Madrid;02/24/79;F;3/30/2015;;N/A - still employed;Active;IT/IS;4.0;Ref_empleado;Acorde;5.0;3.0;5.0;02/01/2019;0.0
+1006020066.0;0.0;1.0;5.0;4.0;0.0;60.0;0.0;10.0;Director of Operations;Madrid;03/19/83;F;01/05/2009;;N/A - still employed;Active;Production       ;2.0;Otro;Excede;3.02;5.0;0.0;02/04/2019;0.0
+1009021646.0;0.0;1.0;6.0;3.0;0.0;60.0;0.0;11.0;Director of Sales;Málaga;03/17/66;F;05/05/2014;;N/A - still employed;Active;Sales;2.0;Universidad;Acorde;1.22;4.0;0.0;1/21/2019;0.0
+1192991000.0;1.0;1.0;3.0;4.0;0.0;65.0;0.0;12.0;IT Director;Madrid;07/05/1980;M ;4/15/2011;;N/A - still employed;Active;IT/IS;5.0;Universidad;Excede;3.76;5.0;5.0;01/07/2019;0.0
+1106026933.0;1.0;1.0;3.0;3.0;0.0;62.0;0.0;13.0;IT Manager - DB;Madrid;04/05/1973;M ;1/20/2013;;N/A - still employed;Active;IT/IS;5.0;Universidad;Acorde;2.96;5.0;7.0;2/18/2019;0.0
+1001175250.0;1.0;5.0;3.0;3.0;1.0;21.0;1.0;13.0;IT Manager - DB;Madrid;01/04/1964;M ;01/09/2012;11/04/2015;hours;Voluntarily Terminated;IT/IS;5.0;FeriaEmpleo;Acorde;2.51;4.0;6.0;;
+1011022863.0;1.0;1.0;3.0;2.0;1.0;63.0;0.0;13.0;IT Manager - Infra;Madrid;10/05/1986;M ;2/15/2012;;N/A - still employed;Active;IT/IS;5.0;FeriaEmpleo;NecesitaMejorar;2.39;3.0;6.0;2/22/2019;0.0
+1101023754.0;1.0;1.0;3.0;4.0;0.0;64.0;0.0;13.0;IT Manager - Support;Madrid;07/09/1970;M ;01/05/2014;;N/A - still employed;Active;IT/IS;5.0;Universidad;Excede;1.99;5.0;5.0;01/04/2019;0.0
+1301052902.0;1.0;1.0;3.0;3.0;0.0;28.99;0.0;14.0;IT Support;Madrid;09/05/1985;M ;09/05/2012;;N/A - still employed;Active;IT/IS;6.0;jobandtalent;Acorde;2.55;3.0;6.0;2/27/2019;0.0
+1501072093.0;0.0;1.0;3.0;3.0;0.0;31.4;0.0;14.0;IT Support;Barcelona;07/06/1968;F;05/01/2010;;N/A - still employed;Active;IT/IS;6.0;EquipoRRHH;Acorde;1.21;4.0;5.0;02/01/2019;0.0
+602000312.0;0.0;1.0;3.0;4.0;1.0;26.0;0.0;14.0;IT Support;Barcelona;10/05/1988;F;1/21/2011;;N/A - still employed;Active;IT/IS;6.0;FeriaEmpleo;Excede;4.64;4.0;5.0;1/25/2019;0.0
+1203032263.0;0.0;1.0;3.0;3.0;0.0;27.49;0.0;14.0;IT Support;Madrid;03/12/1973;F;06/10/2011;;N/A - still employed;Active;IT/IS;6.0;FeriaEmpleo;Acorde;4.3;3.0;5.0;02/08/2019;0.0
+1212052023.0;1.0;1.0;3.0;3.0;0.0;45.0;0.0;14.0;IT Support;Madrid;01/07/1988;M ;01/05/2015;;N/A - still employed;Active;IT/IS;7.0;jobandtalent;Acorde;1.84;5.0;6.0;2/18/2019;0.0
+1102024173.0;1.0;1.0;3.0;3.0;0.0;42.0;0.0;14.0;IT Support;Madrid;11/24/89;M ;3/30/2015;;N/A - still employed;Active;IT/IS;7.0;FeriaEmpleo;Acorde;2.21;5.0;7.0;01/10/2019;0.0
+1101023540.0;0.0;1.0;3.0;3.0;0.0;37.0;0.0;14.0;IT Support;Madrid;07/18/88;F;01/05/2015;;N/A - still employed;Active;IT/IS;7.0;Ref_empleado;Acorde;4.11;4.0;6.0;2/25/2019;0.0
+1988299991.0;0.0;1.0;3.0;3.0;0.0;39.0;0.0;14.0;IT Support;Madrid;04/16/81;F;01/05/2015;;N/A - still employed;Active;IT/IS;7.0;Ref_empleado;Acorde;4.61;4.0;5.0;1/28/2019;0.0
+1012023013.0;1.0;1.0;3.0;1.0;0.0;43.0;0.0;15.0;Network Engineer;Madrid;06/18/87;M ;3/30/2015;;N/A - still employed;Active;IT/IS;7.0;EquipoRRHH;Bajo;1.2;3.0;6.0;02/04/2019;0.0
+1001956578.0;0.0;1.0;3.0;3.0;0.0;27.0;0.0;15.0;Network Engineer;Madrid;04/04/1979;F;2/16/2015;;N/A - still employed;Active;IT/IS;7.0;infojobs;Acorde;3.81;3.0;6.0;02/11/2019;0.0
+906014183.0;0.0;1.0;3.0;3.0;0.0;47.0;0.0;15.0;Network Engineer;Madrid;04/14/81;F;9/30/2014;;N/A - still employed;Active;IT/IS;7.0;EquipoRRHH;Acorde;3.31;3.0;6.0;01/07/2019;0.0
+1104025466.0;1.0;5.0;3.0;3.0;0.0;28.0;1.0;15.0;Network Engineer;Madrid;05/05/1988;M ;01/05/2015;05/12/2015;medical issues;Voluntarily Terminated;IT/IS;7.0;infojobs;Acorde;5.0;3.0;5.0;;
+1411071506.0;1.0;1.0;3.0;3.0;0.0;49.1;0.0;15.0;Network Engineer;Madrid;03/31/69;M ;3/30/2015;;N/A - still employed;Active;IT/IS;7.0;Ref_empleado;Acorde;5.0;4.0;7.0;1/14/2019;0.0
+1001495124.0;0.0;1.0;2.0;3.0;0.0;80.0;0.0;16.0;President & CEO;Madrid;09/21/54;F;07/02/2012;;N/A - still employed;Active;Executive Office;9.0;Anuncio;Acorde;4.83;3.0;0.0;1/17/2019;0.0
+1501072311.0;1.0;1.0;5.0;3.0;0.0;54.5;0.0;17.0;Production Manager;Madrid;10/10/1968;M ;08/01/2011;;N/A - still employed;Active;Production       ;2.0;Ref_empleado;Acorde;3.93;3.0;0.0;2/27/2019;0.0
+1303054580.0;1.0;5.0;5.0;3.0;0.0;50.5;1.0;18.0;Production Manager;Madrid;03/10/1970;M ;9/30/2013;08/07/2014;retiring;Voluntarily Terminated;Production       ;2.0;Anuncio;Acorde;3.39;3.0;0.0;;
+1110029990.0;1.0;1.0;5.0;4.0;0.0;55.0;0.0;18.0;Production Manager;Madrid;08/09/1983;M ;1/28/2016;;N/A - still employed;Active;Production       ;2.0;Anuncio;Excede;5.0;3.0;0.0;2/22/2019;0.0
+1409070147.0;0.0;1.0;5.0;3.0;0.0;51.0;0.0;18.0;Production Manager;Madrid;11/28/73;F;9/18/2014;;N/A - still employed;Active;Production       ;2.0;infojobs;Acorde;4.52;4.0;0.0;1/15/2019;0.0
+1307060077.0;1.0;1.0;5.0;3.0;0.0;54.0;0.0;18.0;Production Manager;Madrid;07/11/1981;M ;06/02/2015;;N/A - still employed;Active;Production       ;2.0;Ref_empleado;Acorde;4.63;3.0;0.0;01/04/2019;0.0
+1001944783.0;1.0;4.0;5.0;3.0;0.0;48.5;1.0;18.0;Production Manager;Madrid;07/01/1972;M ;01/10/2011;12/12/2015;attendance;Terminated for Cause;Production       ;2.0;Ref_empleado;Acorde;4.78;4.0;0.0;;
+1403065874.0;1.0;5.0;5.0;2.0;0.0;42.0;1.0;18.0;Production Manager;Madrid;11/15/76;M ;2/21/2011;09/24/12;unhappy;Voluntarily Terminated;Production       ;2.0;Otro;NecesitaMejorar;2.34;2.0;0.0;;
+1103024679.0;0.0;1.0;5.0;4.0;0.0;55.0;0.0;18.0;Production Manager;Madrid;10/26/81;F;9/30/2013;;N/A - still employed;Active;Production       ;2.0;SitioWeb;Excede;3.66;3.0;0.0;1/21/2019;0.0
+1107027351.0;1.0;1.0;5.0;3.0;0.0;53.0;0.0;18.0;Production Manager;Madrid;08/10/1981;M ;8/16/2012;;N/A - still employed;Active;Production       ;2.0;Linkedin;Acorde;4.37;3.0;0.0;1/14/2019;0.0
+1402065355.0;0.0;5.0;5.0;3.0;0.0;38.5;1.0;18.0;Production Manager;Madrid;05/09/1977;F;10/25/2010;05/18/16;Another position;Voluntarily Terminated;Production       ;2.0;Linkedin;Acorde;4.16;5.0;0.0;;
+1102024149.0;0.0;1.0;5.0;3.0;0.0;52.0;0.0;18.0;Production Manager;Madrid;09/30/75;F;10/02/2012;;N/A - still employed;Active;Production       ;2.0;EquipoRRHH;Acorde;4.83;5.0;0.0;2/14/2019;0.0
+1000974650.0;1.0;1.0;5.0;2.0;0.0;53.0;0.0;18.0;Production Manager;Madrid;12/17/75;M ;7/20/2010;;N/A - still employed;Active;Production       ;2.0;infojobs;NecesitaMejorar;4.13;2.0;0.0;1/14/2019;0.0
+1405067298.0;0.0;1.0;5.0;3.0;0.0;55.0;0.0;18.0;Production Manager;Madrid;03/28/78;F;01/08/2009;;N/A - still employed;Active;Production       ;2.0;Anuncio;Acorde;3.73;4.0;0.0;1/24/2019;0.0
+1410071026.0;0.0;5.0;5.0;3.0;1.0;33.5;1.0;18.0;Production Manager;Madrid;11/14/55;F;9/26/2011;01/02/2012;Another position;Voluntarily Terminated;Production       ;2.0;FeriaEmpleo;Acorde;1.18;3.0;0.0;;
+1304055947.0;0.0;1.0;5.0;4.0;0.0;23.0;0.0;19.0;Production Technician I;Madrid;05/22/77;F;01/09/2012;;N/A - still employed;Active;Production       ;11.0;Universidad;Excede;5.0;5.0;0.0;01/07/2019;0.0
+1109029366.0;1.0;1.0;5.0;3.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;12/22/70;M ;04/02/2012;;N/A - still employed;Active;Production       ;11.0;FeriaEmpleo;Acorde;5.0;3.0;0.0;1/14/2019;0.0
+1101023394.0;0.0;5.0;5.0;3.0;0.0;21.0;1.0;19.0;Production Technician I;Madrid;08/27/83;F;6/27/2011;11/15/15;relocation out of area;Voluntarily Terminated;Production       ;11.0;Otro;Acorde;2.0;4.0;0.0;;
+1501072124.0;1.0;1.0;5.0;1.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;04/19/67;M ;07/07/2014;;N/A - still employed;Active;Production       ;11.0;Universidad;Bajo;1.12;2.0;0.0;1/31/2019;0.0
+1302053339.0;1.0;1.0;5.0;1.0;0.0;18.0;0.0;19.0;Production Technician I;Madrid;10/18/89;M ;05/11/2015;;N/A - still employed;Active;Production       ;11.0;Universidad;Bajo;1.56;5.0;0.0;01/03/2019;0.0
+1204032927.0;0.0;1.0;5.0;4.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;05/08/1980;F;9/29/2014;;N/A - still employed;Active;Production       ;11.0;Universidad;Excede;3.39;4.0;0.0;02/07/2019;0.0
+1404066622.0;0.0;1.0;5.0;4.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;05/02/1974;F;05/12/2014;;N/A - still employed;Active;Production       ;11.0;infojobs;Excede;4.76;4.0;0.0;2/15/2019;0.0
+903013071.0;0.0;5.0;5.0;3.0;0.0;24.0;1.0;19.0;Production Technician I;Madrid;10/08/1970;F;9/26/2011;01/09/2012;more money;Voluntarily Terminated;Production       ;11.0;infojobs;Acorde;3.49;4.0;0.0;;
+1201031032.0;1.0;5.0;5.0;3.0;0.0;15.0;1.0;19.0;Production Technician I;Madrid;11/09/1972;M ;9/24/2012;09/26/12;hours;Voluntarily Terminated;Production       ;11.0;infojobs;Acorde;3.08;4.0;0.0;;
+1204033044.0;1.0;5.0;5.0;3.0;0.0;22.0;1.0;19.0;Production Technician I;Madrid;03/28/83;M ;04/01/2013;05/25/16;more money;Voluntarily Terminated;Production       ;11.0;Ref_empleado;Acorde;3.18;3.0;0.0;;
+1109029186.0;0.0;5.0;5.0;3.0;0.0;22.0;1.0;19.0;Production Technician I;Madrid;07/20/86;F;5/16/2011;10/25/15;medical issues;Voluntarily Terminated;Production       ;11.0;Universidad;Acorde;3.45;4.0;0.0;;
+1206038000.0;1.0;5.0;5.0;3.0;0.0;24.0;1.0;19.0;Production Technician I;Madrid;01/07/1974;M ;01/10/2011;01/26/16;attendance;Voluntarily Terminated;Production       ;11.0;jobandtalent;Acorde;5.0;3.0;0.0;;
+1205033102.0;0.0;1.0;5.0;3.0;0.0;15.0;0.0;19.0;Production Technician I;Madrid;08/24/85;F;8/19/2013;;N/A - still employed;Active;Production       ;11.0;periodico;Acorde;4.81;4.0;0.0;2/15/2019;0.0
+1404066739.0;0.0;5.0;5.0;3.0;0.0;20.0;1.0;19.0;Production Technician I;Madrid;05/09/1965;F;07/05/2011;09/05/2011;return to school;Voluntarily Terminated;Production       ;11.0;Anuncio;Acorde;3.98;4.0;0.0;;
+1101023839.0;1.0;5.0;5.0;3.0;0.0;21.0;1.0;19.0;Production Technician I;Madrid;09/09/1965;M ;5/16/2011;09/07/2015;unhappy;Voluntarily Terminated;Production       ;11.0;SitioWeb;Acorde;5.0;3.0;0.0;;
+1212051409.0;0.0;3.0;5.0;3.0;1.0;22.0;0.0;19.0;Production Technician I;Madrid;02/11/1970;F;07/06/2009;;N/A - still employed;Leave of Absence;Production       ;12.0;FeriaEmpleo;Acorde;4.46;3.0;0.0;1/25/2019;0.0
+1308060366.0;0.0;1.0;5.0;4.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;09/01/1989;F;07/07/2014;;N/A - still employed;Active;Production       ;12.0;Universidad;Excede;5.0;3.0;0.0;2/27/2019;0.0
+1407069280.0;1.0;2.0;5.0;4.0;0.0;24.75;0.0;19.0;Production Technician I;Madrid;08/26/80;M ;07/06/2016;;N/A - Has not started yet;Future Start;Production       ;12.0;Ref_empleado;Excede;1.97;4.0;0.0;2/28/2019;0.0
+1209048696.0;0.0;1.0;5.0;2.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;12/02/1978;F;01/07/2013;;N/A - still employed;Active;Production       ;12.0;Anuncio;NecesitaMejorar;3.88;4.0;0.0;1/18/2019;0.0
+1006020020.0;0.0;1.0;5.0;3.0;0.0;24.0;0.0;19.0;Production Technician I;Madrid;03/16/81;F;01/09/2012;;N/A - still employed;Active;Production       ;12.0;Linkedin;Acorde;5.0;5.0;0.0;1/29/2019;0.0
+1411071212.0;1.0;1.0;5.0;4.0;1.0;16.0;0.0;19.0;Production Technician I;Madrid;09/29/69;M ;07/11/2011;;N/A - still employed;Active;Production       ;12.0;FeriaEmpleo;Excede;1.83;4.0;0.0;2/18/2019;0.0
+1408069882.0;0.0;1.0;5.0;3.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;01/28/91;F;8/19/2013;;N/A - still employed;Active;Production       ;12.0;Universidad;Acorde;3.99;3.0;0.0;1/14/2019;0.0
+1311062610.0;1.0;1.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;02/02/1980;M ;01/10/2011;;N/A - still employed;Active;Production       ;12.0;Anuncio;Acorde;3.38;3.0;0.0;1/21/2019;0.0
+1308060754.0;0.0;1.0;5.0;3.0;0.0;23.0;0.0;19.0;Production Technician I;Madrid;11/07/1974;F;11/11/2013;;N/A - still employed;Active;Production       ;12.0;FeriaEmpleo;Acorde;1.04;3.0;0.0;1/22/2019;0.0
+1403066020.0;0.0;1.0;5.0;4.0;1.0;15.0;0.0;19.0;Production Technician I;Madrid;06/03/1967;F;04/01/2013;;N/A - still employed;Active;Production       ;12.0;FeriaEmpleo;Excede;1.12;3.0;0.0;2/13/2019;0.0
+1305057440.0;1.0;5.0;5.0;3.0;0.0;18.0;1.0;19.0;Production Technician I;Madrid;03/06/1988;M ;07/05/2011;11/30/12;more money;Voluntarily Terminated;Production       ;12.0;infojobs;Acorde;5.0;3.0;0.0;;
+1011022887.0;1.0;1.0;5.0;4.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;01/28/85;M ;07/08/2013;;N/A - still employed;Active;Production       ;12.0;Ref_empleado;Excede;3.02;5.0;0.0;02/11/2019;0.0
+1410071137.0;0.0;1.0;5.0;1.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;07/20/68;F;2/20/2012;;N/A - still employed;Active;Production       ;12.0;Anuncio;Bajo;4.11;2.0;0.0;2/25/2019;0.0
+1409070255.0;0.0;1.0;5.0;3.0;0.0;24.0;0.0;19.0;Production Technician I;Madrid;06/05/1967;F;2/18/2013;;N/A - still employed;Active;Production       ;12.0;Anuncio;Acorde;4.21;5.0;0.0;1/14/2019;0.0
+1001268402.0;0.0;5.0;5.0;1.0;0.0;22.0;1.0;19.0;Production Technician I;Madrid;05/04/1982;F;09/02/2008;09/29/15;Another position;Voluntarily Terminated;Production       ;12.0;infojobs;Bajo;4.29;2.0;0.0;;
+1307060083.0;0.0;5.0;5.0;3.0;1.0;17.0;1.0;19.0;Production Technician I;Madrid;01/12/1974;F;01/10/2011;01/12/2011;Another position;Voluntarily Terminated;Production       ;14.0;FeriaEmpleo;Acorde;1.79;4.0;0.0;;
+1406068293.0;0.0;5.0;5.0;3.0;0.0;20.0;1.0;19.0;Production Technician I;Madrid;08/24/90;F;04/02/2012;06/15/13;Another position;Voluntarily Terminated;Production       ;14.0;infojobs;Acorde;3.35;4.0;0.0;;
+1599991009.0;1.0;1.0;5.0;3.0;0.0;15.0;0.0;19.0;Production Technician I;Madrid;09/08/1977;M ;07/08/2013;;N/A - still employed;Active;Production       ;14.0;Ref_empleado;Acorde;1.51;5.0;0.0;1/14/2019;0.0
+1202031618.0;0.0;1.0;5.0;3.0;0.0;16.75;0.0;19.0;Production Technician I;Madrid;10/07/1986;F;04/02/2012;;N/A - still employed;Active;Production       ;14.0;infojobs;Acorde;2.79;5.0;0.0;2/19/2019;0.0
+1309061015.0;1.0;1.0;5.0;3.0;0.0;19.0;0.0;19.0;Production Technician I;Madrid;09/15/85;M ;3/30/2015;;N/A - still employed;Active;Production       ;14.0;Ref_empleado;Acorde;4.5;3.0;0.0;2/18/2019;0.0
+1106026579.0;1.0;1.0;5.0;3.0;0.0;15.0;0.0;19.0;Production Technician I;Madrid;05/21/79;M ;07/02/2012;;N/A - still employed;Active;Production       ;14.0;Universidad;Acorde;5.0;3.0;0.0;1/14/2019;0.0
+1201031438.0;0.0;1.0;5.0;3.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;09/11/1972;F;11/05/2012;;N/A - still employed;Active;Production       ;14.0;periodico;Acorde;2.32;3.0;0.0;1/17/2019;0.0
+1304055987.0;1.0;1.0;5.0;3.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;12/09/1986;M ;07/09/2012;;N/A - still employed;Active;Production       ;14.0;periodico;Acorde;5.0;5.0;0.0;02/04/2019;0.0
+1401064327.0;0.0;1.0;5.0;3.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;11/22/77;F;5/31/2011;;N/A - still employed;Active;Production       ;14.0;Otro;Acorde;5.0;4.0;0.0;01/10/2019;0.0
+1203032357.0;0.0;1.0;5.0;3.0;0.0;19.0;0.0;19.0;Production Technician I;Madrid;07/07/1984;F;07/08/2013;;N/A - still employed;Active;Production       ;14.0;EquipoRRHH;Acorde;2.79;5.0;0.0;01/02/2019;0.0
+1001735072.0;1.0;1.0;5.0;3.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;11/23/81;M ;11/05/2007;;N/A - still employed;Active;Production       ;14.0;infojobs;Acorde;3.66;3.0;0.0;2/25/2019;0.0
+710007555.0;0.0;1.0;5.0;3.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;12/05/1974;F;01/06/2014;;N/A - still employed;Active;Production       ;14.0;SitioWeb;Acorde;5.0;4.0;0.0;1/31/2019;0.0
+1405067138.0;0.0;5.0;5.0;4.0;0.0;21.0;1.0;19.0;Production Technician I;Madrid;03/26/73;F;5/13/2013;06/29/15;unhappy;Voluntarily Terminated;Production       ;14.0;Universidad;Excede;1.97;4.0;0.0;;
+1012023152.0;0.0;1.0;5.0;2.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;05/16/83;F;2/17/2014;;N/A - still employed;Active;Production       ;14.0;Universidad;NecesitaMejorar;2.44;5.0;0.0;02/11/2019;0.0
+1211051232.0;0.0;1.0;5.0;3.0;0.0;15.0;0.0;19.0;Production Technician I;Madrid;08/17/78;F;9/29/2014;;N/A - still employed;Active;Production       ;14.0;FeriaEmpleo;Acorde;1.24;5.0;0.0;1/30/2019;0.0
+1011022883.0;0.0;1.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;09/27/88;F;01/07/2008;;N/A - still employed;Active;Production       ;16.0;Anuncio;Acorde;4.84;5.0;0.0;01/03/2019;0.0
+1403066194.0;0.0;1.0;5.0;3.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;10/27/70;F;04/04/2011;;N/A - still employed;Active;Production       ;16.0;infojobs;Acorde;5.0;5.0;0.0;1/14/2019;0.0
+1305057282.0;0.0;1.0;5.0;3.0;0.0;19.5;0.0;19.0;Production Technician I;Madrid;02/12/1979;F;05/12/2014;;N/A - still employed;Active;Production       ;16.0;Linkedin;Acorde;2.73;4.0;0.0;2/19/2019;0.0
+1001109612.0;0.0;1.0;5.0;3.0;0.0;15.0;0.0;19.0;Production Technician I;Madrid;11/05/1978;F;07/02/2012;;N/A - still employed;Active;Production       ;16.0;Anuncio;Acorde;5.0;3.0;0.0;2/25/2019;0.0
+1107027392.0;0.0;4.0;5.0;2.0;0.0;18.0;1.0;19.0;Production Technician I;Madrid;05/06/1989;F;2/17/2014;02/25/14;no-call, no-show;Terminated for Cause;Production       ;16.0;FeriaEmpleo;NecesitaMejorar;1.04;3.0;0.0;;
+1308060622.0;0.0;5.0;5.0;3.0;1.0;22.0;1.0;19.0;Production Technician I;Madrid;05/15/70;F;11/07/2011;11/15/11;hours;Voluntarily Terminated;Production       ;16.0;FeriaEmpleo;Acorde;4.24;4.0;0.0;;
+1406068241.0;1.0;1.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;09/02/1982;M ;5/14/2012;;N/A - still employed;Active;Production       ;16.0;infojobs;Acorde;1.83;3.0;0.0;2/22/2019;0.0
+1107027450.0;0.0;5.0;5.0;3.0;0.0;21.0;1.0;19.0;Production Technician I;Madrid;04/17/86;F;01/10/2011;04/01/2016;unhappy;Voluntarily Terminated;Production       ;16.0;infojobs;Acorde;4.0;4.0;0.0;;
+1101023353.0;0.0;3.0;5.0;3.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;10/22/75;F;2/16/2015;;N/A - still employed;Leave of Absence;Production       ;16.0;SitioWeb;Acorde;5.0;3.0;0.0;1/23/2019;0.0
+1102024121.0;0.0;1.0;5.0;3.0;0.0;15.0;0.0;19.0;Production Technician I;Madrid;07/07/1984;F;04/01/2013;;N/A - still employed;Active;Production       ;16.0;Universidad;Acorde;1.76;4.0;0.0;1/17/2019;0.0
+1109029531.0;0.0;5.0;5.0;3.0;0.0;18.0;1.0;19.0;Production Technician I;Madrid;05/01/1979;F;02/07/2011;01/12/2014;Another position;Voluntarily Terminated;Production       ;16.0;Linkedin;Acorde;3.89;4.0;0.0;;
+1211050793.0;1.0;5.0;5.0;3.0;0.0;20.0;1.0;19.0;Production Technician I;Madrid;07/22/82;M ;5/16/2011;01/15/16;retiring;Voluntarily Terminated;Production       ;16.0;Universidad;Acorde;5.0;4.0;0.0;;
+1302053362.0;0.0;1.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;07/10/1988;F;9/29/2014;;N/A - still employed;Active;Production       ;16.0;FeriaEmpleo;Acorde;3.51;3.0;0.0;2/18/2019;0.0
+1407069061.0;0.0;1.0;5.0;3.0;0.0;14.0;0.0;19.0;Production Technician I;Madrid;08/15/68;F;5/14/2012;;N/A - still employed;Active;Production       ;16.0;jobandtalent;Acorde;2.77;5.0;0.0;1/31/2019;0.0
+1101023619.0;0.0;5.0;5.0;2.0;0.0;15.0;1.0;19.0;Production Technician I;Madrid;08/02/1980;F;8/13/2012;09/01/2015;career change;Voluntarily Terminated;Production       ;16.0;infojobs;NecesitaMejorar;1.27;3.0;0.0;;
+1101023679.0;1.0;1.0;5.0;3.0;0.0;16.76;0.0;19.0;Production Technician I;Madrid;07/20/83;M ;2/20/2012;;N/A - still employed;Active;Production       ;18.0;Linkedin;Acorde;1.41;4.0;0.0;2/14/2019;0.0
+1311063114.0;1.0;1.0;5.0;3.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;02/02/1983;M ;3/31/2014;;N/A - still employed;Active;Production       ;18.0;Universidad;Acorde;4.43;3.0;0.0;02/01/2019;0.0
+1403066069.0;0.0;1.0;5.0;3.0;0.0;15.75;0.0;19.0;Production Technician I;Madrid;03/31/77;F;01/05/2015;;N/A - still employed;Active;Production       ;18.0;Anuncio;Acorde;4.73;5.0;0.0;2/14/2019;0.0
+1007020403.0;1.0;1.0;5.0;3.0;0.0;21.25;0.0;19.0;Production Technician I;Madrid;05/31/74;M ;11/10/2014;;N/A - still employed;Active;Production       ;18.0;Universidad;Acorde;1.86;5.0;0.0;2/13/2019;0.0
+1101023612.0;1.0;1.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;08/25/78;M ;3/31/2014;;N/A - still employed;Active;Production       ;18.0;Ref_empleado;Acorde;2.05;3.0;0.0;01/11/2019;0.0
+1105026041.0;0.0;1.0;5.0;3.0;0.0;24.0;0.0;19.0;Production Technician I;Madrid;12/02/1983;F;5/16/2011;;N/A - still employed;Active;Production       ;18.0;Universidad;Acorde;1.66;4.0;0.0;2/26/2019;0.0
+1103024859.0;0.0;5.0;5.0;3.0;0.0;14.0;1.0;19.0;Production Technician I;Madrid;05/21/83;F;2/21/2011;01/11/2014;more money;Voluntarily Terminated;Production       ;18.0;infojobs;Acorde;5.0;5.0;0.0;;
+1412071713.0;0.0;1.0;5.0;3.0;0.0;19.0;0.0;19.0;Production Technician I;Madrid;04/13/64;F;01/06/2014;;N/A - still employed;Active;Production       ;18.0;FeriaEmpleo;Acorde;5.0;5.0;0.0;1/21/2019;0.0
+1107027575.0;1.0;4.0;5.0;3.0;0.0;15.0;1.0;19.0;Production Technician I;Madrid;10/18/81;M ;2/21/2011;08/04/2011;attendance;Terminated for Cause;Production       ;18.0;Linkedin;Acorde;5.0;4.0;0.0;;
+1409070245.0;0.0;5.0;5.0;3.0;1.0;14.0;1.0;19.0;Production Technician I;Madrid;05/30/68;F;04/02/2012;11/11/2015;Another position;Voluntarily Terminated;Production       ;18.0;FeriaEmpleo;Acorde;4.18;4.0;0.0;;
+1404066949.0;1.0;1.0;5.0;4.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;12/11/1976;M ;9/30/2013;;N/A - still employed;Active;Production       ;18.0;FeriaEmpleo;Excede;2.86;3.0;0.0;02/07/2019;0.0
+1401064562.0;1.0;1.0;5.0;3.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;06/19/61;M ;01/06/2014;;N/A - still employed;Active;Production       ;18.0;Ref_empleado;Acorde;2.45;3.0;0.0;01/07/2019;0.0
+1410070998.0;0.0;2.0;5.0;2.0;1.0;20.0;0.0;19.0;Production Technician I;Madrid;06/06/1968;F;07/04/2016;;N/A - Has not started yet;Future Start;Production       ;18.0;FeriaEmpleo;NecesitaMejorar;1.12;4.0;0.0;2/18/2019;0.0
+1106026896.0;1.0;1.0;5.0;3.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;03/14/85;M ;2/17/2014;;N/A - still employed;Active;Production       ;18.0;FeriaEmpleo;Acorde;1.39;3.0;0.0;01/11/2019;0.0
+1011022814.0;0.0;4.0;5.0;4.0;0.0;21.0;1.0;19.0;Production Technician I;Madrid;06/03/1986;F;9/26/2011;02/08/2016;gross misconduct;Terminated for Cause;Production       ;18.0;Linkedin;Excede;2.79;5.0;0.0;;
+1301052124.0;1.0;1.0;5.0;3.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;02/18/83;M ;9/30/2013;;N/A - still employed;Active;Production       ;19.0;Ref_empleado;Acorde;5.0;4.0;0.0;2/25/2019;0.0
+1412071844.0;0.0;1.0;5.0;3.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;12/27/58;F;8/19/2013;;N/A - still employed;Active;Production       ;19.0;Anuncio;Acorde;2.39;3.0;0.0;01/10/2019;0.0
+1012023295.0;0.0;1.0;5.0;3.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;05/31/88;F;10/03/2011;;N/A - still employed;Active;Production       ;19.0;Anuncio;Acorde;3.58;5.0;0.0;1/30/2019;0.0
+706006285.0;1.0;1.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;11/15/82;M ;05/12/2014;;N/A - still employed;Active;Production       ;19.0;Anuncio;Acorde;1.13;4.0;0.0;2/19/2019;0.0
+803009012.0;0.0;1.0;5.0;3.0;0.0;23.0;0.0;19.0;Production Technician I;Madrid;06/10/1986;F;2/20/2012;;N/A - still employed;Active;Production       ;19.0;periodico;Acorde;1.85;4.0;0.0;01/07/2019;0.0
+1408069539.0;0.0;1.0;5.0;3.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;06/18/92;F;11/11/2013;;N/A - still employed;Active;Production       ;19.0;jobandtalent;Acorde;1.94;5.0;0.0;2/18/2019;0.0
+1002017900.0;1.0;1.0;5.0;3.0;0.0;19.0;0.0;19.0;Production Technician I;Madrid;01/04/1984;M ;8/13/2012;;N/A - still employed;Active;Production       ;19.0;Linkedin;Acorde;4.17;4.0;0.0;02/11/2019;0.0
+1304055683.0;1.0;1.0;5.0;3.0;0.0;14.0;0.0;19.0;Production Technician I;Madrid;11/10/1977;M ;2/17/2014;;N/A - still employed;Active;Production       ;19.0;FeriaEmpleo;Acorde;2.79;3.0;0.0;02/06/2019;0.0
+1209049259.0;0.0;1.0;5.0;3.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;07/07/1986;F;01/06/2014;;N/A - still employed;Active;Production       ;19.0;periodico;Acorde;2.55;4.0;0.0;2/26/2019;0.0
+1302053044.0;1.0;3.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;04/08/1977;M ;05/12/2014;;N/A - still employed;Leave of Absence;Production       ;19.0;FeriaEmpleo;Acorde;5.0;5.0;0.0;2/18/2019;0.0
+1307059944.0;0.0;1.0;5.0;3.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;09/23/73;F;4/26/2010;;N/A - still employed;Active;Production       ;19.0;infojobs;Acorde;2.72;3.0;0.0;1/21/2019;0.0
+1403065625.0;0.0;4.0;5.0;2.0;0.0;16.0;1.0;19.0;Production Technician I;Madrid;01/07/1985;F;01/10/2011;05/17/16;attendance;Terminated for Cause;Production       ;19.0;jobandtalent;NecesitaMejorar;3.6;3.0;0.0;;
+1501071909.0;0.0;1.0;5.0;3.0;0.0;24.5;0.0;19.0;Production Technician I;Madrid;02/02/1965;F;11/11/2013;;N/A - still employed;Active;Production       ;19.0;Ref_empleado;Acorde;3.73;3.0;0.0;1/24/2019;0.0
+1103024504.0;0.0;5.0;5.0;3.0;0.0;20.0;1.0;19.0;Production Technician I;Madrid;07/30/83;F;01/10/2011;05/14/11;Another position;Voluntarily Terminated;Production       ;19.0;Linkedin;Acorde;2.81;5.0;0.0;;
+1308060671.0;0.0;5.0;5.0;3.0;1.0;16.0;1.0;19.0;Production Technician I;Madrid;10/02/1969;F;01/09/2012;06/27/15;relocation out of area;Voluntarily Terminated;Production       ;19.0;FeriaEmpleo;Acorde;1.44;4.0;0.0;;
+1312063507.0;1.0;5.0;5.0;3.0;1.0;22.0;1.0;19.0;Production Technician I;Madrid;02/21/74;M ;04/02/2012;09/19/12;unhappy;Voluntarily Terminated;Production       ;20.0;FeriaEmpleo;Acorde;1.98;3.0;0.0;;
+1408069635.0;0.0;3.0;5.0;3.0;1.0;20.0;0.0;19.0;Production Technician I;Madrid;10/30/69;F;11/11/2013;;N/A - still employed;Leave of Absence;Production       ;20.0;FeriaEmpleo;Acorde;2.83;5.0;0.0;1/21/2019;0.0
+1001450968.0;1.0;4.0;5.0;2.0;0.0;15.0;1.0;19.0;Production Technician I;Madrid;08/12/1979;M ;07/11/2011;09/23/12;performance;Terminated for Cause;Production       ;20.0;Universidad;NecesitaMejorar;1.42;3.0;0.0;;
+1406067865.0;0.0;5.0;5.0;3.0;0.0;17.0;1.0;19.0;Production Technician I;Madrid;09/05/1991;F;04/04/2011;06/06/2013;military;Voluntarily Terminated;Production       ;20.0;infojobs;Acorde;5.0;3.0;0.0;;
+1104025414.0;1.0;1.0;5.0;3.0;0.0;18.0;0.0;19.0;Production Technician I;Madrid;04/18/80;M ;07/08/2013;;N/A - still employed;Active;Production       ;20.0;Universidad;Acorde;2.61;4.0;0.0;1/22/2019;0.0
+1312063675.0;0.0;3.0;5.0;3.0;0.0;24.0;0.0;19.0;Production Technician I;Madrid;10/09/1974;F;8/19/2013;;N/A - still employed;Leave of Absence;Production       ;20.0;FeriaEmpleo;Acorde;1.71;5.0;0.0;2/15/2019;0.0
+1503072857.0;0.0;1.0;5.0;3.0;0.0;21.0;0.0;19.0;Production Technician I;Madrid;03/22/66;F;9/30/2013;;N/A - still employed;Active;Production       ;20.0;Ref_empleado;Acorde;2.05;5.0;0.0;2/22/2019;0.0
+1408069409.0;0.0;5.0;5.0;3.0;0.0;19.0;1.0;19.0;Production Technician I;Madrid;01/17/79;F;9/26/2011;08/19/13;return to school;Voluntarily Terminated;Production       ;20.0;infojobs;Acorde;4.88;3.0;0.0;;
+909015167.0;0.0;1.0;5.0;3.0;0.0;24.0;0.0;19.0;Production Technician I;Madrid;01/07/1987;F;01/07/2013;;N/A - still employed;Active;Production       ;20.0;infojobs;Acorde;3.93;3.0;0.0;1/30/2019;0.0
+1206044851.0;0.0;4.0;5.0;1.0;0.0;18.5;1.0;19.0;Production Technician I;Madrid;09/30/80;F;3/31/2014;05/01/2016;performance;Terminated for Cause;Production       ;20.0;Universidad;Bajo;3.09;2.0;0.0;;
+1102024274.0;0.0;5.0;5.0;3.0;0.0;19.0;1.0;19.0;Production Technician I;Madrid;10/15/84;F;5/16/2011;06/04/2011;Another position;Voluntarily Terminated;Production       ;20.0;Linkedin;Acorde;3.17;4.0;0.0;;
+1011022926.0;0.0;5.0;5.0;3.0;0.0;16.0;1.0;19.0;Production Technician I;Madrid;09/22/70;F;9/24/2012;06/18/13;unhappy;Voluntarily Terminated;Production       ;20.0;Anuncio;Acorde;1.5;5.0;0.0;;
+1405067492.0;1.0;5.0;5.0;3.0;0.0;18.0;1.0;19.0;Production Technician I;Madrid;03/18/87;M ;04/04/2011;08/13/12;Another position;Voluntarily Terminated;Production       ;20.0;infojobs;Acorde;5.0;5.0;0.0;;
+1111030244.0;0.0;1.0;5.0;3.0;0.0;14.0;0.0;19.0;Production Technician I;Madrid;08/25/82;F;01/10/2011;;N/A - still employed;Active;Production       ;20.0;FeriaEmpleo;Acorde;1.05;4.0;0.0;02/07/2019;0.0
+1203032235.0;1.0;5.0;5.0;4.0;0.0;19.0;1.0;19.0;Production Technician I;Madrid;01/31/87;M ;8/13/2012;02/05/2016;maternity leave - did not return;Voluntarily Terminated;Production       ;20.0;FeriaEmpleo;Excede;3.84;5.0;0.0;;
+1409070522.0;1.0;1.0;5.0;4.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;07/10/1983;M ;07/05/2011;;N/A - still employed;Active;Production       ;22.0;Universidad;Excede;2.51;5.0;0.0;1/17/2019;0.0
+1212051962.0;1.0;5.0;5.0;3.0;0.0;18.0;1.0;19.0;Production Technician I;Madrid;07/15/77;M ;9/24/2012;04/06/2013;Another position;Voluntarily Terminated;Production       ;22.0;SitioWeb;Acorde;5.0;5.0;0.0;;
+1208048062.0;0.0;1.0;5.0;3.0;0.0;16.0;0.0;19.0;Production Technician I;Madrid;01/02/1951;F;9/29/2014;;N/A - still employed;Active;Production       ;22.0;infojobs;Acorde;5.0;4.0;0.0;02/12/2019;0.0
+1311063172.0;0.0;2.0;5.0;3.0;0.0;19.75;0.0;19.0;Production Technician I;Madrid;04/10/1987;F;07/06/2016;;N/A - Has not started yet;Future Start;Production       ;22.0;periodico;Acorde;4.12;5.0;0.0;1/28/2019;0.0
+1104025243.0;1.0;4.0;5.0;2.0;0.0;17.0;1.0;19.0;Production Technician I;Madrid;09/02/1983;M ;04/02/2012;09/27/14;attendance;Terminated for Cause;Production       ;22.0;FeriaEmpleo;NecesitaMejorar;5.0;4.0;0.0;;
+1501072192.0;0.0;1.0;5.0;3.0;0.0;19.0;0.0;19.0;Production Technician I;Madrid;10/01/1990;F;3/30/2015;;N/A - still employed;Active;Production       ;22.0;Universidad;Acorde;3.73;3.0;0.0;1/16/2019;0.0
+1405067064.0;0.0;1.0;5.0;3.0;0.0;24.0;0.0;19.0;Production Technician I;Madrid;03/23/77;F;11/28/2011;;N/A - still employed;Active;Production       ;22.0;FeriaEmpleo;Acorde;4.2;4.0;0.0;2/22/2019;0.0
+1105025721.0;1.0;5.0;5.0;4.0;0.0;17.0;1.0;19.0;Production Technician I;Madrid;08/19/59;M ;11/07/2011;04/29/16;more money;Voluntarily Terminated;Production       ;22.0;infojobs;Excede;1.65;4.0;0.0;;
+1301052462.0;1.0;1.0;5.0;3.0;0.0;19.0;0.0;19.0;Production Technician I;Madrid;01/19/76;M ;9/30/2013;;N/A - still employed;Active;Production       ;22.0;Anuncio;Acorde;3.07;4.0;0.0;1/23/2019;0.0
+1206042315.0;0.0;5.0;5.0;3.0;0.0;15.25;1.0;19.0;Production Technician I;Madrid;03/26/81;F;07/05/2011;09/26/11;unhappy;Voluntarily Terminated;Production       ;22.0;Linkedin;Acorde;3.18;4.0;0.0;;
+1109029256.0;0.0;1.0;5.0;3.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;09/22/76;F;3/30/2015;;N/A - still employed;Active;Production       ;22.0;infojobs;Acorde;5.0;4.0;0.0;1/21/2019;0.0
+1103024335.0;1.0;1.0;5.0;2.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;11/24/79;M ;2/17/2014;;N/A - still employed;Active;Production       ;22.0;Universidad;NecesitaMejorar;4.25;3.0;0.0;02/04/2019;0.0
+1208048229.0;1.0;5.0;5.0;3.0;0.0;21.0;1.0;19.0;Production Technician I;Madrid;12/31/84;M ;9/26/2011;04/07/2012;more money;Voluntarily Terminated;Production       ;22.0;Anuncio;Acorde;3.8;5.0;0.0;;
+1308060535.0;1.0;5.0;5.0;3.0;0.0;21.0;1.0;19.0;Production Technician I;Madrid;12/21/74;M ;01/05/2009;07/30/10;relocation out of area;Voluntarily Terminated;Production       ;22.0;FeriaEmpleo;Acorde;1.53;5.0;0.0;;
+1201031310.0;1.0;1.0;5.0;3.0;0.0;19.0;0.0;19.0;Production Technician I;Madrid;10/07/1982;M ;01/05/2015;;N/A - still employed;Active;Production       ;22.0;FeriaEmpleo;Acorde;4.36;5.0;0.0;1/24/2019;0.0
+1106026474.0;0.0;2.0;5.0;3.0;0.0;20.0;0.0;19.0;Production Technician I;Madrid;04/06/1985;F;07/05/2015;;N/A - Has not started yet;Future Start;Production       ;22.0;periodico;Acorde;3.21;3.0;0.0;1/29/2019;0.0
+1001417624.0;0.0;5.0;5.0;3.0;0.0;16.0;1.0;19.0;Production Technician I;Madrid;09/08/1989;F;07/11/2011;09/06/2011;return to school;Voluntarily Terminated;Production       ;39.0;FeriaEmpleo;Acorde;5.0;4.0;0.0;;
+1110029777.0;1.0;3.0;5.0;3.0;0.0;17.0;0.0;19.0;Production Technician I;Madrid;04/06/1979;M ;07/08/2013;;N/A - still employed;Leave of Absence;Production       ;;Universidad;Acorde;1.09;4.0;0.0;01/11/2019;0.0
+1111030129.0;1.0;1.0;5.0;3.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;08/24/83;M ;07/08/2013;;N/A - still employed;Active;Production       ;;periodico;Acorde;3.8;5.0;0.0;1/14/2019;0.0
+1306058816.0;1.0;5.0;5.0;3.0;0.0;23.5;1.0;19.0;Production Technician I;Madrid;10/31/77;M ;5/16/2011;06/08/2015;unhappy;Voluntarily Terminated;Production       ;39.0;Anuncio;Acorde;5.0;4.0;0.0;;
+1502072511.0;0.0;5.0;5.0;3.0;0.0;20.0;1.0;19.0;Production Technician I;Madrid;04/14/55;F;11/07/2011;05/17/14;military;Voluntarily Terminated;Production       ;39.0;infojobs;Acorde;3.13;3.0;0.0;;
+1008020960.0;1.0;5.0;5.0;2.0;1.0;15.0;1.0;19.0;Production Technician I;Madrid;08/09/1974;M ;04/02/2012;06/25/15;military;Voluntarily Terminated;Production       ;39.0;FeriaEmpleo;NecesitaMejorar;3.97;4.0;0.0;;
+1110029602.0;0.0;5.0;5.0;3.0;0.0;19.75;1.0;19.0;Production Technician I;Madrid;08/18/52;F;01/09/2012;12/15/15;retiring;Voluntarily Terminated;Production       ;39.0;infojobs;Acorde;4.64;4.0;0.0;;
+710007401.0;0.0;5.0;5.0;3.0;0.0;22.0;1.0;19.0;Production Technician I;Madrid;12/08/1973;F;9/26/2011;06/04/2015;more money;Voluntarily Terminated;Production       ;39.0;infojobs;Acorde;3.6;5.0;0.0;;
+1001138521.0;0.0;5.0;5.0;4.0;1.0;19.0;1.0;19.0;Production Technician I;Madrid;02/14/73;F;11/07/2011;11/14/15;Another position;Voluntarily Terminated;Production       ;39.0;FeriaEmpleo;Excede;5.0;4.0;0.0;;
+1204033041.0;1.0;5.0;5.0;3.0;1.0;18.0;1.0;19.0;Production Technician I;Madrid;05/02/1989;M ;9/26/2011;04/04/2014;return to school;Voluntarily Terminated;Production       ;39.0;FeriaEmpleo;Acorde;2.61;3.0;0.0;;
+1307060058.0;1.0;5.0;5.0;2.0;0.0;24.0;1.0;19.0;Production Technician I;Madrid;03/17/88;M ;01/10/2011;12/28/12;career change;Voluntarily Terminated;Production       ;39.0;infojobs;NecesitaMejorar;3.54;5.0;0.0;;
+1405067642.0;0.0;1.0;5.0;4.0;0.0;22.0;0.0;19.0;Production Technician I;Madrid;01/12/1973;F;11/28/2011;;N/A - still employed;Active;Production       ;;infojobs;Excede;4.36;5.0;0.0;02/11/2019;0.0
+807010161.0;0.0;3.0;5.0;3.0;0.0;15.2;0.0;19.0;Production Technician I;Madrid;03/10/1975;F;9/30/2013;;N/A - still employed;Leave of Absence;Production       ;;infojobs;Acorde;5.0;5.0;0.0;2/21/2019;0.0
+1405067501.0;0.0;5.0;5.0;3.0;1.0;15.0;1.0;19.0;Production Technician I;Madrid;04/03/1975;F;4/27/2009;04/01/2013;Another position;Voluntarily Terminated;Production       ;39.0;FeriaEmpleo;Acorde;2.52;5.0;0.0;;
+1307060212.0;1.0;5.0;5.0;3.0;0.0;23.0;1.0;19.0;Production Technician I;Madrid;05/24/87;M ;01/10/2011;05/15/11;hours;Voluntarily Terminated;Production       ;39.0;periodico;Acorde;5.0;5.0;0.0;;
+1011022820.0;0.0;1.0;5.0;3.0;0.0;25.0;0.0;20.0;Production Technician II;Madrid;03/02/1980;F;03/05/2012;;N/A - still employed;Active;Production       ;11.0;Ref_empleado;Acorde;4.51;4.0;0.0;2/21/2019;0.0
+1109029103.0;1.0;5.0;5.0;3.0;0.0;29.0;1.0;20.0;Production Technician II;Madrid;10/01/1981;M ;5/16/2011;06/24/13;hours;Voluntarily Terminated;Production       ;11.0;Linkedin;Acorde;4.76;5.0;0.0;;
+1306058509.0;0.0;5.0;5.0;3.0;0.0;23.0;1.0;20.0;Production Technician II;Madrid;09/22/76;F;2/21/2011;04/01/2013;unhappy;Voluntarily Terminated;Production       ;11.0;infojobs;Acorde;3.72;3.0;0.0;;
+1304055986.0;0.0;5.0;5.0;3.0;0.0;23.0;1.0;20.0;Production Technician II;Madrid;12/10/1986;F;07/05/2011;08/19/11;Another position;Voluntarily Terminated;Production       ;11.0;periodico;Acorde;5.0;4.0;0.0;;
+1202031821.0;0.0;5.0;5.0;2.0;0.0;28.0;1.0;20.0;Production Technician II;Madrid;07/18/89;F;07/05/2011;09/15/11;unhappy;Voluntarily Terminated;Production       ;11.0;infojobs;NecesitaMejorar;1.03;5.0;0.0;;
+1107027551.0;0.0;5.0;5.0;3.0;0.0;22.0;1.0;20.0;Production Technician II;Madrid;03/15/85;F;01/10/2011;07/02/2012;unhappy;Voluntarily Terminated;Production       ;11.0;EquipoRRHH;Acorde;1.3;3.0;0.0;;
+1012023226.0;0.0;5.0;5.0;3.0;0.0;25.0;1.0;20.0;Production Technician II;Madrid;08/31/81;F;5/16/2011;01/07/2013;unhappy;Voluntarily Terminated;Production       ;12.0;FeriaEmpleo;Acorde;1.16;5.0;0.0;;
+1411071324.0;1.0;5.0;5.0;1.0;1.0;29.0;1.0;20.0;Production Technician II;Madrid;10/12/1964;M ;4/26/2010;05/30/11;career change;Voluntarily Terminated;Production       ;12.0;FeriaEmpleo;Bajo;4.35;3.0;0.0;;
+1306057810.0;0.0;1.0;5.0;4.0;0.0;25.0;0.0;20.0;Production Technician II;Madrid;09/08/1969;F;07/07/2014;;N/A - still employed;Active;Production       ;12.0;Universidad;Excede;1.51;3.0;0.0;01/11/2019;0.0
+1205033439.0;1.0;5.0;5.0;1.0;0.0;25.0;1.0;20.0;Production Technician II;Madrid;06/29/85;M ;8/15/2011;09/04/2014;unhappy;Voluntarily Terminated;Production       ;12.0;Universidad;Bajo;5.0;2.0;0.0;;
+1103024843.0;0.0;1.0;5.0;3.0;0.0;26.0;0.0;20.0;Production Technician II;Madrid;03/10/1979;F;04/02/2012;;N/A - still employed;Active;Production       ;12.0;Universidad;Acorde;2.61;3.0;0.0;1/14/2019;0.0
+1405067188.0;1.0;5.0;5.0;4.0;0.0;29.0;1.0;20.0;Production Technician II;Madrid;11/07/1958;M ;01/07/2013;02/21/16;retiring;Voluntarily Terminated;Production       ;12.0;Universidad;Excede;1.67;3.0;0.0;;
+1209048697.0;1.0;5.0;5.0;3.0;0.0;26.0;1.0;20.0;Production Technician II;Madrid;11/25/78;M ;8/30/2010;09/26/11;career change;Voluntarily Terminated;Production       ;14.0;Otro;Acorde;1.3;4.0;0.0;;
+1001549006.0;0.0;3.0;5.0;3.0;0.0;24.25;0.0;20.0;Production Technician II;Madrid;05/25/86;F;05/12/2014;;N/A - still employed;Leave of Absence;Production       ;14.0;Universidad;Acorde;2.04;3.0;0.0;02/07/2019;0.0
+1010022030.0;0.0;5.0;5.0;3.0;0.0;22.0;1.0;20.0;Production Technician II;Madrid;07/25/79;F;01/07/2013;03/31/14;Another position;Voluntarily Terminated;Production       ;14.0;jobandtalent;Acorde;4.52;3.0;0.0;;
+1404066711.0;1.0;1.0;5.0;3.0;0.0;27.0;0.0;20.0;Production Technician II;Madrid;08/17/92;M ;11/07/2011;;N/A - still employed;Active;Production       ;14.0;Universidad;Acorde;2.67;3.0;0.0;01/08/2019;0.0
+1402065340.0;0.0;5.0;5.0;3.0;0.0;26.0;1.0;20.0;Production Technician II;Madrid;09/05/1981;F;9/26/2011;10/22/11;return to school;Voluntarily Terminated;Production       ;14.0;infojobs;Acorde;2.19;4.0;0.0;;
+1205033180.0;0.0;1.0;5.0;3.0;0.0;22.0;0.0;20.0;Production Technician II;Madrid;04/20/85;F;9/29/2014;;N/A - still employed;Active;Production       ;14.0;periodico;Acorde;3.4;4.0;0.0;2/21/2019;0.0
+1008021030.0;0.0;5.0;5.0;3.0;0.0;26.0;1.0;20.0;Production Technician II;Madrid;01/16/67;F;01/10/2011;04/04/2014;career change;Voluntarily Terminated;Production       ;16.0;infojobs;Acorde;1.38;5.0;0.0;;
+1108028428.0;0.0;1.0;5.0;3.0;0.0;27.0;0.0;20.0;Production Technician II;Madrid;09/22/78;F;07/07/2014;;N/A - still employed;Active;Production       ;16.0;Universidad;Acorde;1.49;5.0;0.0;2/22/2019;0.0
+1106026433.0;0.0;2.0;5.0;3.0;0.0;25.0;0.0;20.0;Production Technician II;Madrid;03/11/1984;F;06/06/2016;;N/A - Has not started yet;Future Start;Production       ;16.0;EquipoRRHH;Acorde;2.92;5.0;0.0;1/18/2019;0.0
+1001504432.0;0.0;1.0;5.0;4.0;0.0;26.1;0.0;20.0;Production Technician II;Madrid;03/28/82;F;8/19/2013;;N/A - still employed;Active;Production       ;16.0;jobandtalent;Excede;1.64;4.0;0.0;02/12/2019;0.0
+1104025435.0;0.0;1.0;5.0;3.0;0.0;26.39;0.0;20.0;Production Technician II;Madrid;11/23/85;F;11/10/2014;;N/A - still employed;Active;Production       ;16.0;jobandtalent;Acorde;4.53;5.0;0.0;1/16/2019;0.0
+1001970770.0;1.0;1.0;5.0;4.0;0.0;22.0;0.0;20.0;Production Technician II;Madrid;10/30/63;M ;9/29/2014;;N/A - still employed;Active;Production       ;16.0;Anuncio;Excede;2.41;3.0;0.0;1/28/2019;0.0
+1406068345.0;0.0;5.0;5.0;3.0;0.0;28.75;1.0;20.0;Production Technician II;Madrid;05/24/53;F;5/16/2011;07/08/2012;Another position;Voluntarily Terminated;Production       ;16.0;infojobs;Acorde;3.93;3.0;0.0;;
+1303054329.0;0.0;2.0;5.0;4.0;0.0;27.0;0.0;20.0;Production Technician II;Madrid;04/17/66;F;7/21/2016;;N/A - Has not started yet;Future Start;Production       ;18.0;Ref_empleado;Excede;2.7;3.0;0.0;1/14/2019;0.0
+1104025179.0;0.0;5.0;5.0;3.0;0.0;29.0;1.0;20.0;Production Technician II;Madrid;02/25/51;F;04/04/2011;11/04/2015;more money;Voluntarily Terminated;Production       ;18.0;infojobs;Acorde;4.62;5.0;0.0;;
+1307059937.0;1.0;1.0;5.0;3.0;0.0;24.0;0.0;20.0;Production Technician II;Madrid;08/10/1988;M ;11/11/2013;;N/A - still employed;Active;Production       ;18.0;periodico;Acorde;5.0;3.0;0.0;01/08/2019;0.0
+1011022932.0;0.0;5.0;5.0;3.0;0.0;24.0;1.0;20.0;Production Technician II;Madrid;08/27/72;F;01/10/2011;02/18/13;hours;Voluntarily Terminated;Production       ;18.0;infojobs;Acorde;5.0;3.0;0.0;;
+1405067565.0;1.0;3.0;5.0;3.0;0.0;22.0;0.0;20.0;Production Technician II;Madrid;03/19/79;M ;07/08/2013;;N/A - still employed;Leave of Absence;Production       ;18.0;FeriaEmpleo;Acorde;4.0;3.0;0.0;2/18/2019;0.0
+1408069503.0;1.0;3.0;5.0;3.0;1.0;26.0;0.0;20.0;Production Technician II;Madrid;12/03/1976;M ;01/09/2012;;N/A - still employed;Leave of Absence;Production       ;18.0;FeriaEmpleo;Acorde;2.5;4.0;0.0;1/31/2019;0.0
+1106026462.0;1.0;1.0;5.0;3.0;0.0;29.0;0.0;20.0;Production Technician II;Madrid;04/26/86;M ;8/30/2010;;N/A - still employed;Active;Production       ;18.0;infojobs;Acorde;2.08;3.0;0.0;01/10/2019;0.0
+1301052449.0;1.0;1.0;5.0;3.0;0.0;26.0;0.0;20.0;Production Technician II;Madrid;08/19/77;M ;04/04/2011;;N/A - still employed;Active;Production       ;19.0;jobandtalent;Acorde;3.25;5.0;0.0;1/14/2019;0.0
+1012023204.0;0.0;5.0;5.0;3.0;0.0;24.0;1.0;20.0;Production Technician II;Madrid;11/08/1983;F;04/04/2011;01/09/2012;career change;Voluntarily Terminated;Production       ;19.0;FeriaEmpleo;Acorde;3.66;3.0;0.0;;
+1008020942.0;0.0;1.0;5.0;4.0;0.0;22.5;0.0;20.0;Production Technician II;Madrid;11/06/1986;F;07/05/2011;;N/A - still employed;Active;Production       ;19.0;Universidad;Excede;4.6;4.0;0.0;2/25/2019;0.0
+1406067957.0;0.0;1.0;5.0;3.0;0.0;26.0;0.0;20.0;Production Technician II;Madrid;05/21/87;F;3/30/2015;;N/A - still employed;Active;Production       ;19.0;periodico;Acorde;5.0;5.0;0.0;02/07/2019;0.0
+1411071406.0;0.0;5.0;5.0;4.0;0.0;29.0;1.0;20.0;Production Technician II;Madrid;08/17/86;F;5/16/2011;02/04/2012;more money;Voluntarily Terminated;Production       ;19.0;Anuncio;Excede;1.79;5.0;0.0;;
+1011022818.0;1.0;1.0;5.0;3.0;0.0;22.0;0.0;20.0;Production Technician II;Madrid;02/10/1976;M ;8/18/2014;;N/A - still employed;Active;Production       ;19.0;Ref_empleado;Acorde;3.11;5.0;0.0;02/12/2019;0.0
+1005019209.0;0.0;5.0;5.0;3.0;0.0;29.0;1.0;20.0;Production Technician II;Madrid;09/19/88;F;07/05/2011;09/24/12;hours;Voluntarily Terminated;Production       ;20.0;periodico;Acorde;3.02;3.0;0.0;;
+1201031274.0;1.0;1.0;5.0;3.0;0.0;25.0;0.0;20.0;Production Technician II;Madrid;09/14/79;M ;11/07/2011;;N/A - still employed;Active;Production       ;20.0;periodico;Acorde;3.96;4.0;0.0;2/27/2019;0.0
+1108028351.0;0.0;3.0;5.0;3.0;0.0;27.0;0.0;20.0;Production Technician II;Madrid;12/08/1983;F;9/30/2013;;N/A - still employed;Leave of Absence;Production       ;20.0;FeriaEmpleo;Acorde;2.57;5.0;0.0;2/21/2019;0.0
+1104025486.0;1.0;5.0;5.0;3.0;0.0;28.0;1.0;20.0;Production Technician II;Madrid;05/09/1984;M ;04/02/2012;04/15/13;more money;Voluntarily Terminated;Production       ;20.0;FeriaEmpleo;Acorde;1.84;3.0;0.0;;
+1001103149.0;0.0;1.0;5.0;4.0;0.0;25.0;0.0;20.0;Production Technician II;Madrid;04/24/70;F;5/13/2013;;N/A - still employed;Active;Production       ;20.0;Anuncio;Excede;2.55;3.0;0.0;1/14/2019;0.0
+1499902991.0;1.0;5.0;5.0;3.0;0.0;22.0;1.0;20.0;Production Technician II;Madrid;07/03/1972;M ;07/05/2011;02/08/2012;Another position;Voluntarily Terminated;Production       ;20.0;jobandtalent;Acorde;2.48;5.0;0.0;;
+1012023010.0;1.0;1.0;5.0;3.0;0.0;24.25;0.0;20.0;Production Technician II;Madrid;05/11/1985;M ;07/07/2014;;N/A - still employed;Active;Production       ;20.0;EquipoRRHH;Acorde;4.07;4.0;0.0;2/28/2019;0.0
+1403066125.0;0.0;1.0;5.0;2.0;0.0;27.0;0.0;20.0;Production Technician II;Madrid;09/21/90;F;04/04/2011;;N/A - still employed;Active;Production       ;22.0;infojobs;NecesitaMejorar;1.16;3.0;0.0;2/27/2019;0.0
+1105025661.0;0.0;1.0;5.0;1.0;0.0;24.0;0.0;20.0;Production Technician II;Madrid;08/25/89;F;07/07/2014;;N/A - still employed;Active;Production       ;22.0;Anuncio;Bajo;4.59;1.0;0.0;2/25/2019;0.0
+1207046956.0;0.0;5.0;5.0;3.0;0.0;28.0;1.0;20.0;Production Technician II;Madrid;02/16/84;F;8/15/2011;04/07/2012;relocation out of area;Voluntarily Terminated;Production       ;30.0;jobandtalent;Acorde;3.03;5.0;0.0;;
+1305056276.0;0.0;5.0;5.0;3.0;0.0;24.0;1.0;20.0;Production Technician II;Madrid;12/26/76;F;07/08/2013;09/15/13;more money;Voluntarily Terminated;Production       ;22.0;FeriaEmpleo;Acorde;4.65;4.0;0.0;;
+1301052436.0;1.0;1.0;5.0;3.0;0.0;29.0;0.0;20.0;Production Technician II;Madrid;12/01/1974;M ;5/13/2013;;N/A - still employed;Active;Production       ;22.0;FeriaEmpleo;Acorde;4.29;5.0;0.0;1/28/2019;0.0
+1012023103.0;0.0;5.0;5.0;3.0;0.0;23.0;1.0;20.0;Production Technician II;Madrid;11/25/87;F;10/26/2009;04/08/2015;maternity leave - did not return;Voluntarily Terminated;Production       ;22.0;infojobs;Acorde;4.68;4.0;0.0;;
+1101023457.0;1.0;1.0;5.0;3.0;0.0;22.0;0.0;20.0;Production Technician II;Madrid;07/28/83;M ;9/29/2014;;N/A - still employed;Active;Production       ;;FeriaEmpleo;Acorde;3.19;3.0;0.0;02/01/2019;0.0
+1402065085.0;0.0;1.0;5.0;3.0;0.0;24.0;0.0;20.0;Production Technician II;Madrid;09/27/87;F;2/17/2014;;N/A - still employed;Active;Production       ;;periodico;Acorde;4.0;4.0;0.0;01/07/2019;0.0
+1103024924.0;0.0;2.0;5.0;3.0;0.0;28.0;0.0;20.0;Production Technician II;Madrid;05/07/1992;F;06/05/2015;;N/A - Has not started yet;Future Start;Production       ;;Otro;Acorde;2.63;3.0;0.0;2/14/2019;0.0
+1110029623.0;0.0;2.0;5.0;3.0;0.0;23.0;0.0;20.0;Production Technician II;Madrid;08/25/76;F;05/11/2016;;N/A - Has not started yet;Future Start;Production       ;;EquipoRRHH;Acorde;5.0;3.0;0.0;1/21/2019;0.0
+1001856521.0;0.0;5.0;5.0;3.0;0.0;25.0;1.0;20.0;Production Technician II;Madrid;02/11/1952;F;5/14/2012;08/19/13;unhappy;Voluntarily Terminated;Production       ;39.0;periodico;Acorde;5.0;3.0;0.0;;
+1011022777.0;1.0;5.0;5.0;3.0;0.0;23.0;1.0;20.0;Production Technician II;Madrid;09/16/75;M ;6/25/2007;08/30/10;military;Voluntarily Terminated;Production       ;39.0;Anuncio;Acorde;1.37;4.0;0.0;;
+1402065303.0;0.0;1.0;6.0;3.0;0.0;54.0;0.0;21.0;Sales Manager;Madrid;04/19/90;F;05/05/2014;;N/A - still employed;Active;Sales;15.0;Anuncio;Acorde;4.62;4.0;0.0;1/24/2019;0.0
+1109029264.0;0.0;5.0;6.0;3.0;0.0;60.25;1.0;21.0;Sales Manager;Pontevedra;11/11/1989;F;11/07/2011;04/24/14;maternity leave - did not return;Voluntarily Terminated;Sales;15.0;Linkedin;Acorde;1.9;5.0;0.0;;
+1499902910.0;1.0;1.0;6.0;2.0;1.0;56.0;0.0;21.0;Sales Manager;Madrid;08/16/84;M ;5/18/2014;;N/A - still employed;Active;Sales;15.0;FeriaEmpleo;NecesitaMejorar;1.62;4.0;0.0;1/16/2019;0.0
+1009919930.0;0.0;1.0;3.0;3.0;0.0;50.25;0.0;22.0;Senior BI Developer;Madrid;06/14/87;F;10/02/2016;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;2.09;5.0;7.0;01/08/2019;0.0
+1009919960.0;1.0;1.0;3.0;3.0;0.0;52.25;0.0;22.0;Senior BI Developer;Madrid;04/25/70;M ;02/10/2017;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;5.0;3.0;6.0;2/25/2019;0.0
+1009919970.0;1.0;1.0;3.0;3.0;0.0;51.0;0.0;22.0;Senior BI Developer;Madrid;07/08/1981;M ;2/15/2017;;N/A - still employed;Active;IT/IS;13.0;Indeed;Acorde;3.42;4.0;7.0;01/04/2019;0.0
+1102024115.0;1.0;1.0;1.0;3.0;0.0;55.0;0.0;23.0;Shared Services Manager;Madrid;06/10/1984;M ;01/05/2016;;N/A - still employed;Active;Admin Offices;2.0;infojobs;Acorde;1.95;4.0;0.0;1/28/2019;0.0
+1206043417.0;1.0;5.0;1.0;3.0;1.0;55.0;1.0;23.0;Shared Services Manager;Madrid;11/06/1984;M ;2/21/2011;08/15/15;career change;Voluntarily Terminated;Admin Offices;2.0;FeriaEmpleo;Acorde;4.15;4.0;0.0;;
+1107027358.0;0.0;1.0;4.0;3.0;0.0;47.6;0.0;24.0;Software Engineer;Madrid;05/24/79;F;11/10/2014;;N/A - still employed;Active;Software Engineering;10.0;EquipoRRHH;Acorde;3.04;3.0;4.0;01/02/2019;0.0
+1101023577.0;0.0;1.0;4.0;3.0;0.0;56.0;0.0;24.0;Software Engineer;Madrid;04/05/1987;F;11/11/2013;;N/A - still employed;Active;Software Engineering;10.0;Anuncio;Acorde;4.96;4.0;6.0;1/30/2019;0.0
+1203032498.0;0.0;1.0;4.0;3.0;0.0;57.12;0.0;24.0;Software Engineer;Madrid;07/05/1979;F;01/09/2012;;N/A - still employed;Active;Software Engineering;10.0;infojobs;Acorde;3.79;5.0;5.0;1/25/2019;0.0
+1401064670.0;0.0;4.0;4.0;2.0;0.0;48.5;1.0;24.0;Software Engineer;Madrid;05/15/87;F;05/02/2011;06/05/2013;attendance;Terminated for Cause;Software Engineering;10.0;Anuncio;NecesitaMejorar;2.55;5.0;4.0;;
+1303054625.0;0.0;1.0;4.0;3.0;0.0;55.51;0.0;24.0;Software Engineer;Madrid;11/07/1987;F;11/11/2013;;N/A - still employed;Active;Software Engineering;10.0;infojobs;Acorde;1.53;5.0;4.0;1/14/2019;0.0
+1112030979.0;1.0;5.0;4.0;4.0;1.0;52.25;1.0;24.0;Software Engineer;Madrid;02/20/79;M ;11/07/2011;09/07/2015;Another position;Voluntarily Terminated;Software Engineering;10.0;FeriaEmpleo;Excede;1.1;5.0;3.0;;
+1012023185.0;0.0;1.0;4.0;3.0;0.0;49.25;0.0;24.0;Software Engineer;Madrid;07/24/86;F;11/05/2012;;N/A - still employed;Active;Software Engineering;10.0;Anuncio;Acorde;1.74;3.0;6.0;2/13/2019;0.0
+1201031324.0;1.0;1.0;4.0;4.0;0.0;48.0;0.0;24.0;Software Engineer;Madrid;05/06/1983;M ;07/07/2014;;N/A - still employed;Active;Software Engineering;10.0;Universidad;Excede;2.61;5.0;5.0;2/18/2019;0.0
+1102024057.0;1.0;5.0;4.0;3.0;1.0;45.42;1.0;24.0;Software Engineer;Madrid;06/14/83;M ;2/18/2013;04/15/14;medical issues;Voluntarily Terminated;Software Engineering;10.0;FeriaEmpleo;Acorde;1.11;3.0;4.0;;
+1001644719.0;1.0;1.0;4.0;3.0;0.0;27.0;0.0;25.0;Software Engineering Manager;Madrid;11/22/66;M ;8/15/2011;;N/A - still employed;Active;Software Engineering;5.0;infojobs;Acorde;3.84;3.0;5.0;1/21/2019;0.0
+1201031308.0;0.0;1.0;1.0;3.0;0.0;34.95;0.0;26.0;Sr. Accountant;Madrid;04/16/79;F;01/05/2009;;N/A - still employed;Active;Admin Offices;9.0;Otro;Acorde;5.0;3.0;2.0;02/08/2019;0.0
+1307060188.0;0.0;1.0;1.0;3.0;1.0;34.95;0.0;26.0;Sr. Accountant;Madrid;04/04/1987;F;2/16/2015;;N/A - still employed;Active;Admin Offices;3.0;FeriaEmpleo;Acorde;5.0;4.0;3.0;2/18/2019;0.0
+1307060199.0;1.0;5.0;3.0;3.0;0.0;62.0;1.0;27.0;Sr. DBA;Madrid;05/05/1975;M ;3/30/2015;06/16/16;career change;Voluntarily Terminated;IT/IS;4.0;referenciado;Acorde;4.96;3.0;6.0;;
+1010022337.0;0.0;2.0;3.0;3.0;0.0;61.3;0.0;27.0;Sr. DBA;Madrid;06/06/1986;F;6/30/2016;;N/A - Has not started yet;Future Start;IT/IS;4.0;EquipoRRHH;Acorde;5.0;5.0;6.0;2/18/2019;0.0
+1412071562.0;1.0;4.0;3.0;3.0;0.0;58.2;1.0;30.0;Enterprise Architect;Barcelona;07/30/64;M ;2/17/2014;02/19/16;hours;Terminated for Cause;IT/IS;4.0;EquipoRRHH;Acorde;2.94;5.0;7.0;;
+1111030266.0;0.0;5.0;3.0;3.0;0.0;58.5;1.0;29.0;Principal Data Architect;Madrid;05/27/73;F;01/05/2015;11/10/2015;Another position;Voluntarily Terminated;IT/IS;4.0;EquipoRRHH;Acorde;3.88;3.0;7.0;;
+1411071312.0;0.0;3.0;3.0;3.0;0.0;54.1;0.0;28.0;Sr. Network Engineer;Barcelona;01/18/52;F;11/10/2014;;N/A - still employed;Leave of Absence;IT/IS;7.0;EquipoRRHH;Acorde;1.55;5.0;8.0;02/12/2019;0.0
+1108028108.0;1.0;3.0;3.0;3.0;0.0;56.2;0.0;28.0;Sr. Network Engineer;Madrid;04/23/86;M ;11/10/2014;;N/A - still employed;Leave of Absence;IT/IS;7.0;Ref_empleado;Acorde;4.46;5.0;6.0;01/07/2019;0.0
+904013591.0;1.0;2.0;3.0;3.0;0.0;53.8;0.0;28.0;Sr. Network Engineer;Madrid;02/09/1983;M ;6/30/2016;;N/A - Has not started yet;Future Start;IT/IS;7.0;FeriaEmpleo;Acorde;3.27;4.0;5.0;1/14/2019;0.0
+1308060959.0;1.0;1.0;3.0;3.0;0.0;53.0;0.0;28.0;Sr. Network Engineer;Barcelona;09/09/1965;M ;11/10/2014;;N/A - still employed;Active;IT/IS;7.0;Ref_empleado;Acorde;5.0;3.0;4.0;01/02/2019;0.0
+1301052347.0;0.0;1.0;3.0;3.0;0.0;55.2;0.0;28.0;Sr. Network Engineer;Madrid;05/02/1978;F;3/30/2015;;N/A - still employed;Active;IT/IS;7.0;Ref_empleado;Acorde;1.06;4.0;8.0;02/05/2019;0.0
