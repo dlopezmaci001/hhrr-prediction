@@ -1,1471 +1,1471 @@
-Age	Department	EmployeeNumber	is_1	JobInvolvement	JobRole	JobSatisfaction	MonthlyIncome	OverTime	PerformanceRating	TotalWorkingYears	YearsAtCompany	YearsInCurrentRole
-41	Sales	1	0	3	Sales Executive	4	5993	1	3	8	6	4
-49	Research & Development	2	1	2	Research Scientist	2	5130	0	4	10	10	7
-37	Research & Development	4	1	2	Laboratory Technician	3	2090	1	3	7	0	0
-33	Research & Development	5	0	3	Research Scientist	3	2909	1	3	8	8	7
-27	Research & Development	7	1	3	Laboratory Technician	2	3468	0	3	6	2	2
-32	Research & Development	8	1	3	Laboratory Technician	4	3068	0	3	8	7	7
-59	Research & Development	10	0	4	Laboratory Technician	1	2670	1	4	12	1	0
-30	Research & Development	11	1	3	Laboratory Technician	3	2693	0	4	1	1	0
-38	Research & Development	12	1	2	Manufacturing Director	3	9526	0	4	10	9	7
-36	Research & Development	13	1	3	Healthcare Representative	3	5237	0	3	17	7	7
-35	Research & Development	14	1	4	Laboratory Technician	2	2426	0	3	6	5	4
-29	Research & Development	15	0	2	Laboratory Technician	3	4193	1	3	10	9	5
-31	Research & Development	16	1	3	Research Scientist	3	2911	0	3	5	5	2
-34	Research & Development	18	1	3	Laboratory Technician	4	2661	0	3	3	2	2
-28	Research & Development	19	1	2	Laboratory Technician	3	2028	1	3	6	4	2
-29	Research & Development	20	0	4	Manufacturing Director	1	9980	0	3	10	10	9
-32	Research & Development	21	1	4	Research Scientist	2	3298	1	3	7	6	2
-22	Research & Development	22	1	4	Laboratory Technician	4	2935	1	3	1	1	0
-53	Sales	23	0	2	Manager	4	15427	0	3	31	25	8
-38	Research & Development	24	1	3	Research Scientist	4	3944	1	3	6	3	2
-24	Research & Development	26	0	4	Manufacturing Director	3	4011	0	3	5	4	2
-36	Sales	27	1	2	Sales Representative	1	3407	0	4	10	5	3
-34	Research & Development	28	0	3	Research Director	2	11994	0	3	13	12	6
-21	Research & Development	30	1	3	Research Scientist	4	1232	0	3	0	0	0
-34	Research & Development	31	1	3	Research Scientist	1	2960	0	3	8	4	2
-53	Research & Development	32	0	3	Manager	3	19094	0	3	26	14	13
-32	Research & Development	33	0	1	Research Scientist	1	3919	1	4	10	10	2
-42	Sales	35	1	3	Sales Executive	2	6825	0	3	10	9	7
-44	Research & Development	36	0	2	Healthcare Representative	4	10248	0	3	24	22	6
-46	Sales	38	0	3	Manager	1	18947	0	3	22	2	2
-33	Research & Development	39	1	3	Laboratory Technician	4	2496	0	3	7	1	1
-44	Research & Development	40	1	3	Healthcare Representative	4	6465	1	3	9	4	2
-30	Research & Development	41	1	2	Laboratory Technician	3	2206	0	3	10	10	0
-39	Sales	42	1	3	Sales Representative	4	2086	0	3	19	1	0
-24	Research & Development	45	1	3	Research Scientist	4	2293	1	3	6	2	0
-43	Research & Development	46	0	4	Research Scientist	3	2645	0	3	6	5	3
-50	Sales	47	1	2	Sales Representative	3	2683	1	3	3	3	2
-35	Sales	49	0	3	Sales Representative	4	2014	0	3	2	2	2
-36	Research & Development	51	0	2	Research Scientist	1	3419	1	3	6	1	1
-33	Sales	52	0	4	Sales Executive	1	5376	0	3	10	5	3
-35	Research & Development	53	1	3	Laboratory Technician	4	1951	0	3	1	1	0
-27	Research & Development	54	0	3	Laboratory Technician	1	2341	0	3	1	1	0
-26	Research & Development	55	1	1	Laboratory Technician	3	2293	0	3	1	1	0
-27	Sales	56	1	3	Sales Executive	3	8726	0	3	9	9	8
-30	Research & Development	57	0	3	Laboratory Technician	4	4011	0	4	12	12	8
-41	Research & Development	58	0	3	Research Director	3	19545	0	3	23	22	15
-34	Sales	60	1	3	Sales Executive	3	4568	0	4	10	9	5
-37	Research & Development	61	1	3	Research Scientist	2	3022	0	4	8	1	0
-46	Sales	62	1	3	Sales Executive	4	5772	1	4	14	9	6
-35	Research & Development	63	1	4	Laboratory Technician	4	2269	0	3	1	1	0
-48	Research & Development	64	1	2	Laboratory Technician	3	5381	1	3	23	1	0
-28	Research & Development	65	1	3	Laboratory Technician	3	3441	1	3	2	2	2
-44	Sales	68	0	3	Sales Executive	1	5454	1	4	9	4	3
-35	Research & Development	70	1	2	Healthcare Representative	1	9884	1	3	10	4	0
-26	Sales	72	0	2	Sales Executive	4	4157	1	3	5	2	2
-33	Research & Development	73	0	3	Research Director	4	13458	1	3	15	15	14
-35	Sales	74	1	3	Sales Executive	1	9069	0	4	9	9	8
-35	Research & Development	75	0	3	Laboratory Technician	1	4014	1	3	4	2	2
-31	Research & Development	76	1	3	Laboratory Technician	4	5915	0	4	10	7	7
-37	Research & Development	77	1	2	Manufacturing Director	3	5993	0	3	7	7	5
-32	Research & Development	78	1	3	Manufacturing Director	4	6162	1	4	9	9	8
-38	Research & Development	79	0	3	Laboratory Technician	4	2406	0	3	10	10	3
-50	Research & Development	80	0	2	Research Director	3	18740	1	3	29	27	3
-59	Sales	81	0	3	Sales Executive	1	7637	0	3	28	21	16
-36	Research & Development	83	0	3	Healthcare Representative	3	10096	0	3	17	17	14
-55	Research & Development	84	0	3	Manager	3	14756	1	3	21	5	0
-36	Research & Development	85	1	2	Manufacturing Director	2	6499	0	3	6	6	5
-45	Research & Development	86	1	3	Research Scientist	1	9724	0	3	25	1	0
-35	Research & Development	88	1	3	Research Scientist	1	2194	0	3	5	3	2
-36	Research & Development	90	1	2	Research Scientist	3	3388	1	3	2	1	0
-59	Sales	91	0	2	Sales Executive	3	5473	0	3	20	4	3
-29	Research & Development	94	1	3	Research Scientist	2	2703	0	4	6	5	4
-31	Research & Development	95	1	3	Research Scientist	2	2501	0	3	1	1	1
-32	Research & Development	96	1	3	Research Scientist	2	6220	0	3	10	10	4
-36	Research & Development	97	0	4	Laboratory Technician	4	3038	0	3	5	1	0
-31	Research & Development	98	0	3	Manufacturing Director	4	4424	0	4	11	11	7
-35	Sales	100	1	2	Sales Executive	1	4312	0	3	16	15	13
-45	Research & Development	101	1	3	Research Director	1	13245	1	3	17	0	0
-37	Research & Development	102	1	3	Research Director	3	13664	0	3	16	5	2
-46	Human Resources	103	1	3	Human Resources	2	5021	1	4	16	4	2
-30	Research & Development	104	1	2	Laboratory Technician	4	5126	1	3	10	10	8
-35	Research & Development	105	1	2	Research Scientist	3	2859	0	3	6	6	4
-55	Sales	106	1	3	Sales Executive	4	10239	0	3	24	1	0
-38	Research & Development	107	0	1	Research Scientist	4	5329	1	3	17	13	11
-34	Research & Development	110	1	3	Manufacturing Director	2	4325	0	3	5	5	2
-56	Research & Development	112	1	1	Manufacturing Director	4	7260	0	3	37	6	4
-23	Sales	113	1	3	Sales Representative	1	2322	0	3	3	0	0
-51	Research & Development	116	1	3	Laboratory Technician	4	2075	0	4	10	4	2
-30	Research & Development	117	1	2	Healthcare Representative	4	4152	0	3	11	11	10
-46	Sales	118	1	2	Sales Executive	4	9619	0	3	9	9	8
-40	Research & Development	119	1	2	Healthcare Representative	2	13503	0	4	22	22	3
-51	Sales	120	1	3	Sales Executive	4	5441	1	4	11	10	7
-30	Sales	121	0	2	Sales Executive	2	5209	1	3	11	11	8
-46	Research & Development	124	1	2	Healthcare Representative	1	10673	1	3	21	10	9
-32	Sales	125	1	3	Sales Executive	3	5010	0	3	12	11	8
-54	Research & Development	126	0	3	Research Director	3	13549	0	3	16	4	3
-24	Sales	128	0	3	Sales Executive	3	4999	0	4	4	3	2
-28	Sales	129	1	3	Sales Executive	3	4221	0	3	5	5	4
-58	Sales	131	1	3	Sales Executive	3	13872	0	3	38	37	10
-44	Research & Development	132	1	3	Laboratory Technician	2	2042	0	3	17	3	2
-37	Human Resources	133	1	3	Human Resources	1	2073	1	4	7	3	2
-32	Research & Development	134	1	3	Research Scientist	1	2956	0	3	1	1	0
-20	Research & Development	137	0	2	Laboratory Technician	4	2926	1	3	1	1	0
-34	Research & Development	138	0	3	Research Scientist	3	4809	0	3	16	16	13
-37	Research & Development	139	1	2	Healthcare Representative	4	5163	0	3	17	1	0
-59	Human Resources	140	0	2	Manager	4	18844	0	4	30	3	2
-50	Research & Development	141	0	3	Research Director	2	18172	1	3	28	8	3
-25	Sales	142	1	2	Sales Executive	3	5744	1	3	6	6	4
-25	Research & Development	143	1	2	Research Scientist	4	2889	0	3	2	2	2
-22	Research & Development	144	0	3	Laboratory Technician	4	2871	0	3	1	0	0
-51	Research & Development	145	0	2	Healthcare Representative	1	7484	0	4	23	13	12
-34	Research & Development	147	1	1	Laboratory Technician	3	6074	1	4	9	9	7
-54	Human Resources	148	0	4	Manager	4	17328	1	3	23	5	3
-24	Research & Development	150	1	3	Laboratory Technician	3	2774	0	3	6	5	3
-34	Research & Development	151	0	2	Research Scientist	2	4505	0	3	12	1	0
-37	Sales	152	1	3	Sales Executive	4	7428	0	3	12	5	3
-34	Research & Development	153	0	2	Manager	1	11631	0	3	14	11	10
-36	Sales	154	0	3	Sales Executive	4	9738	0	3	10	9	7
-36	Research & Development	155	0	3	Laboratory Technician	4	2835	0	4	7	1	0
-43	Sales	158	1	3	Manager	4	16959	1	3	25	25	12
-30	Research & Development	159	1	1	Research Scientist	3	2613	0	4	10	10	7
-33	Sales	160	1	3	Sales Executive	2	6146	0	3	8	7	7
-56	Research & Development	161	0	3	Research Scientist	2	4963	1	3	7	5	4
-51	Research & Development	162	1	3	Research Director	3	19537	0	3	23	20	18
-31	Sales	163	1	1	Sales Executive	3	6172	1	3	12	7	7
-26	Research & Development	164	0	2	Research Scientist	2	2368	0	3	5	5	4
-58	Research & Development	165	0	3	Healthcare Representative	4	10312	0	3	40	40	10
-19	Sales	167	1	3	Sales Representative	3	1675	1	3	0	0	0
-22	Research & Development	169	1	3	Laboratory Technician	4	2523	0	3	3	2	1
-49	Research & Development	170	0	3	Manufacturing Director	1	6567	0	3	16	15	11
-43	Research & Development	171	0	4	Research Scientist	3	4739	0	3	18	3	2
-50	Sales	174	0	3	Sales Executive	4	9208	0	3	16	2	2
-31	Sales	175	0	1	Sales Executive	3	4559	1	3	4	2	2
-41	Sales	176	1	3	Sales Executive	3	8189	1	3	12	9	7
-26	Human Resources	177	0	3	Human Resources	3	2942	0	4	8	8	7
-36	Research & Development	178	1	3	Manufacturing Director	2	4941	0	4	7	3	2
-51	Research & Development	179	1	1	Manufacturing Director	4	10650	0	3	18	4	2
-39	Sales	182	0	2	Sales Executive	3	5902	0	3	17	15	11
-25	Sales	183	1	2	Sales Executive	3	8639	0	3	6	2	2
-30	Human Resources	184	1	3	Human Resources	4	6347	1	3	12	11	9
-32	Research & Development	190	0	3	Laboratory Technician	1	4200	0	4	10	5	4
-45	Research & Development	192	1	3	Research Scientist	4	3452	0	3	9	6	5
-38	Research & Development	193	0	3	Research Scientist	3	4317	1	4	19	3	2
-30	Research & Development	194	0	3	Research Scientist	3	2632	0	3	5	5	4
-32	Sales	195	1	1	Sales Executive	4	4668	0	3	9	8	7
-30	Research & Development	197	0	3	Research Scientist	1	3204	0	3	8	3	2
-30	Research & Development	198	1	2	Laboratory Technician	4	2720	0	3	6	5	3
-41	Research & Development	199	1	2	Manager	1	17181	0	3	21	7	6
-41	Research & Development	200	1	3	Laboratory Technician	1	2238	0	4	7	5	0
-19	Research & Development	201	0	3	Laboratory Technician	2	1483	0	3	1	1	0
-40	Research & Development	202	0	3	Research Scientist	2	5605	0	3	20	20	7
-35	Sales	204	1	3	Sales Executive	2	7295	0	3	10	10	8
-53	Sales	205	1	3	Sales Representative	3	2306	1	4	13	7	7
-45	Research & Development	206	1	3	Laboratory Technician	2	2348	0	3	20	17	9
-32	Sales	207	0	3	Sales Executive	4	8998	0	3	9	9	8
-29	Research & Development	208	1	3	Manufacturing Director	3	4319	0	3	10	10	7
-51	Research & Development	211	1	2	Manufacturing Director	3	6132	0	3	10	1	0
-58	Research & Development	214	0	2	Research Scientist	2	3346	1	4	9	1	0
-40	Sales	215	1	2	Sales Executive	4	10855	0	3	15	12	11
-34	Sales	216	0	3	Sales Representative	3	2231	0	3	6	4	3
-22	Research & Development	217	1	3	Research Scientist	4	2323	0	4	2	2	2
-27	Research & Development	218	1	3	Research Scientist	2	2024	0	3	6	2	2
-28	Research & Development	221	1	3	Research Scientist	4	2713	0	3	5	5	2
-57	Research & Development	223	1	4	Healthcare Representative	4	9439	1	3	12	5	3
-27	Research & Development	224	1	2	Research Scientist	3	2566	1	3	1	1	1
-50	Research & Development	226	0	3	Manager	2	19926	0	3	21	5	4
-41	Research & Development	227	1	3	Research Scientist	3	2451	0	3	13	9	8
-30	Sales	228	0	3	Sales Executive	4	9419	0	3	12	10	9
-38	Sales	230	0	2	Sales Executive	4	8686	0	4	12	8	3
-32	Research & Development	231	1	3	Research Scientist	3	3038	0	4	8	5	4
-27	Research & Development	233	1	3	Research Scientist	2	3058	1	3	6	5	2
-19	Sales	235	0	1	Sales Representative	1	2325	0	4	1	0	0
-36	Research & Development	238	1	3	Laboratory Technician	2	2088	0	3	13	8	7
-30	Research & Development	239	1	3	Laboratory Technician	1	3072	0	3	12	12	9
-45	Sales	240	0	3	Sales Executive	1	5006	1	3	9	5	4
-56	Research & Development	241	0	3	Research Scientist	1	4257	1	3	19	2	2
-33	Research & Development	242	1	3	Research Scientist	4	2500	0	3	4	3	1
-19	Research & Development	243	1	2	Laboratory Technician	4	1102	0	4	1	1	0
-46	Sales	244	0	3	Sales Executive	1	10453	0	4	24	24	13
-38	Research & Development	245	0	3	Laboratory Technician	4	2288	0	3	2	2	2
-31	Research & Development	246	0	3	Research Scientist	4	3929	1	4	7	4	2
-34	Research & Development	247	0	3	Research Scientist	2	2311	0	3	9	3	2
-41	Sales	248	0	3	Sales Representative	2	3140	1	4	4	4	3
-50	Research & Development	249	1	2	Laboratory Technician	3	3690	0	3	5	3	2
-53	Research & Development	250	0	4	Manufacturing Director	1	4450	0	3	5	4	2
-33	Research & Development	252	0	3	Research Scientist	2	2756	0	3	8	8	7
-40	Research & Development	253	0	3	Manager	3	19033	0	3	21	20	8
-55	Research & Development	254	1	4	Research Director	2	18722	0	3	36	24	15
-34	Research & Development	256	1	2	Manufacturing Director	3	9547	0	3	10	10	9
-51	Research & Development	258	0	3	Healthcare Representative	2	13734	0	3	21	7	7
-52	Research & Development	259	1	2	Manager	3	19999	0	3	34	33	18
-27	Research & Development	260	0	3	Research Scientist	2	2279	0	3	7	7	7
-35	Research & Development	261	1	2	Manufacturing Director	3	5916	1	3	8	1	0
-43	Research & Development	262	1	4	Research Scientist	4	2089	0	3	7	5	4
-45	Research & Development	264	1	2	Manager	4	16792	0	4	22	20	8
-37	Research & Development	267	1	4	Research Scientist	1	3564	1	3	8	8	7
-35	Research & Development	269	0	3	Laboratory Technician	2	4425	0	3	10	6	2
-42	Research & Development	270	0	3	Manufacturing Director	3	5265	0	3	11	5	3
-38	Research & Development	271	1	3	Manufacturing Director	3	6553	0	3	14	1	0
-38	Research & Development	273	1	3	Manufacturing Director	4	6261	0	3	9	7	7
-27	Research & Development	274	1	2	Manufacturing Director	1	4298	0	3	6	2	2
-49	Research & Development	275	1	3	Manufacturing Director	4	6804	1	3	7	7	7
-34	Research & Development	277	1	3	Research Scientist	3	3815	1	3	5	5	3
-40	Research & Development	281	1	3	Laboratory Technician	4	2741	1	3	15	7	2
-38	Research & Development	282	1	3	Healthcare Representative	1	6673	1	3	17	1	0
-29	Sales	283	0	3	Sales Executive	4	7639	0	4	10	10	4
-22	Research & Development	284	1	4	Research Scientist	2	2328	1	3	4	4	2
-36	Research & Development	286	0	3	Laboratory Technician	4	2153	0	3	8	8	1
-40	Research & Development	287	1	2	Healthcare Representative	4	4876	0	3	5	3	2
-46	Research & Development	288	1	3	Healthcare Representative	1	9396	0	3	17	4	2
-32	Sales	291	1	1	Sales Executive	4	10400	0	3	14	14	8
-30	Research & Development	292	1	2	Manufacturing Director	3	8474	0	4	12	11	8
-27	Sales	293	0	3	Sales Executive	3	9981	0	3	7	7	7
-51	Research & Development	296	1	2	Research Director	2	12490	0	3	16	10	9
-30	Research & Development	297	0	3	Research Scientist	1	2657	1	3	8	5	2
-41	Sales	298	0	3	Manager	4	13591	1	3	16	1	0
-30	Sales	299	0	2	Sales Executive	1	6696	0	3	9	6	3
-29	Research & Development	300	1	3	Research Scientist	3	2058	0	3	7	6	2
-45	Sales	302	0	2	Sales Executive	4	8865	0	3	23	19	7
-54	Sales	303	0	3	Sales Executive	1	5940	0	3	16	6	2
-36	Research & Development	304	1	3	Laboratory Technician	2	5914	0	3	16	13	11
-33	Research & Development	305	0	2	Research Scientist	2	2622	0	4	7	3	2
-37	Research & Development	306	1	3	Research Director	4	12185	1	3	10	10	8
-38	Sales	307	1	3	Sales Executive	3	10609	0	3	17	16	10
-31	Research & Development	308	1	1	Manufacturing Director	3	4345	0	3	6	5	4
-59	Research & Development	309	1	2	Research Scientist	4	2177	0	3	7	1	0
-37	Sales	311	1	3	Sales Representative	4	2793	0	3	13	9	8
-29	Sales	312	0	3	Sales Executive	4	7918	0	3	11	11	10
-35	Sales	314	0	3	Sales Executive	3	8789	0	3	10	10	7
-29	Research & Development	315	1	2	Research Scientist	4	2389	1	3	4	4	3
-52	Research & Development	316	0	2	Laboratory Technician	4	3212	0	3	6	2	2
-42	Research & Development	319	1	3	Manager	4	19232	0	3	22	22	17
-59	Human Resources	321	1	3	Human Resources	3	2267	0	3	7	2	2
-50	Sales	323	0	3	Manager	4	19517	0	3	32	7	0
-33	Research & Development	325	1	3	Laboratory Technician	4	2436	1	3	8	5	4
-43	Sales	327	0	3	Manager	4	16064	1	4	22	17	13
-33	Research & Development	328	0	3	Laboratory Technician	1	2707	0	4	13	9	7
-52	Sales	329	1	2	Manager	3	19068	1	3	33	33	7
-32	Sales	330	0	3	Sales Representative	2	3931	0	3	6	4	3
-32	Research & Development	331	1	2	Laboratory Technician	3	3730	1	3	4	3	2
-39	Research & Development	332	0	3	Laboratory Technician	3	2232	0	3	7	3	2
-32	Sales	333	1	3	Sales Executive	4	4465	0	3	4	3	2
-41	Research & Development	334	1	3	Research Scientist	1	3072	0	3	17	1	0
-40	Research & Development	335	1	3	Research Scientist	4	3319	0	3	9	9	8
-45	Research & Development	336	1	4	Manager	4	19202	0	3	25	24	0
-31	Research & Development	337	1	3	Research Director	3	13675	0	3	9	2	2
-33	Research & Development	338	0	2	Research Scientist	4	2911	0	3	2	2	2
-34	Research & Development	339	1	2	Manufacturing Director	1	5957	0	3	13	11	9
-37	Research & Development	340	0	2	Research Scientist	1	3920	0	3	17	3	1
-45	Research & Development	341	1	4	Manufacturing Director	3	6434	0	3	9	3	2
-37	Research & Development	342	1	3	Manufacturing Director	3	10048	0	3	17	1	0
-39	Research & Development	343	0	3	Healthcare Representative	3	10938	0	4	20	19	6
-29	Research & Development	346	1	3	Research Scientist	4	2340	0	3	6	6	5
-42	Research & Development	347	0	4	Research Scientist	1	6545	1	3	10	3	2
-29	Sales	349	1	3	Sales Executive	4	6931	0	3	10	3	2
-25	Research & Development	350	0	3	Manufacturing Director	3	4898	0	3	5	4	2
-42	Research & Development	351	0	2	Laboratory Technician	1	2593	1	3	10	9	6
-40	Research & Development	352	1	3	Research Director	3	19436	0	3	22	21	7
-51	Research & Development	353	1	3	Research Scientist	4	2723	0	3	1	1	0
-31	Research & Development	355	1	2	Laboratory Technician	2	3479	0	3	6	5	4
-32	Research & Development	359	1	4	Laboratory Technician	2	2794	0	4	5	5	1
-38	Sales	361	1	2	Sales Executive	4	5249	0	3	13	8	7
-32	Research & Development	362	1	2	Laboratory Technician	1	2176	0	3	9	6	2
-46	Sales	363	0	1	Manager	2	16872	1	3	28	7	7
-28	Research & Development	364	1	3	Laboratory Technician	3	3485	0	3	5	0	0
-29	Sales	366	1	2	Sales Executive	2	6644	0	3	10	0	0
-31	Research & Development	367	1	2	Healthcare Representative	4	5582	0	4	10	9	0
-25	Research & Development	369	1	4	Healthcare Representative	1	4000	0	3	6	6	3
-45	Research & Development	372	1	3	Healthcare Representative	4	13496	1	3	21	20	7
-36	Research & Development	373	1	3	Laboratory Technician	4	3210	0	3	16	15	13
-55	Research & Development	374	1	3	Manager	1	19045	1	3	37	36	10
-47	Research & Development	376	1	3	Manager	2	11849	1	3	10	10	7
-28	Research & Development	377	1	3	Research Scientist	4	2070	0	4	5	5	2
-37	Sales	378	1	3	Sales Executive	4	6502	0	3	7	5	4
-21	Research & Development	379	1	2	Research Scientist	3	3230	0	3	3	3	2
-37	Research & Development	380	0	3	Research Director	4	13603	1	3	15	5	2
-35	Research & Development	381	0	4	Manager	2	11996	0	3	10	7	7
-38	Sales	382	0	4	Sales Executive	1	5605	1	4	8	8	0
-26	Research & Development	384	0	3	Manufacturing Director	2	6397	0	4	6	6	5
-50	Research & Development	385	1	3	Research Director	2	19144	0	3	28	10	4
-53	Research & Development	386	1	3	Research Director	3	17584	1	3	21	5	3
-42	Sales	387	1	3	Sales Executive	3	4907	0	4	20	20	16
-29	Sales	388	1	3	Sales Executive	4	4554	0	3	10	10	7
-55	Research & Development	389	1	3	Laboratory Technician	4	5415	1	3	12	10	7
-26	Research & Development	390	1	3	Healthcare Representative	1	4741	1	3	5	5	3
-37	Research & Development	391	0	3	Research Scientist	4	2115	0	3	17	17	12
-44	Research & Development	392	1	3	Laboratory Technician	3	3161	1	4	19	1	0
-38	Research & Development	393	1	3	Healthcare Representative	4	5745	0	3	10	2	2
-26	Research & Development	394	1	3	Laboratory Technician	2	2373	1	3	5	3	2
-28	Research & Development	395	0	3	Research Scientist	4	3310	0	4	5	5	3
-49	Research & Development	396	0	3	Research Director	1	18665	1	3	22	3	2
-36	Research & Development	397	1	3	Research Scientist	2	4485	0	3	10	8	0
-31	Sales	399	0	3	Sales Representative	2	2789	0	3	2	2	2
-26	Sales	401	1	2	Sales Executive	4	5828	1	3	8	8	7
-37	Research & Development	403	1	3	Research Scientist	4	2326	1	3	4	4	2
-42	Sales	404	0	3	Sales Executive	2	13525	0	3	23	20	4
-18	Research & Development	405	1	3	Laboratory Technician	3	1420	0	3	0	0	0
-35	Sales	406	1	3	Sales Executive	2	8020	0	3	12	11	9
-36	Research & Development	407	1	4	Laboratory Technician	4	3688	0	3	4	1	0
-51	Research & Development	408	1	1	Manufacturing Director	2	5482	0	3	13	4	1
-41	Sales	410	1	3	Manager	2	16015	0	3	22	22	10
-18	Sales	411	0	2	Sales Representative	3	1200	0	3	0	0	0
-28	Research & Development	412	1	4	Healthcare Representative	1	5661	0	3	9	8	3
-31	Sales	416	1	4	Sales Executive	4	6929	0	3	10	8	7
-39	Research & Development	417	1	4	Healthcare Representative	4	9613	0	3	19	18	10
-36	Research & Development	419	0	3	Laboratory Technician	2	5674	0	3	11	9	8
-32	Sales	420	1	2	Sales Executive	3	5484	0	3	13	13	8
-38	Research & Development	421	0	2	Research Director	2	12061	0	3	19	10	8
-58	Research & Development	422	1	1	Healthcare Representative	3	5660	1	3	12	5	3
-31	Research & Development	423	1	3	Research Scientist	4	4821	1	3	6	5	2
-31	Human Resources	424	1	2	Human Resources	1	6410	0	3	9	2	2
-45	Research & Development	425	1	3	Laboratory Technician	1	5210	0	3	24	24	9
-31	Research & Development	426	1	3	Research Scientist	4	2695	1	3	3	2	2
-33	Research & Development	428	0	3	Manager	2	11878	0	3	12	10	6
-39	Research & Development	429	1	3	Manager	1	17068	1	3	21	21	9
-43	Research & Development	430	0	3	Laboratory Technician	4	2455	0	3	9	8	7
-49	Research & Development	431	0	2	Healthcare Representative	3	13964	1	3	25	7	1
-52	Research & Development	433	1	2	Research Scientist	2	4941	0	3	11	8	2
-27	Research & Development	434	0	3	Research Scientist	2	2478	1	3	4	4	3
-32	Sales	436	0	2	Sales Executive	2	5228	1	3	13	13	12
-27	Sales	437	1	3	Sales Executive	3	4478	1	3	5	5	4
-31	Sales	438	1	3	Sales Executive	4	7547	0	3	13	7	7
-32	Research & Development	439	0	4	Research Scientist	4	5055	0	3	10	7	7
-28	Research & Development	440	1	1	Research Scientist	4	3464	1	3	5	3	2
-30	Research & Development	441	0	3	Research Scientist	4	5775	0	3	11	10	8
-31	Research & Development	442	0	2	Manufacturing Director	3	8943	0	4	10	10	9
-39	Research & Development	444	1	2	Manager	4	19272	0	3	21	21	9
-39	Sales	445	0	3	Sales Executive	3	5238	1	3	12	1	0
-33	Sales	446	1	2	Sales Executive	4	4682	0	3	9	7	7
-47	Research & Development	447	1	3	Research Director	3	18300	0	3	21	3	2
-43	Research & Development	448	0	2	Laboratory Technician	3	5257	0	3	9	9	7
-27	Sales	449	1	3	Sales Executive	2	6349	1	3	6	5	4
-54	Research & Development	450	0	3	Research Scientist	3	4869	0	3	20	4	3
-43	Research & Development	451	0	3	Healthcare Representative	1	9985	0	3	10	1	0
-45	Research & Development	452	1	3	Research Scientist	4	3697	0	3	12	10	9
-40	Sales	453	1	1	Sales Executive	4	7457	1	4	6	4	3
-29	Research & Development	454	1	1	Laboratory Technician	1	2119	1	3	7	7	7
-29	Research & Development	455	1	2	Laboratory Technician	4	3983	0	3	4	3	2
-30	Sales	456	0	2	Sales Executive	3	6118	0	3	10	10	9
-27	Sales	458	0	3	Sales Executive	2	6214	0	3	8	8	7
-37	Research & Development	460	1	3	Manufacturing Director	4	6347	0	3	8	6	2
-38	Research & Development	461	1	2	Research Director	4	11510	1	3	12	11	10
-31	Research & Development	462	0	3	Manufacturing Director	4	7143	1	3	11	11	9
-29	Sales	463	0	2	Sales Executive	2	8268	1	3	7	7	7
-35	Research & Development	464	1	3	Manufacturing Director	2	8095	0	3	17	16	6
-23	Research & Development	465	1	3	Research Scientist	4	2904	0	3	4	4	2
-41	Research & Development	466	1	2	Manufacturing Director	2	6032	1	3	8	5	4
-47	Sales	467	1	3	Sales Representative	3	2976	0	3	5	0	0
-42	Research & Development	468	0	3	Research Director	4	15992	0	3	16	1	0
-29	Sales	469	1	3	Sales Executive	3	4649	0	3	4	4	3
-42	Human Resources	470	1	3	Human Resources	3	2696	1	3	4	3	2
-32	Research & Development	471	0	3	Laboratory Technician	2	2370	0	3	8	8	0
-48	Sales	473	0	3	Manager	3	12504	0	4	15	0	0
-37	Research & Development	474	1	4	Research Scientist	1	5974	1	3	13	7	7
-30	Sales	475	0	3	Sales Executive	3	4736	1	3	4	2	2
-26	Sales	476	1	3	Sales Executive	3	5296	0	3	8	8	7
-42	Research & Development	477	1	2	Healthcare Representative	4	6781	0	4	14	1	0
-21	Sales	478	0	2	Sales Representative	2	2174	1	3	3	3	2
-36	Sales	479	0	3	Sales Executive	4	6653	0	3	7	1	0
-36	Sales	481	1	2	Sales Executive	4	9699	0	3	16	13	9
-57	Research & Development	482	1	3	Healthcare Representative	3	6755	0	3	15	3	2
-40	Research & Development	483	0	4	Laboratory Technician	3	2213	1	3	10	7	7
-21	Sales	484	1	3	Sales Representative	4	2610	0	4	3	3	2
-33	Sales	485	0	3	Sales Representative	3	2851	1	3	1	1	0
-37	Research & Development	486	0	3	Laboratory Technician	1	3452	0	4	17	5	4
-46	Research & Development	487	0	3	Manufacturing Director	3	5258	0	3	7	1	0
-41	Sales	488	1	3	Sales Executive	2	9355	0	3	8	8	7
-50	Research & Development	491	1	2	Healthcare Representative	4	10496	0	3	20	4	3
-40	Sales	492	1	2	Sales Executive	3	6380	1	3	8	6	4
-31	Research & Development	493	1	2	Research Scientist	2	2657	1	3	3	2	2
-21	Sales	494	0	4	Sales Representative	2	2716	0	3	1	1	0
-29	Research & Development	495	1	3	Research Scientist	4	2201	0	3	6	3	2
-35	Research & Development	496	1	2	Healthcare Representative	2	6540	0	3	10	1	1
-27	Research & Development	497	1	3	Laboratory Technician	2	3816	0	3	5	5	2
-28	Sales	498	1	3	Sales Executive	4	5253	0	3	7	7	5
-49	Research & Development	499	1	2	Healthcare Representative	3	10965	0	4	26	5	2
-51	Sales	500	0	3	Sales Executive	4	4936	0	3	18	7	7
-36	Research & Development	501	0	3	Research Scientist	3	2543	0	3	6	2	2
-34	Sales	502	1	4	Sales Executive	4	5304	1	3	9	5	2
-55	Research & Development	505	0	3	Manager	4	16659	1	3	30	5	4
-24	Sales	507	0	3	Sales Executive	3	4260	1	3	5	5	2
-30	Sales	508	1	3	Sales Representative	2	2476	0	3	1	1	0
-26	Research & Development	510	1	3	Research Scientist	1	3102	0	4	7	6	4
-22	Research & Development	511	0	3	Research Scientist	2	2244	0	3	2	2	1
-36	Sales	513	1	2	Sales Executive	3	7596	0	3	10	10	9
-30	Research & Development	514	1	3	Research Scientist	4	2285	1	4	3	1	0
-37	Research & Development	515	0	3	Laboratory Technician	1	3034	0	3	18	18	7
-40	Sales	516	0	3	Sales Executive	2	5715	0	3	8	5	4
-42	Research & Development	517	0	3	Laboratory Technician	1	2576	0	3	8	5	2
-37	Research & Development	518	1	3	Manufacturing Director	2	4197	1	3	18	1	0
-43	Research & Development	520	1	2	Research Director	2	14336	0	3	25	25	10
-40	Research & Development	521	0	2	Laboratory Technician	3	3448	0	4	20	1	0
-54	Research & Development	522	1	3	Research Director	1	19406	0	3	24	4	2
-34	Sales	523	0	3	Sales Executive	3	6538	0	3	6	3	2
-31	Research & Development	524	0	3	Manufacturing Director	1	4306	0	3	13	13	10
-43	Research & Development	525	1	3	Laboratory Technician	4	2258	0	4	8	3	2
-43	Research & Development	526	0	3	Healthcare Representative	3	4522	1	3	8	5	2
-25	Sales	527	0	2	Sales Executive	4	4487	1	3	5	5	4
-37	Research & Development	529	0	3	Research Scientist	3	4449	1	3	15	13	11
-31	Research & Development	530	1	2	Laboratory Technician	1	2218	0	3	4	4	2
-39	Research & Development	531	1	3	Manager	3	19197	1	3	21	21	8
-56	Sales	532	0	4	Sales Executive	1	13212	0	3	36	7	7
-30	Sales	533	0	3	Sales Executive	3	6577	0	3	6	5	4
-41	Sales	534	1	4	Sales Executive	1	8392	0	3	10	10	7
-28	Research & Development	536	1	3	Laboratory Technician	1	4558	0	3	10	10	0
-25	Research & Development	538	1	3	Laboratory Technician	1	4031	0	3	6	2	2
-52	Research & Development	543	1	2	Manufacturing Director	3	7969	1	3	28	5	4
-45	Research & Development	544	1	3	Research Scientist	4	2654	0	4	8	2	2
-52	Research & Development	546	0	3	Manager	4	16555	0	3	31	5	2
-42	Research & Development	547	0	3	Research Scientist	3	4556	0	3	19	5	4
-30	Research & Development	548	0	1	Manufacturing Director	4	6091	0	4	11	5	4
-60	Research & Development	549	0	3	Manager	1	19566	0	3	33	29	8
-46	Research & Development	550	0	3	Manufacturing Director	3	4810	0	3	19	10	7
-42	Research & Development	551	0	2	Healthcare Representative	4	4523	0	3	7	6	5
-24	Sales	554	0	3	Sales Representative	2	3202	1	3	6	5	3
-34	Sales	555	0	1	Sales Representative	3	2351	0	3	3	2	2
-38	Research & Development	556	1	3	Laboratory Technician	4	1702	1	4	1	1	0
-40	Sales	558	0	3	Manager	3	18041	0	3	21	20	15
-26	Research & Development	560	0	3	Research Scientist	4	2886	0	4	3	3	2
-30	Research & Development	562	1	3	Laboratory Technician	4	2097	0	3	9	5	3
-29	Research & Development	564	1	2	Research Director	3	11935	0	3	10	10	2
-29	Research & Development	565	0	2	Research Scientist	2	2546	0	3	6	2	2
-19	Human Resources	566	1	2	Human Resources	4	2564	0	3	1	1	0
-30	Sales	567	0	3	Sales Executive	1	8412	0	3	10	9	8
-57	Sales	568	1	2	Manager	4	14118	0	3	32	1	0
-50	Research & Development	569	1	2	Manager	3	17046	0	3	28	27	10
-30	Research & Development	571	0	3	Laboratory Technician	4	2564	0	3	12	11	7
-60	Sales	573	0	2	Sales Executive	1	10266	0	3	22	18	13
-47	Research & Development	574	0	3	Manufacturing Director	4	5070	0	3	20	5	0
-46	Research & Development	575	1	3	Research Director	3	17861	0	3	26	3	2
-35	Research & Development	577	1	1	Laboratory Technician	3	4230	0	3	6	5	4
-54	Research & Development	578	0	3	Laboratory Technician	3	3780	0	3	19	1	0
-34	Research & Development	579	1	2	Research Scientist	3	2768	0	3	14	7	3
-46	Sales	580	0	2	Sales Executive	4	9071	1	3	15	3	2
-31	Research & Development	581	1	3	Manufacturing Director	2	10648	0	4	13	13	8
-33	Research & Development	582	1	3	Manager	3	13610	1	3	15	7	6
-33	Research & Development	584	1	1	Laboratory Technician	4	3408	0	3	8	4	3
-30	Sales	585	1	3	Sales Representative	2	2983	0	3	4	3	2
-35	Research & Development	586	1	3	Healthcare Representative	3	7632	1	3	10	8	7
-31	Research & Development	587	1	3	Healthcare Representative	3	9824	0	3	12	1	0
-34	Human Resources	590	0	3	Human Resources	1	9950	1	3	11	3	2
-42	Research & Development	591	1	3	Laboratory Technician	3	2093	0	3	8	2	2
-36	Sales	592	1	3	Sales Executive	4	9980	0	3	10	10	3
-22	Research & Development	593	1	2	Laboratory Technician	3	3894	0	3	4	2	2
-48	Sales	595	0	3	Sales Executive	4	4051	0	3	14	9	7
-55	Sales	597	0	3	Manager	2	16835	0	4	37	10	9
-41	Sales	599	1	3	Sales Executive	4	6230	0	3	16	14	3
-35	Sales	600	1	3	Sales Executive	3	4717	0	3	15	11	9
-40	Research & Development	601	0	3	Manufacturing Director	3	13237	0	3	22	20	6
-39	Research & Development	602	0	3	Laboratory Technician	3	3755	0	3	8	8	3
-31	Sales	604	1	3	Sales Executive	4	6582	1	3	10	6	5
-42	Research & Development	605	1	3	Manufacturing Director	1	7406	1	4	10	10	9
-45	Sales	606	1	3	Sales Executive	2	4805	0	3	9	8	7
-26	Human Resources	608	0	3	Human Resources	3	2741	1	3	8	7	7
-29	Research & Development	611	1	3	Manufacturing Director	4	4262	0	3	8	3	2
-33	Research & Development	612	0	4	Research Director	3	16184	0	3	10	6	1
-31	Sales	613	1	2	Manager	4	11557	0	4	10	5	4
-18	Sales	614	1	3	Sales Representative	2	1878	1	3	0	0	0
-40	Sales	615	1	1	Sales Executive	1	10932	0	3	20	1	0
-41	Research & Development	616	0	2	Healthcare Representative	3	6811	1	3	10	8	7
-26	Sales	618	1	3	Sales Executive	3	4306	0	3	8	0	0
-35	Sales	620	0	3	Sales Executive	3	4859	0	3	5	5	4
-34	Sales	621	1	4	Sales Executive	4	5337	0	3	10	10	7
-26	Research & Development	622	1	1	Laboratory Technician	4	2340	1	3	1	1	0
-37	Research & Development	623	0	3	Manufacturing Director	4	7491	0	3	12	6	5
-46	Research & Development	624	0	3	Healthcare Representative	3	10527	0	3	28	2	2
-41	Sales	625	0	3	Manager	1	16595	0	3	22	18	16
-37	Sales	626	1	3	Sales Executive	2	8834	0	3	9	9	5
-52	Research & Development	630	1	3	Research Scientist	1	5577	1	3	18	10	9
-32	Sales	631	1	4	Sales Executive	3	4707	0	3	6	4	2
-24	Sales	632	1	3	Sales Representative	4	2400	0	3	3	2	2
-38	Research & Development	634	0	3	Healthcare Representative	3	9824	0	3	18	1	0
-37	Research & Development	635	0	3	Manufacturing Director	2	6447	0	3	8	6	5
-49	Research & Development	638	1	2	Research Director	3	19502	1	3	31	31	9
-24	Research & Development	639	1	4	Research Scientist	4	2725	1	3	6	6	5
-26	Sales	641	1	3	Sales Executive	2	6272	0	4	6	5	3
-24	Research & Development	643	1	2	Laboratory Technician	2	2127	0	4	1	1	0
-50	Human Resources	644	1	3	Manager	2	18200	0	3	32	32	5
-25	Sales	645	1	3	Sales Representative	3	2096	0	3	7	7	4
-24	Research & Development	647	0	3	Laboratory Technician	3	2886	1	3	6	6	3
-30	Sales	648	1	2	Sales Representative	1	2033	0	3	1	1	0
-34	Research & Development	649	1	2	Research Scientist	4	3622	1	3	6	6	5
-31	Sales	650	1	3	Sales Executive	1	4233	0	3	9	3	1
-35	Research & Development	652	1	2	Laboratory Technician	4	3681	0	3	9	3	2
-31	Sales	653	1	4	Sales Executive	4	5460	0	4	13	7	7
-27	Research & Development	655	0	2	Research Scientist	3	2187	0	3	6	5	3
-37	Sales	656	1	3	Sales Executive	3	9602	1	3	17	3	0
-20	Research & Development	657	0	2	Research Scientist	2	2836	0	3	1	1	0
-42	Research & Development	659	0	3	Healthcare Representative	4	4089	0	3	10	10	2
-43	Research & Development	661	1	2	Research Director	4	16627	1	3	21	1	0
-38	Research & Development	662	0	3	Research Scientist	1	2619	0	3	8	0	0
-43	Research & Development	663	1	3	Laboratory Technician	3	5679	1	3	10	8	7
-48	Research & Development	664	0	2	Manager	1	15402	0	3	21	3	2
-44	Human Resources	665	0	2	Human Resources	3	5985	0	3	10	2	2
-34	Sales	666	0	3	Sales Representative	3	2579	1	3	8	8	2
-27	Sales	667	1	3	Sales Representative	1	3041	0	3	5	4	3
-21	Sales	669	1	3	Sales Representative	3	3447	0	3	3	3	2
-44	Research & Development	671	1	3	Manager	4	19513	1	3	26	2	2
-22	Research & Development	675	1	3	Research Scientist	3	2773	0	4	3	2	2
-33	Sales	677	1	3	Sales Executive	3	7104	0	3	6	5	0
-32	Research & Development	679	0	3	Research Scientist	4	6322	1	3	6	6	4
-30	Research & Development	680	0	3	Research Scientist	3	2083	0	4	1	1	0
-53	Sales	682	0	3	Sales Executive	1	8381	0	4	18	14	7
-34	Research & Development	683	1	3	Research Scientist	4	2691	0	3	10	10	9
-45	Sales	684	0	3	Sales Executive	1	4286	0	3	5	1	1
-26	Research & Development	686	0	3	Laboratory Technician	4	2659	1	3	3	3	2
-37	Research & Development	689	1	3	Manufacturing Director	3	9434	0	3	10	10	7
-29	Sales	690	0	3	Sales Executive	3	5561	0	3	6	6	0
-35	Research & Development	691	1	1	Research Scientist	4	6646	0	3	17	17	11
-33	Research & Development	692	1	3	Healthcare Representative	4	7725	0	4	15	13	11
-54	Human Resources	698	1	3	Human Resources	2	10725	0	3	16	9	7
-36	Research & Development	699	1	2	Manufacturing Director	2	8847	1	3	13	3	2
-27	Research & Development	700	1	2	Research Scientist	4	2045	0	3	5	4	2
-20	Research & Development	701	1	3	Research Scientist	3	1009	1	3	1	1	0
-33	Research & Development	702	1	3	Research Scientist	1	3348	1	3	10	10	8
-35	Research & Development	704	1	2	Laboratory Technician	3	1281	0	3	1	1	0
-23	Research & Development	705	1	4	Research Scientist	1	2819	0	3	5	3	2
-25	Sales	707	1	4	Sales Executive	2	4851	0	4	4	3	2
-38	Sales	709	0	2	Sales Executive	4	4028	0	4	8	7	7
-29	Research & Development	710	1	1	Research Scientist	4	2720	0	3	10	10	7
-48	Sales	712	1	4	Sales Executive	2	8120	0	3	12	2	2
-27	Sales	714	0	4	Sales Executive	4	4647	1	4	6	6	5
-37	Research & Development	715	1	4	Research Scientist	4	4680	0	3	4	1	0
-50	Research & Development	716	1	4	Laboratory Technician	3	3221	1	3	20	20	8
-34	Research & Development	717	0	2	Healthcare Representative	2	8621	0	3	9	8	7
-24	Sales	720	0	3	Sales Executive	3	4577	0	3	4	2	2
-39	Research & Development	721	0	2	Healthcare Representative	3	4553	0	3	20	20	7
-32	Sales	722	1	3	Sales Executive	4	5396	0	3	10	10	7
-50	Sales	723	1	3	Sales Executive	3	6796	1	3	18	4	3
-38	Research & Development	724	0	4	Healthcare Representative	4	7625	0	3	10	9	7
-27	Research & Development	725	0	3	Manufacturing Director	1	7412	0	3	9	9	7
-32	Research & Development	727	0	3	Research Director	4	11159	0	3	10	7	7
-47	Sales	728	1	3	Sales Executive	1	4960	0	3	20	7	7
-40	Sales	729	1	2	Sales Executive	1	10475	1	4	20	18	13
-53	Research & Development	730	1	4	Research Director	3	14814	0	3	32	5	1
-41	Human Resources	731	1	2	Manager	4	19141	0	3	23	21	6
-60	Sales	732	1	3	Sales Executive	1	5405	0	3	10	2	2
-27	Research & Development	733	1	3	Manufacturing Director	1	8793	0	4	9	9	7
-41	Human Resources	734	1	2	Manager	3	19189	0	3	22	22	7
-50	Sales	738	1	3	Sales Representative	2	3875	0	3	4	2	2
-28	Research & Development	741	0	1	Research Scientist	2	2216	1	3	10	7	7
-36	Research & Development	742	0	4	Research Director	1	11713	0	3	10	8	7
-38	Research & Development	743	0	3	Manufacturing Director	3	7861	1	3	10	1	0
-44	Research & Development	744	1	1	Laboratory Technician	3	3708	0	3	9	5	2
-47	Sales	746	0	3	Sales Executive	3	13770	1	3	28	22	2
-30	Sales	747	1	3	Sales Executive	4	5304	0	4	10	8	7
-29	Sales	749	1	3	Sales Representative	3	2642	0	3	1	1	0
-42	Research & Development	752	1	4	Research Scientist	3	2759	1	3	7	2	2
-43	Sales	754	1	2	Sales Executive	4	6804	0	3	7	2	2
-34	Research & Development	757	0	3	Healthcare Representative	3	6142	0	3	10	5	1
-23	Research & Development	758	1	3	Laboratory Technician	1	2500	0	3	5	4	3
-39	Human Resources	760	0	4	Human Resources	2	6389	0	3	12	8	3
-56	Research & Development	762	1	3	Healthcare Representative	4	11103	0	3	30	10	7
-40	Research & Development	763	0	2	Research Scientist	4	2342	1	4	5	4	2
-27	Research & Development	764	0	2	Healthcare Representative	1	6811	0	3	9	7	6
-29	Sales	766	1	3	Sales Representative	2	2297	0	3	2	2	2
-53	Research & Development	769	1	3	Laboratory Technician	4	2450	0	3	19	2	2
-35	Research & Development	771	0	3	Healthcare Representative	1	5093	0	3	16	1	0
-32	Research & Development	772	1	3	Laboratory Technician	4	5309	0	3	10	10	8
-38	Research & Development	773	1	3	Research Scientist	3	3057	1	3	6	1	0
-34	Research & Development	775	0	3	Manufacturing Director	1	5121	0	3	7	0	0
-52	Sales	776	1	2	Manager	1	16856	0	3	34	34	6
-33	Research & Development	780	1	3	Research Scientist	4	2686	1	3	10	10	9
-25	Sales	781	0	3	Sales Executive	4	6180	0	4	6	6	5
-45	Sales	783	1	1	Sales Representative	3	6632	0	3	9	8	7
-23	Research & Development	784	1	4	Research Scientist	3	3505	0	3	2	2	2
-47	Sales	785	0	4	Sales Executive	3	6397	1	3	8	5	4
-34	Sales	786	1	3	Sales Executive	4	6274	0	4	6	6	5
-55	Research & Development	787	1	3	Manager	1	19859	1	3	24	5	2
-36	Sales	789	1	2	Sales Executive	1	7587	0	3	10	10	7
-52	Research & Development	791	1	3	Research Scientist	4	4258	0	3	5	4	3
-26	Research & Development	792	0	1	Laboratory Technician	4	4364	0	3	5	2	2
-29	Research & Development	793	0	3	Healthcare Representative	3	4335	0	3	11	8	7
-26	Sales	796	1	2	Sales Executive	1	5326	0	3	6	4	3
-34	Research & Development	797	0	4	Research Scientist	4	3280	0	3	10	4	2
-54	Research & Development	799	0	3	Manufacturing Director	1	5485	1	3	9	5	3
-27	Sales	800	1	3	Sales Executive	4	4342	0	3	5	4	2
-37	Research & Development	802	0	3	Research Scientist	1	2782	1	3	6	5	3
-38	Research & Development	803	0	4	Manufacturing Director	1	5980	1	3	17	15	7
-34	Research & Development	804	0	2	Research Scientist	1	4381	0	3	6	6	5
-35	Sales	805	0	3	Sales Representative	4	2572	0	3	3	3	2
-30	Research & Development	806	1	1	Laboratory Technician	3	3833	0	4	7	2	2
-40	Research & Development	807	0	4	Healthcare Representative	2	4244	0	4	8	8	7
-34	Sales	808	0	3	Sales Executive	1	6500	0	3	6	3	2
-42	Research & Development	809	1	3	Manager	4	18430	0	3	24	24	7
-23	Research & Development	811	1	4	Laboratory Technician	1	1601	1	4	1	0	0
-24	Research & Development	812	1	2	Laboratory Technician	2	2694	0	3	1	1	0
-52	Research & Development	813	0	3	Laboratory Technician	3	3149	0	4	9	5	2
-50	Research & Development	815	1	3	Research Director	3	17639	0	3	30	4	3
-29	Research & Development	816	0	2	Laboratory Technician	1	2319	1	3	1	1	0
-33	Research & Development	817	1	3	Research Director	3	11691	0	3	14	13	9
-33	Sales	819	0	3	Sales Executive	1	5324	0	3	6	3	2
-47	Research & Development	820	0	3	Manager	4	16752	1	3	26	26	14
-36	Research & Development	823	0	3	Manufacturing Director	2	5228	0	3	10	9	7
-29	Research & Development	824	1	4	Research Scientist	3	2700	0	4	10	10	7
-58	Research & Development	825	1	3	Research Director	2	19246	1	3	40	31	15
-35	Research & Development	826	0	4	Research Scientist	3	2506	0	3	7	2	2
-42	Research & Development	827	0	2	Manufacturing Director	4	6062	1	3	8	4	3
-28	Research & Development	828	1	3	Research Scientist	3	4382	0	3	5	2	2
-36	Human Resources	829	1	3	Human Resources	2	2143	0	3	8	5	2
-32	Research & Development	830	0	2	Manufacturing Director	3	6162	0	3	14	14	13
-40	Research & Development	832	1	2	Laboratory Technician	3	5094	0	3	10	1	0
-30	Research & Development	833	0	2	Manufacturing Director	4	6877	1	4	12	0	0
-45	Research & Development	834	0	2	Research Scientist	3	2274	0	3	1	1	0
-42	Research & Development	836	1	3	Manufacturing Director	2	4434	0	3	10	9	8
-38	Research & Development	837	1	2	Healthcare Representative	1	6288	0	3	13	4	3
-34	Research & Development	838	0	2	Research Scientist	4	2553	0	3	6	5	2
-49	Sales	840	0	3	Sales Executive	4	7654	0	3	9	9	8
-55	Sales	842	1	3	Sales Executive	4	5160	0	3	12	9	7
-43	Research & Development	843	1	3	Research Director	1	17159	0	4	22	4	1
-27	Research & Development	844	1	2	Research Director	4	12808	1	3	9	9	8
-35	Research & Development	845	1	3	Manufacturing Director	3	10221	0	4	17	8	5
-28	Sales	846	0	3	Sales Executive	2	4779	1	4	8	8	7
-34	Human Resources	847	1	3	Human Resources	4	3737	0	3	4	3	2
-26	Research & Development	848	0	2	Research Scientist	3	2366	1	3	8	8	7
-27	Research & Development	850	1	3	Research Scientist	4	1706	0	3	0	0	0
-51	Sales	851	0	3	Manager	3	16307	0	3	29	20	6
-44	Research & Development	852	1	3	Healthcare Representative	2	5933	0	3	10	5	2
-25	Research & Development	854	1	4	Research Scientist	1	3424	0	3	6	4	3
-33	Sales	855	1	4	Sales Executive	1	4037	0	4	9	9	8
-35	Research & Development	856	0	2	Research Scientist	1	2559	0	3	6	6	5
-36	Sales	857	1	3	Sales Executive	4	6201	1	3	18	18	14
-32	Sales	859	1	3	Sales Executive	4	4403	0	3	8	5	2
-30	Research & Development	861	1	2	Research Scientist	4	3761	0	3	10	5	4
-53	Sales	862	0	2	Sales Executive	4	10934	1	3	35	5	2
-45	Sales	864	1	3	Sales Executive	1	10761	1	3	18	5	4
-32	Research & Development	865	0	4	Research Scientist	3	5175	0	3	9	5	3
-52	Research & Development	867	0	2	Manufacturing Director	4	13826	0	4	31	9	8
-37	Sales	868	1	2	Sales Executive	3	6334	0	3	9	1	0
-28	Human Resources	869	1	2	Human Resources	4	4936	0	3	6	5	1
-22	Research & Development	872	1	2	Manufacturing Director	4	4775	0	4	4	2	2
-44	Research & Development	874	1	4	Laboratory Technician	4	2818	1	4	10	3	2
-42	Research & Development	875	1	3	Research Scientist	4	2515	1	3	8	2	1
-36	Human Resources	878	1	2	Human Resources	1	2342	0	4	6	5	4
-25	Sales	879	1	3	Sales Executive	1	4194	1	3	5	5	3
-35	Research & Development	880	0	2	Manufacturing Director	3	10685	1	4	17	17	14
-35	Research & Development	881	0	3	Research Scientist	2	2022	1	3	10	10	2
-32	Research & Development	882	1	3	Laboratory Technician	4	2314	0	3	4	3	0
-25	Sales	885	1	2	Sales Executive	1	4256	0	3	5	5	2
-49	Research & Development	887	0	3	Research Scientist	1	3580	0	3	7	4	2
-24	Research & Development	888	1	2	Laboratory Technician	4	3162	0	3	6	5	2
-32	Sales	889	1	3	Sales Executive	2	6524	0	3	10	10	8
-38	Sales	893	1	2	Sales Representative	2	2899	0	3	3	2	2
-42	Research & Development	894	0	4	Laboratory Technician	4	5231	1	3	17	5	3
-31	Research & Development	895	1	3	Research Scientist	4	2356	1	3	8	6	4
-29	Sales	896	0	2	Sales Representative	3	2800	1	3	5	3	2
-53	Sales	897	1	3	Sales Executive	4	11836	0	3	28	2	0
-35	Research & Development	899	1	2	Manufacturing Director	2	10903	0	3	16	13	10
-37	Sales	900	0	3	Sales Representative	4	2973	0	3	10	5	4
-53	Research & Development	901	0	3	Research Director	4	14275	0	3	33	12	9
-43	Research & Development	902	0	3	Healthcare Representative	4	5562	0	3	12	5	2
-47	Sales	903	0	3	Sales Executive	4	4537	1	4	8	7	6
-37	Sales	904	1	3	Sales Executive	2	7642	1	3	10	10	0
-50	Research & Development	905	1	3	Manager	1	17924	0	3	31	31	6
-39	Human Resources	909	0	2	Human Resources	4	5204	0	3	13	5	4
-33	Human Resources	910	1	3	Human Resources	2	2277	1	3	7	4	3
-32	Research & Development	911	1	3	Laboratory Technician	4	2795	1	4	1	1	0
-29	Research & Development	912	0	2	Laboratory Technician	4	2532	0	3	8	4	3
-44	Research & Development	913	1	3	Research Scientist	1	2559	1	3	8	8	7
-28	Sales	916	1	3	Sales Executive	4	4908	0	3	4	4	2
-58	Research & Development	918	1	2	Laboratory Technician	4	2380	1	3	3	1	0
-43	Research & Development	920	0	3	Manufacturing Director	2	4765	0	4	4	1	0
-20	Sales	922	0	2	Sales Representative	3	2044	0	3	2	2	2
-21	Research & Development	923	0	3	Research Scientist	4	2693	0	3	1	1	0
-36	Research & Development	924	1	3	Healthcare Representative	4	6586	1	3	17	16	8
-47	Sales	925	0	2	Sales Representative	4	3294	1	3	3	3	2
-22	Research & Development	926	0	3	Manufacturing Director	3	4171	1	3	4	3	2
-41	Research & Development	927	0	1	Laboratory Technician	4	2778	1	3	10	7	7
-28	Research & Development	930	0	3	Research Scientist	3	2377	0	3	6	2	2
-39	Research & Development	932	1	3	Laboratory Technician	1	2404	1	4	8	2	2
-27	Research & Development	933	0	3	Research Scientist	3	2318	0	3	1	1	1
-34	Research & Development	934	1	3	Laboratory Technician	2	2008	0	3	1	1	0
-42	Sales	936	0	2	Sales Executive	3	6244	0	3	10	5	4
-33	Research & Development	939	1	2	Research Scientist	1	2799	1	3	6	3	2
-58	Research & Development	940	0	2	Healthcare Representative	2	10552	1	3	24	6	0
-31	Sales	941	1	2	Sales Representative	3	2329	0	3	13	7	7
-35	Research & Development	942	0	3	Healthcare Representative	4	4014	1	4	10	10	6
-49	Research & Development	944	0	3	Laboratory Technician	2	7403	0	3	29	26	9
-48	Research & Development	945	1	3	Research Scientist	3	2259	0	3	13	0	0
-31	Sales	947	0	3	Sales Executive	3	6932	0	3	9	9	8
-36	Research & Development	949	1	3	Research Scientist	4	4678	0	3	8	6	2
-38	Research & Development	950	0	3	Research Director	1	13582	0	3	15	15	12
-32	Research & Development	951	0	2	Laboratory Technician	2	2332	0	4	5	3	0
-25	Sales	952	1	2	Sales Representative	2	2413	1	3	1	1	0
-40	Sales	954	1	2	Sales Executive	2	9705	0	3	11	1	0
-26	Sales	956	1	2	Sales Executive	1	4294	0	3	7	7	7
-41	Research & Development	957	1	3	Laboratory Technician	1	4721	1	3	20	18	13
-36	Research & Development	958	1	3	Laboratory Technician	3	2519	0	4	16	11	8
-19	Sales	959	1	2	Sales Representative	2	2121	1	3	1	1	0
-20	Research & Development	960	1	3	Laboratory Technician	1	2973	0	3	1	1	0
-31	Research & Development	961	0	3	Healthcare Representative	4	5855	1	3	10	9	7
-40	Research & Development	964	1	3	Research Scientist	2	3617	1	3	3	1	1
-32	Research & Development	966	0	3	Manufacturing Director	1	6725	0	3	8	8	7
-36	Sales	967	1	2	Sales Executive	4	10325	1	3	16	16	7
-33	Research & Development	969	0	2	Healthcare Representative	4	6949	0	3	6	5	0
-37	Sales	970	1	2	Sales Executive	3	10609	0	3	17	14	1
-45	Research & Development	972	1	3	Laboratory Technician	2	4447	0	3	9	9	7
-29	Sales	974	0	3	Sales Representative	4	2157	0	3	3	3	1
-35	Sales	975	0	3	Sales Executive	3	4601	0	3	5	5	2
-52	Research & Development	976	1	3	Manager	4	17099	0	3	26	9	8
-58	Research & Development	977	1	3	Research Scientist	3	2479	0	4	7	1	0
-53	Sales	981	1	3	Manager	3	14852	0	3	22	17	13
-30	Sales	982	1	3	Sales Executive	3	7264	0	3	10	8	4
-38	Sales	983	0	3	Sales Executive	4	5666	1	3	6	5	3
-35	Sales	984	1	3	Sales Executive	4	7823	0	3	12	10	9
-39	Sales	985	1	4	Sales Executive	3	7880	0	3	9	8	7
-40	Sales	986	0	4	Sales Executive	2	13194	1	3	22	1	0
-47	Research & Development	987	1	4	Manufacturing Director	3	5067	1	3	20	19	10
-36	Sales	990	1	3	Sales Executive	4	5079	0	3	12	7	7
-31	Research & Development	991	1	2	Research Scientist	1	2321	1	4	4	3	2
-33	Sales	992	1	3	Manager	3	17444	0	3	10	10	8
-29	Research & Development	994	0	2	Research Scientist	1	2404	1	4	3	0	0
-33	Research & Development	995	0	3	Research Scientist	4	3452	0	3	5	3	2
-45	Research & Development	996	0	3	Laboratory Technician	4	2270	0	3	8	5	3
-50	Research & Development	997	1	3	Research Director	4	17399	0	4	32	5	4
-33	Research & Development	998	0	4	Healthcare Representative	2	5488	1	3	6	6	5
-41	Research & Development	999	1	3	Research Director	3	19419	0	3	21	18	16
-27	Research & Development	1001	0	3	Laboratory Technician	2	2811	0	3	4	2	2
-45	Research & Development	1002	1	3	Laboratory Technician	1	3633	1	3	9	9	8
-47	Sales	1003	0	3	Sales Executive	4	4163	1	3	9	9	0
-30	Research & Development	1004	0	3	Research Scientist	3	2132	1	3	7	5	2
-50	Research & Development	1005	1	3	Manufacturing Director	3	13973	1	3	22	12	11
-38	Research & Development	1006	1	3	Research Scientist	3	2684	0	3	3	2	1
-46	Research & Development	1007	1	3	Manufacturing Director	3	10845	0	3	13	8	7
-24	Research & Development	1009	0	2	Manufacturing Director	3	4377	0	3	5	4	2
-35	Research & Development	1010	1	2	Laboratory Technician	2	3743	1	4	5	4	2
-31	Research & Development	1011	0	3	Manufacturing Director	1	4148	0	3	4	4	3
-18	Research & Development	1012	1	3	Research Scientist	4	1051	0	3	0	0	0
-54	Research & Development	1013	0	3	Manufacturing Director	3	10739	0	3	22	10	7
-35	Research & Development	1014	0	3	Healthcare Representative	3	10388	1	3	16	16	10
-30	Research & Development	1015	0	4	Research Director	1	11416	1	3	9	8	7
-20	Research & Development	1016	0	2	Research Scientist	1	2600	1	3	1	1	0
-30	Research & Development	1017	0	3	Laboratory Technician	2	2422	0	3	4	3	2
-26	Research & Development	1018	1	4	Manufacturing Director	4	5472	0	3	8	8	7
-22	Research & Development	1019	1	1	Laboratory Technician	1	2451	0	3	4	4	3
-48	Research & Development	1022	1	2	Healthcare Representative	3	4240	0	3	19	2	2
-48	Research & Development	1024	1	2	Healthcare Representative	3	10999	0	3	27	15	11
-41	Research & Development	1025	0	3	Manufacturing Director	3	5003	0	3	8	2	2
-39	Research & Development	1026	0	2	Manufacturing Director	4	12742	0	3	21	21	6
-27	Research & Development	1027	0	3	Manufacturing Director	4	4227	0	3	4	3	2
-35	Research & Development	1028	1	3	Laboratory Technician	4	3917	0	4	3	3	2
-42	Sales	1029	1	3	Manager	3	18303	0	3	21	1	0
-50	Research & Development	1030	1	3	Laboratory Technician	4	2380	0	3	8	1	0
-59	Research & Development	1032	0	2	Manufacturing Director	4	13726	1	3	30	5	3
-37	Research & Development	1033	0	1	Healthcare Representative	2	4777	0	3	15	1	0
-55	Research & Development	1034	1	3	Healthcare Representative	2	6385	1	3	17	8	7
-41	Research & Development	1035	0	1	Research Director	3	19973	0	4	21	21	16
-38	Sales	1036	1	3	Sales Executive	4	6861	1	3	19	1	0
-26	Sales	1037	1	1	Sales Executive	1	4969	0	3	7	2	2
-52	Sales	1038	0	1	Manager	4	19845	0	3	33	32	14
-44	Sales	1039	0	4	Sales Executive	4	13320	1	3	23	12	11
-50	Sales	1040	0	3	Sales Executive	3	6347	0	3	19	18	7
-36	Research & Development	1042	0	4	Laboratory Technician	1	2743	0	3	18	17	13
-39	Research & Development	1043	0	3	Manufacturing Director	1	10880	1	3	21	21	6
-33	Sales	1044	0	2	Sales Representative	4	2342	0	3	3	2	2
-45	Sales	1045	0	3	Manager	4	17650	0	3	26	9	3
-32	Research & Development	1046	0	3	Laboratory Technician	3	4025	0	3	10	8	7
-34	Sales	1047	1	4	Sales Executive	4	9725	0	3	16	15	1
-59	Sales	1048	1	3	Manager	4	11904	1	3	14	6	4
-45	Human Resources	1049	1	3	Human Resources	2	2177	0	3	6	6	3
-53	Sales	1050	0	2	Sales Executive	2	7525	0	3	30	15	7
-36	Research & Development	1052	1	3	Laboratory Technician	3	4834	0	3	9	1	0
-26	Research & Development	1053	1	3	Research Scientist	1	2042	1	3	6	3	2
-34	Sales	1055	0	3	Sales Representative	3	2220	1	3	1	1	1
-28	Sales	1056	1	3	Sales Representative	2	1052	0	4	1	1	0
-38	Research & Development	1060	1	3	Research Scientist	3	2821	0	3	8	2	2
-50	Research & Development	1061	1	3	Research Director	3	19237	1	3	29	8	1
-37	Research & Development	1062	0	3	Healthcare Representative	2	4107	0	3	8	4	3
-40	Sales	1066	1	3	Sales Executive	1	8396	0	3	8	7	7
-26	Research & Development	1068	0	2	Research Scientist	3	2007	0	3	5	5	3
-46	Research & Development	1069	1	3	Research Director	4	19627	0	3	23	2	2
-54	Sales	1070	0	2	Sales Executive	3	10686	0	3	13	9	4
-56	Research & Development	1071	0	3	Research Scientist	3	2942	0	3	18	5	4
-36	Research & Development	1073	0	2	Manufacturing Director	4	8858	0	3	15	14	8
-55	Research & Development	1074	1	2	Manager	1	16756	0	3	31	9	7
-43	Sales	1076	1	2	Sales Executive	4	10798	0	3	18	1	0
-20	Sales	1077	0	3	Sales Representative	4	2323	1	3	2	2	2
-21	Research & Development	1079	0	2	Laboratory Technician	1	1416	0	3	1	1	0
-46	Research & Development	1080	0	2	Research Scientist	1	4615	1	4	19	16	13
-51	Research & Development	1081	1	3	Research Scientist	3	2461	1	3	18	10	0
-28	Research & Development	1082	1	2	Healthcare Representative	1	8722	0	3	10	10	7
-26	Research & Development	1083	1	2	Laboratory Technician	1	3955	0	3	6	5	3
-30	Research & Development	1084	1	3	Manufacturing Director	1	9957	0	3	7	6	2
-41	Research & Development	1085	0	4	Research Scientist	3	3376	0	3	10	10	6
-38	Research & Development	1088	0	2	Healthcare Representative	3	8823	0	3	20	19	9
-40	Research & Development	1092	1	3	Healthcare Representative	4	10322	0	4	14	11	10
-27	Research & Development	1094	1	1	Laboratory Technician	3	4621	0	3	3	3	2
-55	Research & Development	1096	1	3	Manufacturing Director	2	10976	0	3	23	3	2
-28	Research & Development	1097	0	3	Research Scientist	3	3660	0	3	10	8	7
-44	Human Resources	1098	1	2	Human Resources	1	10482	0	3	24	20	6
-33	Research & Development	1099	1	2	Healthcare Representative	4	7119	0	3	9	3	2
-35	Sales	1100	1	3	Sales Executive	1	9582	1	4	9	8	7
-33	Research & Development	1101	0	2	Research Scientist	3	4508	0	4	14	13	7
-28	Research & Development	1102	1	3	Laboratory Technician	3	2207	0	3	4	4	2
-34	Research & Development	1103	1	3	Healthcare Representative	4	7756	0	3	7	6	2
-37	Sales	1105	0	2	Sales Executive	4	6694	1	3	8	1	0
-25	Research & Development	1106	1	3	Laboratory Technician	4	3691	1	3	7	7	7
-26	Research & Development	1107	1	3	Laboratory Technician	3	2377	0	4	1	1	1
-33	Research & Development	1108	1	2	Research Scientist	2	2313	1	4	5	2	2
-42	Research & Development	1109	1	3	Manager	1	17665	0	3	23	22	6
-28	Research & Development	1111	1	2	Laboratory Technician	2	2596	0	3	1	1	0
-50	Sales	1113	1	3	Sales Executive	3	4728	1	3	5	0	0
-33	Sales	1114	0	3	Sales Executive	2	4302	0	3	4	3	2
-34	Research & Development	1115	1	2	Research Scientist	4	2979	0	3	6	0	0
-48	Research & Development	1116	1	4	Manager	4	16885	0	4	27	5	4
-45	Sales	1117	0	2	Sales Executive	3	5593	0	3	15	15	10
-52	Research & Development	1118	1	3	Healthcare Representative	2	10445	0	3	18	8	6
-38	Sales	1119	1	2	Sales Executive	3	8740	1	3	9	8	7
-29	Research & Development	1120	0	3	Research Scientist	4	2514	0	4	11	7	5
-28	Research & Development	1121	0	3	Manufacturing Director	2	7655	0	3	10	9	7
-46	Sales	1124	1	3	Manager	3	17465	0	3	23	12	9
-38	Sales	1125	1	3	Sales Executive	2	7351	0	3	10	1	0
-43	Research & Development	1126	0	3	Manufacturing Director	1	10820	0	3	18	8	7
-39	Research & Development	1127	1	3	Healthcare Representative	4	12169	0	3	21	18	7
-40	Research & Development	1128	1	2	Research Director	3	19626	0	3	21	20	7
-21	Research & Development	1131	0	2	Research Scientist	2	2070	1	3	2	2	2
-39	Research & Development	1132	1	3	Laboratory Technician	2	6782	0	3	9	5	4
-36	Research & Development	1133	1	3	Manufacturing Director	4	7779	0	4	18	11	9
-31	Sales	1135	1	4	Sales Representative	4	2791	0	3	3	2	2
-28	Research & Development	1136	1	2	Research Scientist	2	3201	0	3	6	5	3
-35	Sales	1137	1	3	Sales Executive	4	4968	0	3	5	5	2
-49	Sales	1138	1	2	Sales Executive	2	13120	0	3	22	9	8
-34	Research & Development	1140	1	3	Manufacturing Director	3	4033	0	3	5	3	2
-29	Research & Development	1143	0	3	Research Scientist	2	3291	0	3	8	7	5
-42	Research & Development	1148	1	1	Laboratory Technician	4	4272	0	3	16	1	0
-29	Research & Development	1150	1	2	Manufacturing Director	4	5056	1	3	10	10	7
-38	Human Resources	1152	1	4	Human Resources	3	2844	0	3	7	7	6
-28	Research & Development	1154	1	2	Research Scientist	3	2703	1	3	3	3	1
-18	Research & Development	1156	1	3	Laboratory Technician	3	1904	0	3	0	0	0
-33	Sales	1157	0	3	Sales Executive	1	8224	1	3	6	5	2
-41	Research & Development	1158	1	3	Laboratory Technician	4	4766	1	3	6	1	0
-31	Research & Development	1160	1	3	Laboratory Technician	3	2610	0	3	2	2	2
-37	Research & Development	1161	0	2	Healthcare Representative	4	5731	0	3	9	6	2
-27	Research & Development	1162	1	2	Research Scientist	3	2539	0	3	4	4	2
-34	Sales	1163	0	3	Sales Executive	3	5714	0	4	6	6	5
-35	Human Resources	1164	1	3	Human Resources	3	4323	0	3	6	5	4
-29	Sales	1165	0	2	Sales Executive	1	7336	0	3	11	11	8
-40	Research & Development	1166	0	3	Research Director	3	13499	0	3	20	18	7
-42	Sales	1167	1	3	Sales Executive	1	13758	1	3	22	21	9
-42	Sales	1171	1	3	Sales Executive	1	5155	0	3	9	6	4
-35	Research & Development	1172	1	2	Laboratory Technician	3	2258	0	3	10	8	0
-24	Research & Development	1173	1	3	Laboratory Technician	2	3597	0	4	6	4	3
-28	Research & Development	1175	0	3	Laboratory Technician	4	2515	1	3	1	1	1
-26	Research & Development	1177	1	4	Laboratory Technician	4	4420	0	4	8	8	7
-30	Sales	1179	1	2	Sales Executive	3	6578	0	3	10	10	3
-40	Research & Development	1180	0	2	Research Scientist	4	4422	1	3	16	1	1
-35	Research & Development	1182	1	2	Manufacturing Director	2	10274	0	3	15	7	7
-34	Research & Development	1184	1	2	Healthcare Representative	1	5343	0	4	14	13	9
-35	Research & Development	1185	1	2	Laboratory Technician	4	2376	0	3	2	2	2
-43	Sales	1188	0	1	Sales Executive	3	5346	0	3	7	4	3
-32	Sales	1190	0	3	Sales Representative	1	2827	0	3	1	1	0
-56	Research & Development	1191	0	3	Manager	1	19943	0	3	28	5	2
-29	Research & Development	1192	0	3	Laboratory Technician	4	3131	0	3	10	10	8
-19	Research & Development	1193	1	3	Research Scientist	1	2552	0	4	1	1	1
-45	Research & Development	1195	0	3	Research Scientist	3	4477	1	3	7	3	2
-37	Research & Development	1196	0	2	Manufacturing Director	4	6474	0	3	14	14	8
-20	Research & Development	1198	1	2	Laboratory Technician	3	3033	0	3	2	2	2
-44	Research & Development	1200	1	3	Research Scientist	3	2936	1	3	6	6	4
-53	Research & Development	1201	0	3	Manager	3	18606	0	3	26	7	7
-29	Research & Development	1202	0	1	Research Scientist	4	2168	1	3	6	5	4
-22	Research & Development	1203	1	2	Research Scientist	4	2853	1	3	1	0	0
-46	Sales	1204	0	3	Manager	1	17048	0	4	28	26	15
-44	Research & Development	1206	1	1	Research Scientist	3	2290	0	3	6	0	0
-33	Human Resources	1207	1	3	Human Resources	3	3600	0	3	5	5	4
-41	Research & Development	1210	1	2	Research Scientist	1	2107	0	3	5	1	0
-30	Sales	1211	1	3	Sales Executive	1	4115	0	3	8	4	3
-40	Sales	1212	1	3	Sales Executive	2	4327	0	3	5	0	0
-50	Research & Development	1215	0	3	Manager	1	17856	0	4	32	2	2
-28	Research & Development	1216	1	2	Laboratory Technician	1	3196	0	3	6	6	5
-46	Research & Development	1217	1	3	Research Director	2	19081	0	3	25	4	2
-35	Sales	1218	1	3	Sales Executive	1	8966	1	3	15	7	7
-24	Research & Development	1219	0	3	Laboratory Technician	2	2210	0	3	1	1	0
-33	Sales	1220	0	3	Sales Executive	3	4539	0	3	10	10	7
-36	Research & Development	1221	1	1	Laboratory Technician	3	2741	0	3	7	7	7
-30	Research & Development	1224	1	3	Laboratory Technician	3	3491	0	3	10	10	7
-44	Research & Development	1225	1	3	Research Scientist	4	4541	0	4	20	20	11
-20	Sales	1226	1	4	Sales Representative	4	2678	0	3	2	2	1
-46	Research & Development	1228	1	3	Manufacturing Director	4	7379	0	3	12	6	3
-42	Human Resources	1231	1	4	Human Resources	1	6272	0	3	10	4	3
-60	Sales	1233	1	4	Sales Executive	4	5220	1	3	12	11	7
-32	Research & Development	1234	0	2	Laboratory Technician	2	2743	0	4	2	2	2
-32	Research & Development	1235	0	3	Research Scientist	3	4998	1	3	10	8	7
-36	Research & Development	1237	0	1	Manufacturing Director	1	10252	1	4	17	7	7
-33	Research & Development	1238	1	3	Research Scientist	4	2781	0	3	15	14	10
-40	Sales	1239	0	2	Sales Executive	2	6852	0	3	7	5	1
-25	Sales	1240	1	3	Sales Executive	4	4950	0	3	5	4	3
-30	Research & Development	1241	1	3	Research Scientist	2	3579	1	4	12	11	9
-42	Research & Development	1242	0	3	Research Director	1	13191	1	3	20	1	0
-35	Sales	1243	0	2	Sales Executive	4	10377	1	3	16	13	2
-27	Research & Development	1244	1	3	Research Scientist	1	2235	1	3	9	9	7
-54	Research & Development	1245	0	3	Manufacturing Director	3	10502	0	3	33	5	4
-44	Research & Development	1246	0	4	Research Scientist	4	2011	0	3	10	10	5
-19	Research & Development	1248	0	2	Research Scientist	2	1859	1	4	1	1	1
-29	Research & Development	1249	0	3	Research Scientist	4	3760	0	3	3	3	2
-54	Research & Development	1250	1	3	Research Director	4	17779	0	3	36	10	9
-31	Research & Development	1251	1	3	Healthcare Representative	1	6833	1	3	6	6	5
-31	Research & Development	1252	0	2	Healthcare Representative	1	6812	0	3	10	10	9
-59	Sales	1254	0	2	Sales Executive	4	5171	0	3	13	6	1
-43	Research & Development	1255	1	1	Research Director	4	19740	0	3	25	8	7
-49	Research & Development	1256	1	2	Manager	3	18711	0	3	23	1	0
-36	Research & Development	1257	1	3	Research Scientist	2	3692	0	3	12	11	10
-48	Research & Development	1258	1	4	Laboratory Technician	2	2559	0	3	7	1	0
-27	Research & Development	1259	1	3	Research Scientist	3	2517	0	3	5	5	3
-29	Research & Development	1260	1	3	Healthcare Representative	4	6623	1	3	6	6	0
-48	Research & Development	1263	1	2	Research Director	4	18265	0	3	25	1	0
-29	Research & Development	1264	0	2	Research Director	4	16124	0	3	9	7	7
-34	Research & Development	1265	0	4	Research Scientist	3	2585	0	3	2	1	0
-44	Sales	1267	1	3	Manager	2	18213	0	3	26	22	9
-33	Sales	1268	1	4	Sales Executive	3	8380	1	3	10	9	8
-19	Research & Development	1269	0	4	Research Scientist	4	2994	1	3	1	1	0
-23	Research & Development	1270	1	3	Research Scientist	3	1223	0	4	1	1	0
-25	Sales	1273	1	1	Sales Representative	4	1118	1	3	1	1	0
-26	Research & Development	1275	1	3	Research Scientist	4	2875	1	4	8	8	5
-45	Sales	1277	0	1	Manager	2	18824	1	3	26	24	10
-55	Research & Development	1278	1	2	Healthcare Representative	2	13577	1	3	34	33	9
-21	Research & Development	1279	0	2	Laboratory Technician	3	2625	0	4	2	2	2
-46	Sales	1280	0	2	Manager	2	18789	0	3	26	11	4
-34	Sales	1281	0	3	Sales Executive	1	4538	1	3	4	3	2
-51	Sales	1282	1	3	Manager	2	19847	1	4	31	29	10
-59	Research & Development	1283	1	3	Manufacturing Director	4	10512	0	3	25	9	7
-34	Research & Development	1285	0	3	Laboratory Technician	2	4444	0	3	15	11	8
-28	Research & Development	1286	1	3	Laboratory Technician	3	2154	1	3	5	4	2
-44	Research & Development	1288	1	4	Manager	1	19190	0	3	26	25	9
-34	Human Resources	1289	1	2	Human Resources	2	4490	0	3	14	10	9
-35	Research & Development	1291	1	3	Research Scientist	3	3506	1	3	4	3	2
-42	Research & Development	1292	0	4	Research Scientist	2	2372	1	3	18	1	0
-43	Sales	1293	0	2	Sales Executive	4	10231	0	3	23	21	7
-36	Research & Development	1294	0	3	Manufacturing Director	2	5410	1	3	18	16	14
-44	Research & Development	1295	0	3	Healthcare Representative	4	7978	0	3	10	10	7
-28	Research & Development	1296	1	2	Laboratory Technician	4	3867	1	3	2	2	2
-51	Research & Development	1297	0	2	Laboratory Technician	3	2838	0	3	8	7	0
-30	Research & Development	1298	0	3	Manufacturing Director	3	4695	1	3	10	8	4
-29	Research & Development	1299	0	3	Laboratory Technician	3	3339	1	3	10	7	7
-28	Research & Development	1301	1	3	Research Scientist	1	2080	0	3	5	3	2
-25	Research & Development	1303	0	3	Research Scientist	2	2096	0	3	2	2	2
-32	Sales	1304	1	4	Sales Executive	4	6209	0	3	10	10	7
-45	Research & Development	1306	0	3	Manager	2	18061	0	4	22	0	0
-39	Research & Development	1307	0	2	Manager	2	17123	1	3	21	19	9
-58	Research & Development	1308	1	3	Research Scientist	3	2372	0	3	2	2	2
-32	Research & Development	1309	1	3	Laboratory Technician	3	4883	0	3	10	10	4
-39	Research & Development	1310	1	3	Research Scientist	1	3904	0	3	6	5	2
-30	Research & Development	1311	0	2	Laboratory Technician	4	4627	0	3	10	9	2
-36	Research & Development	1312	0	3	Healthcare Representative	3	7094	0	3	10	7	7
-46	Human Resources	1314	0	3	Human Resources	1	3423	0	3	10	7	6
-28	Research & Development	1315	0	1	Laboratory Technician	4	6674	0	3	10	9	8
-50	Research & Development	1317	0	3	Research Director	1	16880	1	3	25	3	2
-40	Sales	1318	1	2	Sales Executive	2	9094	1	3	9	5	4
-52	Sales	1319	1	3	Sales Executive	2	8446	1	3	10	8	7
-30	Research & Development	1321	0	3	Manager	1	11916	1	4	9	9	1
-39	Research & Development	1322	1	3	Manufacturing Director	3	4534	0	3	9	8	7
-31	Sales	1324	0	3	Sales Executive	3	9852	1	3	10	10	8
-41	Sales	1329	1	1	Sales Executive	2	6151	0	3	19	19	2
-31	Sales	1331	0	3	Sales Representative	2	2302	1	3	3	3	2
-44	Research & Development	1333	1	3	Laboratory Technician	1	2362	0	3	10	3	2
-42	Research & Development	1334	1	3	Manager	3	17861	1	3	21	20	8
-55	Research & Development	1336	0	1	Manager	3	19187	0	3	23	19	9
-56	Human Resources	1338	1	3	Manager	2	19717	0	3	36	7	3
-40	Research & Development	1340	1	3	Research Scientist	3	3544	0	3	6	4	2
-34	Research & Development	1344	1	3	Healthcare Representative	4	8500	0	3	10	9	7
-40	Research & Development	1346	1	3	Research Scientist	4	4661	0	3	9	9	8
-41	Sales	1349	0	3	Sales Executive	1	4103	0	3	10	9	3
-35	Research & Development	1350	1	3	Research Scientist	3	4249	1	3	9	9	6
-51	Human Resources	1352	1	3	Manager	2	14026	1	3	33	33	9
-38	Sales	1355	0	3	Sales Executive	1	6893	0	3	11	7	7
-34	Sales	1356	0	3	Sales Executive	1	6125	0	3	10	10	8
-25	Research & Development	1358	1	3	Laboratory Technician	4	3669	0	3	7	3	2
-58	Research & Development	1360	0	2	Manufacturing Director	1	10008	1	3	31	10	9
-40	Research & Development	1361	1	3	Laboratory Technician	2	2387	0	4	7	4	2
-36	Sales	1362	0	4	Sales Executive	1	4639	0	3	17	15	7
-48	Research & Development	1363	1	3	Manufacturing Director	4	7898	0	3	11	10	9
-27	Sales	1364	0	4	Sales Representative	4	2534	0	3	5	1	0
-51	Research & Development	1367	0	2	Manufacturing Director	2	13142	0	3	29	5	2
-18	Research & Development	1368	0	3	Laboratory Technician	4	1611	0	3	0	0	0
-35	Research & Development	1369	0	2	Laboratory Technician	4	5363	0	3	10	9	7
-27	Sales	1371	1	1	Sales Executive	4	5071	0	4	8	6	2
-55	Sales	1372	1	4	Sales Executive	3	13695	1	3	24	19	7
-56	Research & Development	1373	1	3	Manufacturing Director	2	13402	1	3	33	19	16
-34	Research & Development	1374	0	2	Research Scientist	3	2029	0	4	5	5	4
-40	Research & Development	1375	0	4	Healthcare Representative	3	6377	0	4	15	12	11
-34	Research & Development	1377	1	3	Laboratory Technician	3	5429	0	3	10	8	7
-31	Sales	1379	0	2	Sales Representative	4	2785	0	3	3	1	0
-35	Sales	1380	0	3	Sales Executive	3	4614	1	3	5	4	2
-38	Research & Development	1382	1	4	Research Scientist	3	2610	0	3	4	4	2
-34	Research & Development	1383	0	3	Healthcare Representative	4	6687	0	3	14	14	11
-28	Sales	1387	1	2	Sales Executive	1	4724	0	3	5	5	3
-31	Research & Development	1389	1	3	Manufacturing Director	3	6179	1	3	10	10	2
-39	Sales	1390	1	2	Sales Executive	4	6120	1	3	8	5	4
-51	Sales	1391	1	3	Sales Executive	2	10596	0	3	14	4	2
-41	Research & Development	1392	0	3	Research Scientist	4	5467	1	3	12	6	2
-37	Research & Development	1394	1	3	Research Scientist	3	2996	1	3	8	6	4
-33	Sales	1395	1	3	Sales Executive	4	9998	0	3	8	5	4
-32	Sales	1396	1	3	Sales Executive	2	4078	1	3	4	3	2
-39	Research & Development	1397	1	3	Healthcare Representative	3	10920	0	4	13	6	4
-25	Sales	1399	1	4	Sales Executive	3	6232	0	3	6	3	2
-52	Research & Development	1401	0	4	Manufacturing Director	3	13247	1	3	24	5	3
-43	Research & Development	1402	0	2	Research Scientist	3	4081	1	3	20	20	7
-27	Sales	1403	0	2	Sales Executive	4	5769	1	3	6	6	2
-27	Research & Development	1405	0	3	Research Scientist	3	2394	1	3	8	8	2
-26	Research & Development	1407	1	2	Research Scientist	4	3904	0	3	5	4	3
-42	Human Resources	1408	0	3	Manager	1	16799	0	3	21	20	7
-52	Research & Development	1409	0	3	Laboratory Technician	1	2950	0	3	12	5	4
-37	Research & Development	1411	0	3	Laboratory Technician	3	3629	0	3	8	3	2
-35	Research & Development	1412	1	3	Manufacturing Director	4	9362	0	3	10	2	2
-25	Research & Development	1415	1	3	Laboratory Technician	4	3229	0	3	7	3	2
-26	Research & Development	1417	1	4	Laboratory Technician	1	3578	0	3	8	7	7
-29	Human Resources	1419	1	2	Human Resources	1	7988	0	3	10	10	9
-49	Research & Development	1420	1	2	Laboratory Technician	1	4284	0	4	20	4	3
-29	Research & Development	1421	0	3	Healthcare Representative	4	7553	1	3	9	8	7
-54	Research & Development	1422	0	3	Research Director	4	17328	0	3	29	20	7
-58	Research & Development	1423	0	3	Research Director	1	19701	1	4	32	9	8
-55	Research & Development	1424	1	4	Research Director	4	14732	0	3	31	7	7
-36	Sales	1425	0	3	Sales Executive	2	9278	1	3	15	5	4
-31	Sales	1427	0	1	Sales Representative	3	1359	0	3	1	1	0
-30	Sales	1428	0	3	Sales Executive	1	4779	0	3	8	3	2
-31	Research & Development	1430	0	3	Research Director	2	16422	0	3	9	3	2
-34	Research & Development	1431	1	3	Research Scientist	1	2996	0	3	10	4	3
-31	Research & Development	1433	0	2	Research Scientist	2	1261	0	3	1	1	0
-27	Research & Development	1434	1	3	Laboratory Technician	1	2099	0	3	6	5	0
-36	Research & Development	1435	1	2	Laboratory Technician	4	5810	0	3	10	10	4
-36	Sales	1436	0	2	Sales Executive	1	5647	0	3	11	3	2
-47	Research & Development	1438	1	3	Research Scientist	4	3420	0	3	17	6	5
-25	Sales	1439	1	2	Sales Representative	1	4400	0	3	6	3	2
-37	Research & Development	1440	1	4	Laboratory Technician	3	3500	0	3	7	6	5
-56	Research & Development	1441	0	3	Research Scientist	1	2066	0	4	5	3	2
-47	Research & Development	1443	0	3	Research Director	3	17169	0	3	26	20	17
-24	Sales	1445	0	3	Sales Executive	3	4162	1	3	5	5	4
-32	Sales	1446	1	3	Sales Executive	4	9204	0	3	7	4	3
-34	Research & Development	1447	0	2	Laboratory Technician	2	3294	0	3	7	5	4
-41	Research & Development	1448	1	4	Research Scientist	3	2127	1	3	7	4	2
-40	Research & Development	1449	1	3	Laboratory Technician	3	3975	0	3	11	8	7
-31	Sales	1453	1	3	Sales Executive	4	10793	0	3	13	13	7
-46	Sales	1457	1	3	Sales Executive	4	10096	0	3	28	7	7
-39	Research & Development	1458	0	2	Laboratory Technician	1	3646	1	4	11	1	0
-31	Research & Development	1459	0	4	Manufacturing Director	2	7446	0	3	10	10	8
-45	Research & Development	1460	1	1	Healthcare Representative	1	10851	1	3	24	7	7
-31	Human Resources	1461	0	4	Human Resources	2	2109	0	3	8	3	2
-31	Research & Development	1464	1	3	Laboratory Technician	4	3722	1	3	7	2	2
-45	Research & Development	1465	1	3	Manufacturing Director	4	9380	1	3	10	3	1
-48	Sales	1466	1	3	Sales Executive	1	5486	0	3	15	2	2
-34	Human Resources	1467	0	3	Human Resources	3	2742	0	3	2	2	2
-40	Research & Development	1468	1	2	Research Director	2	13757	0	3	16	9	8
-28	Sales	1469	1	3	Sales Executive	1	8463	0	3	6	5	4
-44	Research & Development	1471	1	2	Laboratory Technician	3	3162	0	3	7	5	2
-53	Research & Development	1472	1	4	Research Director	2	16598	0	3	35	9	8
-49	Research & Development	1473	1	3	Healthcare Representative	3	6651	0	3	20	3	2
-40	Research & Development	1474	1	3	Research Scientist	3	2345	0	3	8	3	1
-44	Research & Development	1475	1	3	Research Scientist	2	3420	0	3	6	5	2
-33	Sales	1477	1	3	Sales Executive	1	4373	0	3	5	4	3
-34	Sales	1478	1	1	Sales Executive	1	4759	0	3	15	13	9
-30	Sales	1479	1	3	Sales Executive	3	5301	0	3	4	2	1
-42	Research & Development	1480	0	3	Laboratory Technician	4	3673	0	3	12	12	9
-44	Sales	1481	0	3	Sales Executive	3	4768	0	3	11	1	0
-30	Research & Development	1482	1	3	Research Scientist	3	1274	0	3	1	1	0
-57	Research & Development	1483	1	4	Research Scientist	3	4900	0	4	13	12	9
-49	Research & Development	1484	1	3	Healthcare Representative	2	10466	0	3	29	8	7
-34	Research & Development	1485	1	3	Research Director	1	17007	0	3	16	14	8
-28	Sales	1486	1	3	Sales Representative	3	2909	0	3	5	3	2
-29	Sales	1487	0	3	Sales Executive	2	5765	0	3	7	5	3
-34	Sales	1489	0	2	Sales Executive	2	4599	1	4	16	15	9
-35	Sales	1492	1	3	Sales Representative	3	2404	0	3	1	1	0
-24	Research & Development	1494	1	3	Laboratory Technician	1	3172	1	3	4	0	0
-24	Sales	1495	0	3	Sales Representative	2	2033	0	3	1	1	0
-44	Research & Development	1496	1	3	Manufacturing Director	3	10209	1	3	16	2	2
-29	Sales	1497	1	2	Sales Executive	3	8620	0	3	10	10	7
-30	Human Resources	1499	1	3	Human Resources	3	2064	0	4	6	5	3
-55	Research & Development	1501	1	3	Healthcare Representative	3	4035	1	3	4	3	2
-33	Research & Development	1502	0	2	Laboratory Technician	2	3838	0	3	8	5	4
-47	Sales	1503	0	3	Sales Executive	3	4591	1	3	11	5	4
-28	Research & Development	1504	1	2	Laboratory Technician	1	2561	0	3	8	0	0
-28	Research & Development	1506	1	2	Research Scientist	3	1563	0	3	1	1	0
-28	Sales	1507	1	3	Sales Executive	1	4898	0	3	5	4	2
-49	Research & Development	1509	0	2	Laboratory Technician	1	4789	0	4	10	3	2
-29	Research & Development	1513	0	3	Laboratory Technician	2	3180	0	3	4	3	2
-28	Research & Development	1514	1	1	Manufacturing Director	2	6549	0	3	8	8	6
-33	Research & Development	1515	1	3	Healthcare Representative	3	6388	1	3	14	0	0
-32	Research & Development	1516	1	3	Manager	4	11244	0	4	10	5	2
-54	Research & Development	1520	0	3	Manager	4	16032	0	4	26	14	9
-29	Research & Development	1522	1	2	Research Scientist	1	2362	0	3	11	9	7
-44	Research & Development	1523	1	3	Research Director	1	16328	0	3	24	20	6
-39	Research & Development	1525	0	3	Manufacturing Director	2	8376	0	3	9	2	0
-46	Sales	1527	0	3	Manager	2	16606	0	3	23	13	12
-35	Research & Development	1529	0	2	Healthcare Representative	2	8606	0	3	11	11	8
-23	Research & Development	1533	1	3	Laboratory Technician	3	2272	0	3	5	4	3
-40	Research & Development	1534	1	3	Laboratory Technician	1	2018	0	3	15	5	4
-34	Sales	1535	1	2	Sales Executive	3	7083	1	3	10	10	9
-31	Research & Development	1537	0	3	Research Scientist	3	4084	0	3	7	7	2
-50	Research & Development	1539	1	1	Research Director	4	14411	1	3	32	32	6
-34	Sales	1541	1	3	Sales Representative	3	2308	1	4	12	11	10
-42	Research & Development	1542	1	2	Laboratory Technician	2	4841	0	3	4	1	0
-37	Research & Development	1543	1	3	Research Scientist	4	4285	0	3	10	10	8
-29	Research & Development	1544	0	1	Healthcare Representative	1	9715	0	3	9	7	7
-33	Research & Development	1545	1	2	Manufacturing Director	2	4320	0	3	5	5	3
-45	Research & Development	1546	1	3	Research Scientist	4	2132	0	4	8	5	4
-42	Research & Development	1547	1	3	Healthcare Representative	4	10124	1	3	24	20	8
-40	Sales	1548	1	3	Sales Executive	1	5473	0	3	9	8	4
-33	Research & Development	1549	1	3	Laboratory Technician	3	5207	1	3	15	15	14
-40	Human Resources	1550	1	3	Manager	4	16437	1	4	21	21	7
-24	Research & Development	1551	1	2	Laboratory Technician	1	2296	0	3	2	1	1
-40	Research & Development	1552	1	3	Healthcare Representative	4	4069	1	3	8	2	2
-45	Research & Development	1553	1	3	Healthcare Representative	2	7441	0	3	10	10	8
-35	Sales	1554	0	2	Sales Representative	3	2430	0	4	6	5	3
-32	Research & Development	1555	0	2	Research Scientist	2	5878	0	3	12	7	1
-36	Sales	1556	1	3	Sales Representative	4	2644	1	4	7	3	2
-48	Sales	1557	0	3	Sales Executive	3	6439	0	3	18	8	7
-29	Research & Development	1558	1	4	Research Scientist	3	2451	0	3	5	1	0
-33	Sales	1560	1	3	Sales Executive	1	6392	0	3	8	2	2
-30	Sales	1562	1	2	Sales Executive	1	9714	0	3	10	10	8
-38	Human Resources	1563	1	3	Human Resources	3	6077	0	3	10	6	3
-35	Research & Development	1564	1	2	Laboratory Technician	1	2450	0	3	3	3	0
-30	Sales	1568	1	3	Sales Executive	2	9250	0	3	9	4	2
-35	Research & Development	1569	0	3	Laboratory Technician	1	2074	1	3	1	1	0
-53	Research & Development	1572	0	2	Manufacturing Director	4	10169	0	3	34	33	7
-38	Research & Development	1573	1	3	Manufacturing Director	2	4855	0	3	7	5	2
-32	Research & Development	1574	1	3	Research Scientist	1	4087	0	3	9	6	5
-48	Research & Development	1576	0	3	Research Scientist	1	2367	0	3	10	8	2
-34	Research & Development	1577	1	3	Research Scientist	4	2972	0	3	1	1	0
-55	Sales	1578	1	2	Manager	4	19586	0	4	36	36	6
-34	Research & Development	1580	1	3	Research Scientist	4	5484	0	3	9	2	2
-26	Research & Development	1581	0	3	Research Scientist	4	2061	0	4	1	1	0
-38	Sales	1582	1	3	Sales Executive	2	9924	0	3	10	9	8
-38	Sales	1583	0	3	Sales Executive	2	4198	0	3	8	3	2
-36	Sales	1585	0	3	Sales Executive	3	6815	0	3	15	1	0
-29	Research & Development	1586	1	3	Laboratory Technician	1	4723	1	3	10	10	9
-35	Research & Development	1587	0	3	Healthcare Representative	3	6142	1	3	10	5	2
-39	Sales	1588	1	4	Sales Executive	3	8237	0	3	11	7	6
-29	Research & Development	1590	1	3	Healthcare Representative	4	8853	0	3	6	6	4
-50	Sales	1591	1	3	Manager	3	19331	1	3	27	1	0
-23	Research & Development	1592	1	4	Research Scientist	3	2073	0	3	4	2	2
-36	Research & Development	1594	1	4	Laboratory Technician	1	5562	1	3	9	3	2
-42	Research & Development	1595	1	2	Manager	4	19613	0	4	24	1	0
-35	Research & Development	1596	1	4	Laboratory Technician	3	3407	0	3	10	10	9
-34	Research & Development	1597	1	2	Healthcare Representative	3	5063	0	3	8	8	2
-40	Sales	1598	0	3	Sales Executive	1	4639	0	3	5	5	4
-43	Research & Development	1599	1	4	Laboratory Technician	2	4876	0	3	8	6	4
-35	Research & Development	1601	1	2	Laboratory Technician	4	2690	0	3	1	1	0
-46	Sales	1602	1	4	Manager	1	17567	0	3	27	26	0
-28	Research & Development	1604	1	3	Laboratory Technician	2	2408	1	3	1	1	1
-22	Research & Development	1605	0	2	Research Scientist	3	2814	1	3	4	4	2
-50	Research & Development	1606	1	3	Healthcare Representative	3	11245	1	3	32	30	8
-32	Research & Development	1607	0	4	Research Scientist	4	3312	0	3	6	3	2
-44	Research & Development	1608	0	3	Research Director	4	19049	1	3	23	22	7
-30	Research & Development	1609	1	2	Research Scientist	2	2141	0	3	6	6	4
-45	Research & Development	1611	0	1	Laboratory Technician	1	5769	1	3	10	10	7
-45	Sales	1612	1	2	Sales Executive	1	4385	0	3	10	10	7
-31	Sales	1613	1	3	Sales Executive	1	5332	0	3	10	5	2
-36	Research & Development	1614	0	3	Manufacturing Director	3	4663	1	3	7	3	2
-34	Research & Development	1615	1	4	Manufacturing Director	4	4724	0	3	9	9	7
-49	Research & Development	1617	0	3	Laboratory Technician	1	3211	0	3	10	9	6
-39	Research & Development	1618	1	3	Manufacturing Director	1	5377	0	3	10	7	7
-27	Research & Development	1619	1	2	Laboratory Technician	1	4066	0	3	7	7	7
-35	Research & Development	1621	1	4	Research Scientist	1	5208	0	3	16	16	15
-28	Research & Development	1622	0	1	Manufacturing Director	1	4877	0	4	6	5	3
-21	Research & Development	1623	1	3	Research Scientist	4	3117	0	3	3	2	2
-18	Sales	1624	0	3	Sales Representative	4	1569	1	3	0	0	0
-47	Human Resources	1625	0	3	Manager	3	19658	0	3	27	5	2
-39	Research & Development	1627	1	2	Laboratory Technician	3	3069	0	3	11	10	8
-40	Research & Development	1628	0	2	Manufacturing Director	3	10435	0	3	18	18	15
-35	Research & Development	1630	0	3	Healthcare Representative	3	4148	0	3	15	14	11
-37	Research & Development	1631	1	3	Manufacturing Director	3	5768	0	3	9	4	3
-39	Research & Development	1633	0	3	Manufacturing Director	3	5042	0	3	10	9	2
-45	Research & Development	1635	0	2	Manufacturing Director	4	5770	0	3	10	10	7
-38	Research & Development	1638	0	2	Manufacturing Director	3	7756	1	3	10	5	4
-35	Sales	1639	1	2	Sales Executive	1	10306	0	3	15	13	12
-37	Research & Development	1640	0	3	Research Scientist	2	3936	0	3	8	8	4
-40	Research & Development	1641	0	3	Manufacturing Director	4	7945	1	3	18	4	2
-44	Human Resources	1642	1	3	Human Resources	4	5743	1	3	14	10	7
-48	Research & Development	1644	1	2	Manager	4	15202	0	4	23	2	2
-35	Sales	1645	1	1	Sales Executive	4	5440	1	3	7	2	2
-24	Research & Development	1646	0	3	Research Scientist	4	3760	1	3	6	6	3
-27	Research & Development	1647	0	4	Research Scientist	3	3517	0	3	5	3	2
-27	Research & Development	1648	1	3	Research Scientist	4	2580	0	3	6	4	2
-40	Research & Development	1649	1	3	Laboratory Technician	1	2166	1	3	10	4	2
-29	Sales	1650	1	2	Sales Executive	3	5869	0	3	8	5	2
-36	Research & Development	1651	0	3	Healthcare Representative	1	8008	0	3	9	3	2
-25	Research & Development	1653	1	4	Manufacturing Director	3	5206	0	3	7	7	7
-39	Research & Development	1654	1	3	Manufacturing Director	2	5295	0	4	7	5	4
-49	Research & Development	1655	0	3	Research Director	2	16413	0	3	27	4	2
-50	Research & Development	1656	0	2	Research Director	1	13269	0	3	19	14	11
-20	Sales	1657	0	3	Sales Representative	3	2783	0	3	2	2	2
-34	Research & Development	1658	0	3	Research Scientist	2	5433	0	3	11	11	8
-36	Research & Development	1659	1	3	Laboratory Technician	2	2013	0	3	15	4	3
-49	Research & Development	1661	0	2	Healthcare Representative	3	13966	1	3	30	15	11
-36	Research & Development	1662	0	2	Manufacturing Director	3	4374	0	3	4	3	2
-36	Research & Development	1664	1	4	Healthcare Representative	1	6842	0	4	13	5	4
-54	Research & Development	1665	0	3	Manager	3	17426	0	4	36	10	8
-43	Research & Development	1666	1	2	Research Director	3	17603	0	4	14	14	10
-35	Sales	1667	1	3	Sales Executive	4	4581	1	4	13	11	9
-38	Research & Development	1668	1	3	Research Scientist	4	4735	0	3	19	13	11
-29	Sales	1669	1	2	Sales Executive	2	4187	1	3	10	10	0
-33	Sales	1670	1	3	Sales Executive	4	5505	0	3	6	6	2
-32	Research & Development	1671	1	3	Research Scientist	2	5470	0	3	10	9	5
-31	Sales	1673	0	3	Sales Executive	4	5476	0	3	10	10	0
-49	Research & Development	1674	0	3	Laboratory Technician	1	2587	1	3	17	2	2
-38	Research & Development	1675	0	2	Laboratory Technician	2	2440	0	4	4	4	3
-47	Sales	1676	0	4	Manager	2	15972	0	3	29	3	2
-49	Research & Development	1677	1	3	Manager	3	15379	0	3	23	8	7
-41	Sales	1678	1	3	Sales Executive	3	7082	1	3	21	2	0
-20	Sales	1680	1	3	Sales Representative	1	2728	0	3	2	2	2
-33	Sales	1681	0	3	Sales Executive	4	5368	1	4	7	6	5
-36	Research & Development	1682	1	3	Healthcare Representative	3	5347	0	3	10	3	2
-44	Human Resources	1683	0	3	Human Resources	4	3195	1	3	8	2	2
-23	Research & Development	1684	1	2	Laboratory Technician	3	3989	1	3	5	5	4
-38	Research & Development	1687	0	3	Laboratory Technician	3	3306	0	3	7	0	0
-53	Research & Development	1689	1	4	Healthcare Representative	4	7005	0	3	11	4	3
-48	Sales	1691	0	3	Sales Representative	3	2655	1	3	19	9	7
-32	Research & Development	1692	1	3	Laboratory Technician	2	1393	0	3	1	1	0
-26	Research & Development	1693	1	3	Laboratory Technician	4	2570	0	4	7	7	7
-55	Research & Development	1694	1	2	Research Scientist	2	3537	0	3	8	4	2
-34	Research & Development	1696	1	2	Laboratory Technician	4	3986	0	3	15	15	10
-60	Research & Development	1697	1	1	Healthcare Representative	4	10883	0	4	19	1	0
-33	Research & Development	1698	1	4	Laboratory Technician	2	2028	0	3	14	14	11
-37	Sales	1700	1	1	Sales Executive	4	9525	0	3	6	6	3
-34	Research & Development	1701	0	2	Research Scientist	4	2929	0	3	10	10	9
-23	Sales	1702	1	3	Sales Representative	4	2275	1	4	3	3	2
-44	Research & Development	1703	0	4	Healthcare Representative	4	7879	1	3	9	8	7
-35	Research & Development	1704	1	2	Research Scientist	4	4930	1	3	6	5	4
-43	Sales	1706	1	3	Sales Executive	4	7847	1	3	10	10	9
-24	Research & Development	1707	1	4	Research Scientist	3	4401	0	3	5	5	3
-41	Sales	1708	1	3	Sales Executive	3	9241	0	3	10	10	8
-29	Research & Development	1709	0	3	Laboratory Technician	3	2974	0	3	9	5	3
-36	Sales	1710	0	3	Sales Representative	4	4502	0	3	17	13	7
-45	Research & Development	1712	1	2	Healthcare Representative	3	10748	0	4	25	23	15
-24	Human Resources	1714	1	1	Human Resources	3	1555	0	3	1	1	0
-47	Sales	1716	1	1	Sales Executive	3	12936	0	3	25	23	5
-26	Research & Development	1718	1	1	Laboratory Technician	3	2305	0	3	3	3	2
-45	Research & Development	1719	0	2	Research Director	2	16704	0	3	21	21	6
-32	Research & Development	1720	1	3	Research Scientist	3	3433	0	3	10	5	2
-31	Research & Development	1721	1	3	Laboratory Technician	3	3477	0	3	6	5	2
-41	Human Resources	1722	1	1	Human Resources	2	6430	0	3	10	3	2
-40	Research & Development	1724	0	3	Manufacturing Director	1	6516	1	3	18	1	0
-24	Research & Development	1725	1	3	Laboratory Technician	1	3907	0	3	6	6	2
-46	Research & Development	1727	1	3	Healthcare Representative	2	5562	0	3	19	10	7
-35	Research & Development	1728	1	3	Manufacturing Director	3	6883	0	3	17	7	7
-30	Research & Development	1729	1	3	Research Scientist	4	2862	0	3	10	10	0
-47	Sales	1731	1	3	Sales Executive	2	4978	0	3	4	1	0
-46	Sales	1732	1	3	Sales Executive	4	10368	1	3	13	10	6
-36	Sales	1733	1	2	Sales Executive	1	6134	1	3	16	2	2
-32	Sales	1734	1	1	Sales Executive	2	6735	0	3	10	0	0
-23	Research & Development	1735	0	3	Laboratory Technician	2	3295	0	3	3	3	2
-31	Research & Development	1736	0	3	Manufacturing Director	4	5238	0	4	9	5	4
-39	Research & Development	1737	1	3	Laboratory Technician	4	6472	1	3	9	9	8
-32	Sales	1739	1	1	Sales Executive	3	9610	0	3	10	4	3
-40	Sales	1740	1	3	Manager	2	19833	0	3	21	21	8
-45	Human Resources	1744	0	1	Human Resources	3	9756	0	4	9	5	0
-30	Research & Development	1745	0	2	Research Scientist	1	4968	0	3	10	9	7
-24	Human Resources	1746	1	3	Human Resources	4	2145	0	3	3	2	2
-30	Human Resources	1747	0	2	Human Resources	4	2180	0	3	6	4	2
-31	Sales	1749	1	3	Sales Executive	3	8346	0	3	6	5	2
-27	Research & Development	1751	0	3	Research Scientist	4	3445	0	3	6	6	2
-29	Sales	1752	0	1	Sales Representative	2	2760	0	3	2	2	2
-29	Research & Development	1753	1	4	Healthcare Representative	3	6294	1	3	10	3	2
-30	Sales	1754	1	2	Sales Executive	1	7140	0	3	12	7	7
-34	Research & Development	1755	1	4	Research Scientist	4	2932	1	3	6	5	0
-33	Sales	1756	0	3	Sales Executive	2	5147	0	3	13	11	7
-49	Sales	1757	0	3	Sales Executive	4	4507	0	3	8	5	1
-33	Sales	1758	0	3	Sales Executive	1	8564	1	4	11	0	0
-38	Research & Development	1760	0	2	Laboratory Technician	2	2468	0	3	9	6	1
-31	Sales	1761	1	3	Sales Executive	3	8161	0	3	10	1	0
-29	Research & Development	1762	0	2	Research Scientist	1	2109	0	3	1	1	0
-30	Research & Development	1763	1	4	Healthcare Representative	3	5294	0	3	10	7	0
-32	Research & Development	1764	1	3	Research Scientist	2	2718	0	3	12	7	7
-38	Research & Development	1766	1	1	Healthcare Representative	4	5811	1	3	15	1	0
-43	Research & Development	1767	1	2	Research Scientist	3	2437	1	3	6	1	0
-42	Research & Development	1768	1	3	Laboratory Technician	2	2766	0	4	7	5	3
-55	Research & Development	1770	1	2	Research Director	1	19038	0	3	34	1	0
-33	Research & Development	1771	1	3	Research Scientist	2	3055	0	3	11	9	8
-41	Research & Development	1772	1	3	Laboratory Technician	1	2289	0	4	5	5	3
-34	Sales	1774	1	3	Sales Executive	3	4001	1	3	15	15	14
-53	Research & Development	1775	0	2	Manufacturing Director	3	12965	1	4	27	3	2
-43	Human Resources	1778	1	3	Human Resources	4	3539	0	3	10	9	7
-34	Sales	1779	0	1	Sales Executive	4	6029	0	3	6	2	2
-21	Sales	1780	1	3	Sales Representative	2	2679	0	3	1	1	0
-38	Research & Development	1782	0	2	Laboratory Technician	3	3702	0	3	5	5	4
-22	Research & Development	1783	0	3	Laboratory Technician	1	2398	1	3	1	1	0
-31	Sales	1784	0	2	Sales Executive	4	5468	0	3	13	12	7
-51	Research & Development	1786	0	3	Manager	3	13116	0	3	15	2	2
-37	Sales	1787	1	2	Sales Executive	2	4189	0	3	5	5	2
-46	Research & Development	1789	1	3	Research Director	4	19328	1	3	24	2	1
-36	Research & Development	1790	1	3	Healthcare Representative	1	8321	1	3	15	12	8
-44	Research & Development	1792	1	3	Research Scientist	2	2342	1	3	6	5	3
-37	Human Resources	1794	1	3	Human Resources	2	4071	0	3	19	10	0
-35	Sales	1797	1	3	Sales Executive	4	5813	1	3	10	10	7
-33	Research & Development	1798	1	4	Research Scientist	1	3143	0	3	14	10	8
-28	Research & Development	1799	1	3	Research Scientist	4	2044	0	3	5	5	3
-39	Research & Development	1800	1	3	Research Director	3	13464	0	4	9	4	3
-46	Sales	1801	1	2	Sales Executive	2	7991	0	3	6	2	2
-40	Research & Development	1802	0	3	Laboratory Technician	1	3377	0	3	7	4	3
-42	Research & Development	1803	1	4	Healthcare Representative	1	5538	0	3	10	0	0
-35	Research & Development	1804	1	3	Manufacturing Director	4	5762	0	3	15	7	7
-38	Human Resources	1805	1	3	Human Resources	2	2592	0	3	13	11	10
-34	Research & Development	1807	1	3	Laboratory Technician	1	5346	0	3	11	7	1
-37	Research & Development	1809	1	3	Manufacturing Director	1	4213	0	3	10	10	3
-39	Sales	1812	1	3	Sales Executive	4	4127	0	3	7	2	1
-43	Research & Development	1813	1	3	Research Scientist	3	2438	0	3	7	3	2
-41	Research & Development	1814	1	4	Healthcare Representative	2	6870	0	3	11	3	2
-41	Sales	1815	0	3	Sales Executive	3	10447	1	3	23	22	14
-30	Research & Development	1816	0	3	Manufacturing Director	3	9667	0	3	9	7	7
-26	Human Resources	1818	0	3	Human Resources	2	2148	1	3	6	5	1
-46	Research & Development	1821	0	3	Healthcare Representative	2	8926	0	4	13	9	7
-40	Research & Development	1822	0	3	Healthcare Representative	4	6513	0	3	12	5	3
-34	Sales	1823	1	4	Sales Executive	3	6799	0	4	10	10	8
-58	Sales	1824	1	3	Manager	2	16291	0	4	37	16	9
-35	Research & Development	1826	1	1	Laboratory Technician	3	2705	0	3	6	5	4
-47	Research & Development	1827	0	2	Manufacturing Director	2	10333	1	3	28	22	11
-40	Research & Development	1829	0	3	Healthcare Representative	1	4448	0	3	15	7	4
-54	Research & Development	1830	0	3	Research Scientist	4	6854	0	3	14	7	1
-31	Sales	1833	0	3	Sales Executive	1	9637	0	3	9	3	2
-28	Research & Development	1834	0	3	Research Scientist	1	3591	0	4	3	3	2
-38	Sales	1835	0	1	Sales Representative	4	5405	1	4	20	4	2
-26	Sales	1836	1	3	Sales Executive	4	4684	0	3	5	5	3
-58	Research & Development	1837	1	3	Research Director	3	15787	1	3	23	2	2
-18	Research & Development	1839	0	3	Research Scientist	3	1514	0	3	0	0	0
-31	Human Resources	1842	1	4	Human Resources	1	2956	0	3	2	1	0
-29	Human Resources	1844	1	2	Human Resources	1	2335	1	3	4	2	2
-45	Sales	1845	0	3	Sales Executive	3	5154	0	4	10	8	7
-36	Research & Development	1847	0	3	Research Scientist	2	6962	1	4	15	1	0
-43	Sales	1849	1	3	Sales Executive	4	5675	0	4	7	7	7
-27	Research & Development	1850	0	3	Laboratory Technician	4	2379	1	3	6	5	4
-29	Research & Development	1852	1	3	Laboratory Technician	4	3812	0	3	11	11	8
-32	Sales	1853	1	3	Sales Executive	4	4648	0	3	4	0	0
-42	Research & Development	1854	1	3	Research Scientist	3	2936	0	4	10	6	3
-47	Research & Development	1856	0	3	Laboratory Technician	3	2105	0	3	7	2	2
-46	Research & Development	1857	1	3	Manufacturing Director	4	8578	0	3	12	9	8
-28	Human Resources	1858	1	3	Human Resources	4	2706	0	3	3	3	2
-29	Research & Development	1859	1	1	Healthcare Representative	3	6384	0	3	11	7	0
-42	Research & Development	1860	1	3	Laboratory Technician	3	3968	0	3	8	0	0
-32	Sales	1862	1	2	Sales Executive	2	9907	1	3	7	2	2
-46	Sales	1863	0	4	Sales Executive	1	13225	0	3	25	19	17
-27	Sales	1864	0	2	Sales Representative	3	3540	0	4	9	9	8
-29	Human Resources	1865	1	2	Human Resources	2	2804	0	3	1	1	0
-43	Research & Development	1866	0	2	Manager	3	19392	0	3	21	16	12
-48	Research & Development	1867	1	2	Research Director	2	19665	0	3	29	22	10
-29	Research & Development	1868	1	2	Research Scientist	4	2439	1	4	1	1	0
-46	Sales	1869	0	3	Sales Executive	2	7314	0	4	14	8	7
-27	Research & Development	1870	0	2	Research Scientist	1	4774	0	3	8	7	6
-39	Research & Development	1871	1	3	Research Scientist	4	3902	0	3	7	2	2
-55	Research & Development	1873	1	2	Research Scientist	4	2662	0	4	19	5	2
-28	Sales	1875	0	3	Sales Representative	2	2856	0	3	1	1	0
-30	Sales	1876	1	3	Sales Representative	4	1081	0	3	1	1	0
-22	Research & Development	1878	1	3	Research Scientist	2	2472	1	4	1	1	0
-36	Sales	1880	0	2	Sales Executive	3	5673	1	3	10	10	9
-31	Research & Development	1881	1	3	Laboratory Technician	3	4197	0	3	10	10	8
-34	Sales	1882	1	3	Sales Executive	4	9713	1	3	9	5	3
-29	Research & Development	1883	1	3	Laboratory Technician	1	2062	0	3	11	3	2
-37	Research & Development	1885	1	3	Research Scientist	1	4284	1	4	16	5	3
-35	Research & Development	1886	0	2	Manufacturing Director	2	4788	1	3	4	3	2
-45	Research & Development	1888	0	2	Manufacturing Director	4	5906	0	3	10	9	8
-36	Human Resources	1890	1	2	Human Resources	4	3886	0	4	10	10	1
-40	Research & Development	1892	1	3	Manager	1	16823	0	3	22	19	7
-26	Research & Development	1893	0	2	Research Scientist	3	2933	1	3	1	1	0
-27	Sales	1898	0	4	Sales Executive	3	6500	0	3	9	8	7
-48	Research & Development	1900	0	3	Manager	4	17174	0	3	24	22	17
-44	Research & Development	1903	1	4	Healthcare Representative	1	5033	0	3	10	2	0
-34	Research & Development	1905	1	1	Research Scientist	1	2307	1	4	5	5	2
-56	Research & Development	1907	1	3	Laboratory Technician	4	2587	0	3	5	4	2
-36	Sales	1908	1	2	Sales Executive	2	5507	0	3	12	4	2
-41	Sales	1909	0	3	Sales Executive	2	4393	0	4	14	5	4
-42	Research & Development	1911	1	3	Research Director	1	13348	0	3	18	13	7
-31	Sales	1912	0	3	Sales Executive	4	6583	1	3	8	5	2
-34	Sales	1915	0	2	Sales Executive	4	8103	1	3	9	4	2
-31	Research & Development	1916	0	4	Laboratory Technician	3	3978	0	3	4	2	2
-26	Research & Development	1918	1	4	Laboratory Technician	4	2544	0	3	8	7	7
-45	Research & Development	1922	1	3	Healthcare Representative	3	5399	0	3	12	4	2
-33	Sales	1924	1	3	Sales Executive	3	5487	0	3	10	10	4
-28	Sales	1927	1	2	Sales Executive	4	6834	1	3	7	7	7
-29	Sales	1928	1	4	Sales Representative	1	1091	0	3	1	1	0
-39	Sales	1929	0	1	Sales Executive	3	5736	0	3	10	3	2
-27	Research & Development	1931	1	3	Research Scientist	2	2226	0	3	6	5	3
-34	Research & Development	1932	1	2	Research Scientist	4	5747	1	3	16	15	10
-28	Sales	1933	0	3	Sales Executive	3	9854	1	3	6	2	0
-47	Research & Development	1934	1	3	Research Scientist	2	5467	0	3	16	8	7
-56	Sales	1935	0	2	Sales Executive	1	5380	0	3	6	0	0
-39	Research & Development	1936	1	3	Manufacturing Director	1	5151	0	4	10	10	0
-38	Research & Development	1937	0	2	Research Scientist	2	2133	1	3	20	20	11
-58	Sales	1938	0	3	Manager	4	17875	1	3	29	1	0
-32	Research & Development	1939	0	4	Research Scientist	3	2432	1	3	8	4	1
-38	Research & Development	1940	1	3	Research Scientist	4	4771	0	3	10	5	2
-49	Research & Development	1941	1	3	Research Director	4	19161	0	3	28	5	4
-42	Sales	1943	1	3	Sales Executive	4	5087	1	3	14	0	0
-27	Human Resources	1944	0	2	Human Resources	2	2863	0	3	1	1	0
-35	Sales	1945	1	3	Sales Executive	1	5561	0	3	6	5	3
-28	Research & Development	1947	1	3	Research Scientist	3	2144	0	3	5	5	3
-31	Research & Development	1948	1	3	Research Scientist	1	3065	1	3	4	4	2
-36	Research & Development	1949	1	4	Laboratory Technician	2	2810	0	4	5	5	4
-34	Sales	1950	1	3	Sales Executive	4	9888	0	4	14	14	8
-34	Sales	1951	1	3	Sales Executive	3	8628	0	3	9	8	7
-26	Research & Development	1952	1	3	Laboratory Technician	1	2867	0	3	8	7	7
-29	Research & Development	1954	1	3	Healthcare Representative	1	5373	0	3	6	5	3
-32	Research & Development	1955	0	3	Healthcare Representative	4	6667	0	3	9	5	1
-31	Research & Development	1956	1	1	Research Scientist	1	5003	0	4	10	10	8
-28	Research & Development	1960	1	2	Laboratory Technician	4	2367	0	3	6	4	1
-38	Sales	1961	1	2	Sales Representative	1	2858	0	3	20	1	0
-35	Sales	1962	0	3	Sales Executive	4	5204	1	3	10	10	8
-27	Sales	1965	1	3	Sales Executive	4	4105	0	3	7	7	7
-32	Research & Development	1966	1	2	Manufacturing Director	4	9679	0	4	8	1	0
-31	Sales	1967	1	3	Sales Executive	4	5617	1	3	10	10	7
-53	Sales	1968	1	3	Sales Executive	1	10448	1	3	15	2	2
-54	Research & Development	1969	0	3	Research Scientist	3	2897	0	3	9	4	3
-33	Research & Development	1970	1	3	Healthcare Representative	3	5968	0	4	9	9	7
-43	Research & Development	1971	1	3	Healthcare Representative	3	7510	0	3	10	10	9
-38	Human Resources	1972	1	3	Human Resources	2	2991	1	3	7	6	2
-55	Human Resources	1973	1	4	Manager	2	19636	1	3	35	10	9
-31	Research & Development	1974	0	1	Laboratory Technician	4	1129	1	3	1	1	0
-39	Sales	1975	1	3	Sales Executive	1	13341	0	3	21	20	8
-42	Research & Development	1976	1	2	Research Scientist	3	4332	0	3	20	20	9
-31	Research & Development	1979	0	3	Research Director	3	11031	0	4	13	11	7
-54	Research & Development	1980	0	3	Manufacturing Director	1	4440	1	3	9	5	2
-24	Research & Development	1981	1	2	Healthcare Representative	3	4617	0	3	4	4	3
-23	Research & Development	1982	1	3	Laboratory Technician	4	2647	0	3	5	5	2
-40	Research & Development	1985	0	3	Laboratory Technician	3	6323	0	3	10	10	9
-40	Sales	1986	0	3	Sales Executive	2	5677	0	3	15	11	8
-25	Human Resources	1987	0	3	Human Resources	2	2187	0	3	6	2	0
-30	Research & Development	1989	1	3	Laboratory Technician	2	3748	0	3	12	12	8
-25	Research & Development	1992	1	3	Laboratory Technician	3	3977	1	3	7	2	2
-47	Research & Development	1993	1	3	Healthcare Representative	3	8633	0	4	25	17	14
-33	Research & Development	1994	1	2	Laboratory Technician	3	2008	0	3	1	1	1
-38	Sales	1995	1	3	Sales Executive	2	4440	0	3	16	15	13
-31	Sales	1996	1	3	Sales Representative	3	3067	0	3	3	2	2
-38	Research & Development	1997	1	2	Manufacturing Director	3	5321	0	3	10	8	3
-42	Research & Development	1998	1	3	Research Scientist	1	5410	1	3	9	4	3
-41	Research & Development	1999	1	3	Research Scientist	4	2782	0	4	12	5	3
-47	Research & Development	2000	0	3	Research Director	2	11957	0	3	14	13	8
-35	Research & Development	2003	1	3	Laboratory Technician	3	2660	1	3	5	2	2
-22	Research & Development	2007	1	3	Research Scientist	3	3375	0	3	4	3	2
-35	Research & Development	2008	1	3	Research Scientist	3	5098	0	3	10	10	7
-33	Research & Development	2009	0	3	Healthcare Representative	4	4878	1	3	10	9	7
-32	Research & Development	2010	0	2	Laboratory Technician	2	2837	0	3	6	6	2
-40	Research & Development	2012	1	3	Laboratory Technician	4	2406	0	3	8	1	0
-32	Sales	2013	1	2	Sales Representative	2	2269	0	3	3	2	2
-39	Research & Development	2014	1	3	Research Scientist	4	4108	0	3	18	7	7
-38	Research & Development	2015	0	1	Research Director	3	13206	0	3	20	18	16
-32	Sales	2016	0	3	Sales Executive	4	10422	0	3	14	14	10
-37	Research & Development	2017	0	4	Research Director	4	13744	1	4	16	16	11
-25	Sales	2018	0	3	Sales Executive	3	4907	1	4	6	5	3
-52	Sales	2019	1	3	Sales Representative	4	3482	0	3	16	9	8
-44	Research & Development	2020	1	3	Research Scientist	4	2436	1	3	6	4	3
-21	Sales	2021	1	3	Sales Representative	1	2380	1	3	2	2	2
-39	Research & Development	2022	1	3	Manager	4	19431	0	3	21	6	0
-23	Sales	2023	1	3	Sales Representative	1	1790	0	3	1	1	0
-36	Sales	2024	0	2	Sales Executive	4	7644	0	3	10	9	7
-36	Research & Development	2025	0	3	Manufacturing Director	2	5131	0	3	18	4	2
-56	Research & Development	2026	1	3	Healthcare Representative	3	6306	0	4	13	13	12
-29	Research & Development	2027	1	3	Research Scientist	4	4787	1	3	4	2	2
-42	Research & Development	2031	1	3	Manager	3	18880	0	3	24	22	6
-56	Research & Development	2032	1	3	Laboratory Technician	3	2339	0	3	14	10	9
-41	Research & Development	2034	0	2	Manufacturing Director	2	13570	0	4	21	20	7
-34	Sales	2035	0	2	Sales Executive	3	6712	0	4	8	8	7
-36	Sales	2036	1	1	Sales Executive	4	5406	0	4	15	15	12
-41	Sales	2037	1	2	Sales Executive	2	8938	0	3	14	5	4
-32	Research & Development	2038	1	3	Research Scientist	1	2439	0	3	4	4	2
-35	Human Resources	2040	0	3	Human Resources	4	8837	1	3	9	9	0
-38	Sales	2041	0	3	Sales Executive	4	5343	0	3	10	10	7
-50	Sales	2044	1	3	Sales Executive	3	6728	0	3	12	6	3
-36	Sales	2045	0	2	Sales Executive	4	6652	0	3	8	6	3
-45	Sales	2046	0	3	Sales Executive	3	4850	0	3	8	5	3
-40	Research & Development	2048	1	2	Research Scientist	3	2809	0	3	8	2	2
-35	Research & Development	2049	1	3	Healthcare Representative	3	5689	1	3	10	10	2
-40	Research & Development	2051	0	3	Research Scientist	3	2001	0	3	20	5	3
-35	Research & Development	2052	0	1	Research Scientist	4	2977	0	3	4	4	3
-29	Research & Development	2053	1	2	Laboratory Technician	2	4025	1	3	10	4	3
-29	Research & Development	2054	0	2	Research Scientist	1	3785	0	3	5	5	4
-50	Sales	2055	1	2	Sales Executive	1	10854	1	3	20	3	2
-39	Sales	2056	0	2	Sales Executive	4	12031	0	3	21	20	9
-31	Research & Development	2057	1	3	Manufacturing Director	1	9936	0	3	10	9	4
-26	Sales	2060	0	2	Sales Representative	3	2966	0	3	5	4	2
-36	Research & Development	2061	1	4	Laboratory Technician	4	2571	0	3	17	5	2
-39	Research & Development	2062	1	2	Healthcare Representative	1	9991	0	3	9	7	7
-27	Research & Development	2064	1	4	Manufacturing Director	2	6142	1	4	6	6	2
-49	Sales	2065	1	2	Sales Executive	2	5390	0	3	17	9	6
-34	Research & Development	2068	1	4	Laboratory Technician	3	4404	0	3	6	4	3
+Age;Department;EmployeeNumber;is_1;JobInvolvement;JobRole;JobSatisfaction;MonthlyIncome;OverTime;PerformanceRating;TotalWorkingYears;YearsAtCompany;YearsInCurrentRole
+41;Sales;1;0;3;Sales Executive;4;5993;1;3;8;6;4
+49;Research & Development;2;1;2;Research Scientist;2;5130;0;4;10;10;7
+37;Research & Development;4;1;2;Laboratory Technician;3;2090;1;3;7;0;0
+33;Research & Development;5;0;3;Research Scientist;3;2909;1;3;8;8;7
+27;Research & Development;7;1;3;Laboratory Technician;2;3468;0;3;6;2;2
+32;Research & Development;8;1;3;Laboratory Technician;4;3068;0;3;8;7;7
+59;Research & Development;10;0;4;Laboratory Technician;1;2670;1;4;12;1;0
+30;Research & Development;11;1;3;Laboratory Technician;3;2693;0;4;1;1;0
+38;Research & Development;12;1;2;Manufacturing Director;3;9526;0;4;10;9;7
+36;Research & Development;13;1;3;Healthcare Representative;3;5237;0;3;17;7;7
+35;Research & Development;14;1;4;Laboratory Technician;2;2426;0;3;6;5;4
+29;Research & Development;15;0;2;Laboratory Technician;3;4193;1;3;10;9;5
+31;Research & Development;16;1;3;Research Scientist;3;2911;0;3;5;5;2
+34;Research & Development;18;1;3;Laboratory Technician;4;2661;0;3;3;2;2
+28;Research & Development;19;1;2;Laboratory Technician;3;2028;1;3;6;4;2
+29;Research & Development;20;0;4;Manufacturing Director;1;9980;0;3;10;10;9
+32;Research & Development;21;1;4;Research Scientist;2;3298;1;3;7;6;2
+22;Research & Development;22;1;4;Laboratory Technician;4;2935;1;3;1;1;0
+53;Sales;23;0;2;Manager;4;15427;0;3;31;25;8
+38;Research & Development;24;1;3;Research Scientist;4;3944;1;3;6;3;2
+24;Research & Development;26;0;4;Manufacturing Director;3;4011;0;3;5;4;2
+36;Sales;27;1;2;Sales Representative;1;3407;0;4;10;5;3
+34;Research & Development;28;0;3;Research Director;2;11994;0;3;13;12;6
+21;Research & Development;30;1;3;Research Scientist;4;1232;0;3;0;0;0
+34;Research & Development;31;1;3;Research Scientist;1;2960;0;3;8;4;2
+53;Research & Development;32;0;3;Manager;3;19094;0;3;26;14;13
+32;Research & Development;33;0;1;Research Scientist;1;3919;1;4;10;10;2
+42;Sales;35;1;3;Sales Executive;2;6825;0;3;10;9;7
+44;Research & Development;36;0;2;Healthcare Representative;4;10248;0;3;24;22;6
+46;Sales;38;0;3;Manager;1;18947;0;3;22;2;2
+33;Research & Development;39;1;3;Laboratory Technician;4;2496;0;3;7;1;1
+44;Research & Development;40;1;3;Healthcare Representative;4;6465;1;3;9;4;2
+30;Research & Development;41;1;2;Laboratory Technician;3;2206;0;3;10;10;0
+39;Sales;42;1;3;Sales Representative;4;2086;0;3;19;1;0
+24;Research & Development;45;1;3;Research Scientist;4;2293;1;3;6;2;0
+43;Research & Development;46;0;4;Research Scientist;3;2645;0;3;6;5;3
+50;Sales;47;1;2;Sales Representative;3;2683;1;3;3;3;2
+35;Sales;49;0;3;Sales Representative;4;2014;0;3;2;2;2
+36;Research & Development;51;0;2;Research Scientist;1;3419;1;3;6;1;1
+33;Sales;52;0;4;Sales Executive;1;5376;0;3;10;5;3
+35;Research & Development;53;1;3;Laboratory Technician;4;1951;0;3;1;1;0
+27;Research & Development;54;0;3;Laboratory Technician;1;2341;0;3;1;1;0
+26;Research & Development;55;1;1;Laboratory Technician;3;2293;0;3;1;1;0
+27;Sales;56;1;3;Sales Executive;3;8726;0;3;9;9;8
+30;Research & Development;57;0;3;Laboratory Technician;4;4011;0;4;12;12;8
+41;Research & Development;58;0;3;Research Director;3;19545;0;3;23;22;15
+34;Sales;60;1;3;Sales Executive;3;4568;0;4;10;9;5
+37;Research & Development;61;1;3;Research Scientist;2;3022;0;4;8;1;0
+46;Sales;62;1;3;Sales Executive;4;5772;1;4;14;9;6
+35;Research & Development;63;1;4;Laboratory Technician;4;2269;0;3;1;1;0
+48;Research & Development;64;1;2;Laboratory Technician;3;5381;1;3;23;1;0
+28;Research & Development;65;1;3;Laboratory Technician;3;3441;1;3;2;2;2
+44;Sales;68;0;3;Sales Executive;1;5454;1;4;9;4;3
+35;Research & Development;70;1;2;Healthcare Representative;1;9884;1;3;10;4;0
+26;Sales;72;0;2;Sales Executive;4;4157;1;3;5;2;2
+33;Research & Development;73;0;3;Research Director;4;13458;1;3;15;15;14
+35;Sales;74;1;3;Sales Executive;1;9069;0;4;9;9;8
+35;Research & Development;75;0;3;Laboratory Technician;1;4014;1;3;4;2;2
+31;Research & Development;76;1;3;Laboratory Technician;4;5915;0;4;10;7;7
+37;Research & Development;77;1;2;Manufacturing Director;3;5993;0;3;7;7;5
+32;Research & Development;78;1;3;Manufacturing Director;4;6162;1;4;9;9;8
+38;Research & Development;79;0;3;Laboratory Technician;4;2406;0;3;10;10;3
+50;Research & Development;80;0;2;Research Director;3;18740;1;3;29;27;3
+59;Sales;81;0;3;Sales Executive;1;7637;0;3;28;21;16
+36;Research & Development;83;0;3;Healthcare Representative;3;10096;0;3;17;17;14
+55;Research & Development;84;0;3;Manager;3;14756;1;3;21;5;0
+36;Research & Development;85;1;2;Manufacturing Director;2;6499;0;3;6;6;5
+45;Research & Development;86;1;3;Research Scientist;1;9724;0;3;25;1;0
+35;Research & Development;88;1;3;Research Scientist;1;2194;0;3;5;3;2
+36;Research & Development;90;1;2;Research Scientist;3;3388;1;3;2;1;0
+59;Sales;91;0;2;Sales Executive;3;5473;0;3;20;4;3
+29;Research & Development;94;1;3;Research Scientist;2;2703;0;4;6;5;4
+31;Research & Development;95;1;3;Research Scientist;2;2501;0;3;1;1;1
+32;Research & Development;96;1;3;Research Scientist;2;6220;0;3;10;10;4
+36;Research & Development;97;0;4;Laboratory Technician;4;3038;0;3;5;1;0
+31;Research & Development;98;0;3;Manufacturing Director;4;4424;0;4;11;11;7
+35;Sales;100;1;2;Sales Executive;1;4312;0;3;16;15;13
+45;Research & Development;101;1;3;Research Director;1;13245;1;3;17;0;0
+37;Research & Development;102;1;3;Research Director;3;13664;0;3;16;5;2
+46;Human Resources;103;1;3;Human Resources;2;5021;1;4;16;4;2
+30;Research & Development;104;1;2;Laboratory Technician;4;5126;1;3;10;10;8
+35;Research & Development;105;1;2;Research Scientist;3;2859;0;3;6;6;4
+55;Sales;106;1;3;Sales Executive;4;10239;0;3;24;1;0
+38;Research & Development;107;0;1;Research Scientist;4;5329;1;3;17;13;11
+34;Research & Development;110;1;3;Manufacturing Director;2;4325;0;3;5;5;2
+56;Research & Development;112;1;1;Manufacturing Director;4;7260;0;3;37;6;4
+23;Sales;113;1;3;Sales Representative;1;2322;0;3;3;0;0
+51;Research & Development;116;1;3;Laboratory Technician;4;2075;0;4;10;4;2
+30;Research & Development;117;1;2;Healthcare Representative;4;4152;0;3;11;11;10
+46;Sales;118;1;2;Sales Executive;4;9619;0;3;9;9;8
+40;Research & Development;119;1;2;Healthcare Representative;2;13503;0;4;22;22;3
+51;Sales;120;1;3;Sales Executive;4;5441;1;4;11;10;7
+30;Sales;121;0;2;Sales Executive;2;5209;1;3;11;11;8
+46;Research & Development;124;1;2;Healthcare Representative;1;10673;1;3;21;10;9
+32;Sales;125;1;3;Sales Executive;3;5010;0;3;12;11;8
+54;Research & Development;126;0;3;Research Director;3;13549;0;3;16;4;3
+24;Sales;128;0;3;Sales Executive;3;4999;0;4;4;3;2
+28;Sales;129;1;3;Sales Executive;3;4221;0;3;5;5;4
+58;Sales;131;1;3;Sales Executive;3;13872;0;3;38;37;10
+44;Research & Development;132;1;3;Laboratory Technician;2;2042;0;3;17;3;2
+37;Human Resources;133;1;3;Human Resources;1;2073;1;4;7;3;2
+32;Research & Development;134;1;3;Research Scientist;1;2956;0;3;1;1;0
+20;Research & Development;137;0;2;Laboratory Technician;4;2926;1;3;1;1;0
+34;Research & Development;138;0;3;Research Scientist;3;4809;0;3;16;16;13
+37;Research & Development;139;1;2;Healthcare Representative;4;5163;0;3;17;1;0
+59;Human Resources;140;0;2;Manager;4;18844;0;4;30;3;2
+50;Research & Development;141;0;3;Research Director;2;18172;1;3;28;8;3
+25;Sales;142;1;2;Sales Executive;3;5744;1;3;6;6;4
+25;Research & Development;143;1;2;Research Scientist;4;2889;0;3;2;2;2
+22;Research & Development;144;0;3;Laboratory Technician;4;2871;0;3;1;0;0
+51;Research & Development;145;0;2;Healthcare Representative;1;7484;0;4;23;13;12
+34;Research & Development;147;1;1;Laboratory Technician;3;6074;1;4;9;9;7
+54;Human Resources;148;0;4;Manager;4;17328;1;3;23;5;3
+24;Research & Development;150;1;3;Laboratory Technician;3;2774;0;3;6;5;3
+34;Research & Development;151;0;2;Research Scientist;2;4505;0;3;12;1;0
+37;Sales;152;1;3;Sales Executive;4;7428;0;3;12;5;3
+34;Research & Development;153;0;2;Manager;1;11631;0;3;14;11;10
+36;Sales;154;0;3;Sales Executive;4;9738;0;3;10;9;7
+36;Research & Development;155;0;3;Laboratory Technician;4;2835;0;4;7;1;0
+43;Sales;158;1;3;Manager;4;16959;1;3;25;25;12
+30;Research & Development;159;1;1;Research Scientist;3;2613;0;4;10;10;7
+33;Sales;160;1;3;Sales Executive;2;6146;0;3;8;7;7
+56;Research & Development;161;0;3;Research Scientist;2;4963;1;3;7;5;4
+51;Research & Development;162;1;3;Research Director;3;19537;0;3;23;20;18
+31;Sales;163;1;1;Sales Executive;3;6172;1;3;12;7;7
+26;Research & Development;164;0;2;Research Scientist;2;2368;0;3;5;5;4
+58;Research & Development;165;0;3;Healthcare Representative;4;10312;0;3;40;40;10
+19;Sales;167;1;3;Sales Representative;3;1675;1;3;0;0;0
+22;Research & Development;169;1;3;Laboratory Technician;4;2523;0;3;3;2;1
+49;Research & Development;170;0;3;Manufacturing Director;1;6567;0;3;16;15;11
+43;Research & Development;171;0;4;Research Scientist;3;4739;0;3;18;3;2
+50;Sales;174;0;3;Sales Executive;4;9208;0;3;16;2;2
+31;Sales;175;0;1;Sales Executive;3;4559;1;3;4;2;2
+41;Sales;176;1;3;Sales Executive;3;8189;1;3;12;9;7
+26;Human Resources;177;0;3;Human Resources;3;2942;0;4;8;8;7
+36;Research & Development;178;1;3;Manufacturing Director;2;4941;0;4;7;3;2
+51;Research & Development;179;1;1;Manufacturing Director;4;10650;0;3;18;4;2
+39;Sales;182;0;2;Sales Executive;3;5902;0;3;17;15;11
+25;Sales;183;1;2;Sales Executive;3;8639;0;3;6;2;2
+30;Human Resources;184;1;3;Human Resources;4;6347;1;3;12;11;9
+32;Research & Development;190;0;3;Laboratory Technician;1;4200;0;4;10;5;4
+45;Research & Development;192;1;3;Research Scientist;4;3452;0;3;9;6;5
+38;Research & Development;193;0;3;Research Scientist;3;4317;1;4;19;3;2
+30;Research & Development;194;0;3;Research Scientist;3;2632;0;3;5;5;4
+32;Sales;195;1;1;Sales Executive;4;4668;0;3;9;8;7
+30;Research & Development;197;0;3;Research Scientist;1;3204;0;3;8;3;2
+30;Research & Development;198;1;2;Laboratory Technician;4;2720;0;3;6;5;3
+41;Research & Development;199;1;2;Manager;1;17181;0;3;21;7;6
+41;Research & Development;200;1;3;Laboratory Technician;1;2238;0;4;7;5;0
+19;Research & Development;201;0;3;Laboratory Technician;2;1483;0;3;1;1;0
+40;Research & Development;202;0;3;Research Scientist;2;5605;0;3;20;20;7
+35;Sales;204;1;3;Sales Executive;2;7295;0;3;10;10;8
+53;Sales;205;1;3;Sales Representative;3;2306;1;4;13;7;7
+45;Research & Development;206;1;3;Laboratory Technician;2;2348;0;3;20;17;9
+32;Sales;207;0;3;Sales Executive;4;8998;0;3;9;9;8
+29;Research & Development;208;1;3;Manufacturing Director;3;4319;0;3;10;10;7
+51;Research & Development;211;1;2;Manufacturing Director;3;6132;0;3;10;1;0
+58;Research & Development;214;0;2;Research Scientist;2;3346;1;4;9;1;0
+40;Sales;215;1;2;Sales Executive;4;10855;0;3;15;12;11
+34;Sales;216;0;3;Sales Representative;3;2231;0;3;6;4;3
+22;Research & Development;217;1;3;Research Scientist;4;2323;0;4;2;2;2
+27;Research & Development;218;1;3;Research Scientist;2;2024;0;3;6;2;2
+28;Research & Development;221;1;3;Research Scientist;4;2713;0;3;5;5;2
+57;Research & Development;223;1;4;Healthcare Representative;4;9439;1;3;12;5;3
+27;Research & Development;224;1;2;Research Scientist;3;2566;1;3;1;1;1
+50;Research & Development;226;0;3;Manager;2;19926;0;3;21;5;4
+41;Research & Development;227;1;3;Research Scientist;3;2451;0;3;13;9;8
+30;Sales;228;0;3;Sales Executive;4;9419;0;3;12;10;9
+38;Sales;230;0;2;Sales Executive;4;8686;0;4;12;8;3
+32;Research & Development;231;1;3;Research Scientist;3;3038;0;4;8;5;4
+27;Research & Development;233;1;3;Research Scientist;2;3058;1;3;6;5;2
+19;Sales;235;0;1;Sales Representative;1;2325;0;4;1;0;0
+36;Research & Development;238;1;3;Laboratory Technician;2;2088;0;3;13;8;7
+30;Research & Development;239;1;3;Laboratory Technician;1;3072;0;3;12;12;9
+45;Sales;240;0;3;Sales Executive;1;5006;1;3;9;5;4
+56;Research & Development;241;0;3;Research Scientist;1;4257;1;3;19;2;2
+33;Research & Development;242;1;3;Research Scientist;4;2500;0;3;4;3;1
+19;Research & Development;243;1;2;Laboratory Technician;4;1102;0;4;1;1;0
+46;Sales;244;0;3;Sales Executive;1;10453;0;4;24;24;13
+38;Research & Development;245;0;3;Laboratory Technician;4;2288;0;3;2;2;2
+31;Research & Development;246;0;3;Research Scientist;4;3929;1;4;7;4;2
+34;Research & Development;247;0;3;Research Scientist;2;2311;0;3;9;3;2
+41;Sales;248;0;3;Sales Representative;2;3140;1;4;4;4;3
+50;Research & Development;249;1;2;Laboratory Technician;3;3690;0;3;5;3;2
+53;Research & Development;250;0;4;Manufacturing Director;1;4450;0;3;5;4;2
+33;Research & Development;252;0;3;Research Scientist;2;2756;0;3;8;8;7
+40;Research & Development;253;0;3;Manager;3;19033;0;3;21;20;8
+55;Research & Development;254;1;4;Research Director;2;18722;0;3;36;24;15
+34;Research & Development;256;1;2;Manufacturing Director;3;9547;0;3;10;10;9
+51;Research & Development;258;0;3;Healthcare Representative;2;13734;0;3;21;7;7
+52;Research & Development;259;1;2;Manager;3;19999;0;3;34;33;18
+27;Research & Development;260;0;3;Research Scientist;2;2279;0;3;7;7;7
+35;Research & Development;261;1;2;Manufacturing Director;3;5916;1;3;8;1;0
+43;Research & Development;262;1;4;Research Scientist;4;2089;0;3;7;5;4
+45;Research & Development;264;1;2;Manager;4;16792;0;4;22;20;8
+37;Research & Development;267;1;4;Research Scientist;1;3564;1;3;8;8;7
+35;Research & Development;269;0;3;Laboratory Technician;2;4425;0;3;10;6;2
+42;Research & Development;270;0;3;Manufacturing Director;3;5265;0;3;11;5;3
+38;Research & Development;271;1;3;Manufacturing Director;3;6553;0;3;14;1;0
+38;Research & Development;273;1;3;Manufacturing Director;4;6261;0;3;9;7;7
+27;Research & Development;274;1;2;Manufacturing Director;1;4298;0;3;6;2;2
+49;Research & Development;275;1;3;Manufacturing Director;4;6804;1;3;7;7;7
+34;Research & Development;277;1;3;Research Scientist;3;3815;1;3;5;5;3
+40;Research & Development;281;1;3;Laboratory Technician;4;2741;1;3;15;7;2
+38;Research & Development;282;1;3;Healthcare Representative;1;6673;1;3;17;1;0
+29;Sales;283;0;3;Sales Executive;4;7639;0;4;10;10;4
+22;Research & Development;284;1;4;Research Scientist;2;2328;1;3;4;4;2
+36;Research & Development;286;0;3;Laboratory Technician;4;2153;0;3;8;8;1
+40;Research & Development;287;1;2;Healthcare Representative;4;4876;0;3;5;3;2
+46;Research & Development;288;1;3;Healthcare Representative;1;9396;0;3;17;4;2
+32;Sales;291;1;1;Sales Executive;4;10400;0;3;14;14;8
+30;Research & Development;292;1;2;Manufacturing Director;3;8474;0;4;12;11;8
+27;Sales;293;0;3;Sales Executive;3;9981;0;3;7;7;7
+51;Research & Development;296;1;2;Research Director;2;12490;0;3;16;10;9
+30;Research & Development;297;0;3;Research Scientist;1;2657;1;3;8;5;2
+41;Sales;298;0;3;Manager;4;13591;1;3;16;1;0
+30;Sales;299;0;2;Sales Executive;1;6696;0;3;9;6;3
+29;Research & Development;300;1;3;Research Scientist;3;2058;0;3;7;6;2
+45;Sales;302;0;2;Sales Executive;4;8865;0;3;23;19;7
+54;Sales;303;0;3;Sales Executive;1;5940;0;3;16;6;2
+36;Research & Development;304;1;3;Laboratory Technician;2;5914;0;3;16;13;11
+33;Research & Development;305;0;2;Research Scientist;2;2622;0;4;7;3;2
+37;Research & Development;306;1;3;Research Director;4;12185;1;3;10;10;8
+38;Sales;307;1;3;Sales Executive;3;10609;0;3;17;16;10
+31;Research & Development;308;1;1;Manufacturing Director;3;4345;0;3;6;5;4
+59;Research & Development;309;1;2;Research Scientist;4;2177;0;3;7;1;0
+37;Sales;311;1;3;Sales Representative;4;2793;0;3;13;9;8
+29;Sales;312;0;3;Sales Executive;4;7918;0;3;11;11;10
+35;Sales;314;0;3;Sales Executive;3;8789;0;3;10;10;7
+29;Research & Development;315;1;2;Research Scientist;4;2389;1;3;4;4;3
+52;Research & Development;316;0;2;Laboratory Technician;4;3212;0;3;6;2;2
+42;Research & Development;319;1;3;Manager;4;19232;0;3;22;22;17
+59;Human Resources;321;1;3;Human Resources;3;2267;0;3;7;2;2
+50;Sales;323;0;3;Manager;4;19517;0;3;32;7;0
+33;Research & Development;325;1;3;Laboratory Technician;4;2436;1;3;8;5;4
+43;Sales;327;0;3;Manager;4;16064;1;4;22;17;13
+33;Research & Development;328;0;3;Laboratory Technician;1;2707;0;4;13;9;7
+52;Sales;329;1;2;Manager;3;19068;1;3;33;33;7
+32;Sales;330;0;3;Sales Representative;2;3931;0;3;6;4;3
+32;Research & Development;331;1;2;Laboratory Technician;3;3730;1;3;4;3;2
+39;Research & Development;332;0;3;Laboratory Technician;3;2232;0;3;7;3;2
+32;Sales;333;1;3;Sales Executive;4;4465;0;3;4;3;2
+41;Research & Development;334;1;3;Research Scientist;1;3072;0;3;17;1;0
+40;Research & Development;335;1;3;Research Scientist;4;3319;0;3;9;9;8
+45;Research & Development;336;1;4;Manager;4;19202;0;3;25;24;0
+31;Research & Development;337;1;3;Research Director;3;13675;0;3;9;2;2
+33;Research & Development;338;0;2;Research Scientist;4;2911;0;3;2;2;2
+34;Research & Development;339;1;2;Manufacturing Director;1;5957;0;3;13;11;9
+37;Research & Development;340;0;2;Research Scientist;1;3920;0;3;17;3;1
+45;Research & Development;341;1;4;Manufacturing Director;3;6434;0;3;9;3;2
+37;Research & Development;342;1;3;Manufacturing Director;3;10048;0;3;17;1;0
+39;Research & Development;343;0;3;Healthcare Representative;3;10938;0;4;20;19;6
+29;Research & Development;346;1;3;Research Scientist;4;2340;0;3;6;6;5
+42;Research & Development;347;0;4;Research Scientist;1;6545;1;3;10;3;2
+29;Sales;349;1;3;Sales Executive;4;6931;0;3;10;3;2
+25;Research & Development;350;0;3;Manufacturing Director;3;4898;0;3;5;4;2
+42;Research & Development;351;0;2;Laboratory Technician;1;2593;1;3;10;9;6
+40;Research & Development;352;1;3;Research Director;3;19436;0;3;22;21;7
+51;Research & Development;353;1;3;Research Scientist;4;2723;0;3;1;1;0
+31;Research & Development;355;1;2;Laboratory Technician;2;3479;0;3;6;5;4
+32;Research & Development;359;1;4;Laboratory Technician;2;2794;0;4;5;5;1
+38;Sales;361;1;2;Sales Executive;4;5249;0;3;13;8;7
+32;Research & Development;362;1;2;Laboratory Technician;1;2176;0;3;9;6;2
+46;Sales;363;0;1;Manager;2;16872;1;3;28;7;7
+28;Research & Development;364;1;3;Laboratory Technician;3;3485;0;3;5;0;0
+29;Sales;366;1;2;Sales Executive;2;6644;0;3;10;0;0
+31;Research & Development;367;1;2;Healthcare Representative;4;5582;0;4;10;9;0
+25;Research & Development;369;1;4;Healthcare Representative;1;4000;0;3;6;6;3
+45;Research & Development;372;1;3;Healthcare Representative;4;13496;1;3;21;20;7
+36;Research & Development;373;1;3;Laboratory Technician;4;3210;0;3;16;15;13
+55;Research & Development;374;1;3;Manager;1;19045;1;3;37;36;10
+47;Research & Development;376;1;3;Manager;2;11849;1;3;10;10;7
+28;Research & Development;377;1;3;Research Scientist;4;2070;0;4;5;5;2
+37;Sales;378;1;3;Sales Executive;4;6502;0;3;7;5;4
+21;Research & Development;379;1;2;Research Scientist;3;3230;0;3;3;3;2
+37;Research & Development;380;0;3;Research Director;4;13603;1;3;15;5;2
+35;Research & Development;381;0;4;Manager;2;11996;0;3;10;7;7
+38;Sales;382;0;4;Sales Executive;1;5605;1;4;8;8;0
+26;Research & Development;384;0;3;Manufacturing Director;2;6397;0;4;6;6;5
+50;Research & Development;385;1;3;Research Director;2;19144;0;3;28;10;4
+53;Research & Development;386;1;3;Research Director;3;17584;1;3;21;5;3
+42;Sales;387;1;3;Sales Executive;3;4907;0;4;20;20;16
+29;Sales;388;1;3;Sales Executive;4;4554;0;3;10;10;7
+55;Research & Development;389;1;3;Laboratory Technician;4;5415;1;3;12;10;7
+26;Research & Development;390;1;3;Healthcare Representative;1;4741;1;3;5;5;3
+37;Research & Development;391;0;3;Research Scientist;4;2115;0;3;17;17;12
+44;Research & Development;392;1;3;Laboratory Technician;3;3161;1;4;19;1;0
+38;Research & Development;393;1;3;Healthcare Representative;4;5745;0;3;10;2;2
+26;Research & Development;394;1;3;Laboratory Technician;2;2373;1;3;5;3;2
+28;Research & Development;395;0;3;Research Scientist;4;3310;0;4;5;5;3
+49;Research & Development;396;0;3;Research Director;1;18665;1;3;22;3;2
+36;Research & Development;397;1;3;Research Scientist;2;4485;0;3;10;8;0
+31;Sales;399;0;3;Sales Representative;2;2789;0;3;2;2;2
+26;Sales;401;1;2;Sales Executive;4;5828;1;3;8;8;7
+37;Research & Development;403;1;3;Research Scientist;4;2326;1;3;4;4;2
+42;Sales;404;0;3;Sales Executive;2;13525;0;3;23;20;4
+18;Research & Development;405;1;3;Laboratory Technician;3;1420;0;3;0;0;0
+35;Sales;406;1;3;Sales Executive;2;8020;0;3;12;11;9
+36;Research & Development;407;1;4;Laboratory Technician;4;3688;0;3;4;1;0
+51;Research & Development;408;1;1;Manufacturing Director;2;5482;0;3;13;4;1
+41;Sales;410;1;3;Manager;2;16015;0;3;22;22;10
+18;Sales;411;0;2;Sales Representative;3;1200;0;3;0;0;0
+28;Research & Development;412;1;4;Healthcare Representative;1;5661;0;3;9;8;3
+31;Sales;416;1;4;Sales Executive;4;6929;0;3;10;8;7
+39;Research & Development;417;1;4;Healthcare Representative;4;9613;0;3;19;18;10
+36;Research & Development;419;0;3;Laboratory Technician;2;5674;0;3;11;9;8
+32;Sales;420;1;2;Sales Executive;3;5484;0;3;13;13;8
+38;Research & Development;421;0;2;Research Director;2;12061;0;3;19;10;8
+58;Research & Development;422;1;1;Healthcare Representative;3;5660;1;3;12;5;3
+31;Research & Development;423;1;3;Research Scientist;4;4821;1;3;6;5;2
+31;Human Resources;424;1;2;Human Resources;1;6410;0;3;9;2;2
+45;Research & Development;425;1;3;Laboratory Technician;1;5210;0;3;24;24;9
+31;Research & Development;426;1;3;Research Scientist;4;2695;1;3;3;2;2
+33;Research & Development;428;0;3;Manager;2;11878;0;3;12;10;6
+39;Research & Development;429;1;3;Manager;1;17068;1;3;21;21;9
+43;Research & Development;430;0;3;Laboratory Technician;4;2455;0;3;9;8;7
+49;Research & Development;431;0;2;Healthcare Representative;3;13964;1;3;25;7;1
+52;Research & Development;433;1;2;Research Scientist;2;4941;0;3;11;8;2
+27;Research & Development;434;0;3;Research Scientist;2;2478;1;3;4;4;3
+32;Sales;436;0;2;Sales Executive;2;5228;1;3;13;13;12
+27;Sales;437;1;3;Sales Executive;3;4478;1;3;5;5;4
+31;Sales;438;1;3;Sales Executive;4;7547;0;3;13;7;7
+32;Research & Development;439;0;4;Research Scientist;4;5055;0;3;10;7;7
+28;Research & Development;440;1;1;Research Scientist;4;3464;1;3;5;3;2
+30;Research & Development;441;0;3;Research Scientist;4;5775;0;3;11;10;8
+31;Research & Development;442;0;2;Manufacturing Director;3;8943;0;4;10;10;9
+39;Research & Development;444;1;2;Manager;4;19272;0;3;21;21;9
+39;Sales;445;0;3;Sales Executive;3;5238;1;3;12;1;0
+33;Sales;446;1;2;Sales Executive;4;4682;0;3;9;7;7
+47;Research & Development;447;1;3;Research Director;3;18300;0;3;21;3;2
+43;Research & Development;448;0;2;Laboratory Technician;3;5257;0;3;9;9;7
+27;Sales;449;1;3;Sales Executive;2;6349;1;3;6;5;4
+54;Research & Development;450;0;3;Research Scientist;3;4869;0;3;20;4;3
+43;Research & Development;451;0;3;Healthcare Representative;1;9985;0;3;10;1;0
+45;Research & Development;452;1;3;Research Scientist;4;3697;0;3;12;10;9
+40;Sales;453;1;1;Sales Executive;4;7457;1;4;6;4;3
+29;Research & Development;454;1;1;Laboratory Technician;1;2119;1;3;7;7;7
+29;Research & Development;455;1;2;Laboratory Technician;4;3983;0;3;4;3;2
+30;Sales;456;0;2;Sales Executive;3;6118;0;3;10;10;9
+27;Sales;458;0;3;Sales Executive;2;6214;0;3;8;8;7
+37;Research & Development;460;1;3;Manufacturing Director;4;6347;0;3;8;6;2
+38;Research & Development;461;1;2;Research Director;4;11510;1;3;12;11;10
+31;Research & Development;462;0;3;Manufacturing Director;4;7143;1;3;11;11;9
+29;Sales;463;0;2;Sales Executive;2;8268;1;3;7;7;7
+35;Research & Development;464;1;3;Manufacturing Director;2;8095;0;3;17;16;6
+23;Research & Development;465;1;3;Research Scientist;4;2904;0;3;4;4;2
+41;Research & Development;466;1;2;Manufacturing Director;2;6032;1;3;8;5;4
+47;Sales;467;1;3;Sales Representative;3;2976;0;3;5;0;0
+42;Research & Development;468;0;3;Research Director;4;15992;0;3;16;1;0
+29;Sales;469;1;3;Sales Executive;3;4649;0;3;4;4;3
+42;Human Resources;470;1;3;Human Resources;3;2696;1;3;4;3;2
+32;Research & Development;471;0;3;Laboratory Technician;2;2370;0;3;8;8;0
+48;Sales;473;0;3;Manager;3;12504;0;4;15;0;0
+37;Research & Development;474;1;4;Research Scientist;1;5974;1;3;13;7;7
+30;Sales;475;0;3;Sales Executive;3;4736;1;3;4;2;2
+26;Sales;476;1;3;Sales Executive;3;5296;0;3;8;8;7
+42;Research & Development;477;1;2;Healthcare Representative;4;6781;0;4;14;1;0
+21;Sales;478;0;2;Sales Representative;2;2174;1;3;3;3;2
+36;Sales;479;0;3;Sales Executive;4;6653;0;3;7;1;0
+36;Sales;481;1;2;Sales Executive;4;9699;0;3;16;13;9
+57;Research & Development;482;1;3;Healthcare Representative;3;6755;0;3;15;3;2
+40;Research & Development;483;0;4;Laboratory Technician;3;2213;1;3;10;7;7
+21;Sales;484;1;3;Sales Representative;4;2610;0;4;3;3;2
+33;Sales;485;0;3;Sales Representative;3;2851;1;3;1;1;0
+37;Research & Development;486;0;3;Laboratory Technician;1;3452;0;4;17;5;4
+46;Research & Development;487;0;3;Manufacturing Director;3;5258;0;3;7;1;0
+41;Sales;488;1;3;Sales Executive;2;9355;0;3;8;8;7
+50;Research & Development;491;1;2;Healthcare Representative;4;10496;0;3;20;4;3
+40;Sales;492;1;2;Sales Executive;3;6380;1;3;8;6;4
+31;Research & Development;493;1;2;Research Scientist;2;2657;1;3;3;2;2
+21;Sales;494;0;4;Sales Representative;2;2716;0;3;1;1;0
+29;Research & Development;495;1;3;Research Scientist;4;2201;0;3;6;3;2
+35;Research & Development;496;1;2;Healthcare Representative;2;6540;0;3;10;1;1
+27;Research & Development;497;1;3;Laboratory Technician;2;3816;0;3;5;5;2
+28;Sales;498;1;3;Sales Executive;4;5253;0;3;7;7;5
+49;Research & Development;499;1;2;Healthcare Representative;3;10965;0;4;26;5;2
+51;Sales;500;0;3;Sales Executive;4;4936;0;3;18;7;7
+36;Research & Development;501;0;3;Research Scientist;3;2543;0;3;6;2;2
+34;Sales;502;1;4;Sales Executive;4;5304;1;3;9;5;2
+55;Research & Development;505;0;3;Manager;4;16659;1;3;30;5;4
+24;Sales;507;0;3;Sales Executive;3;4260;1;3;5;5;2
+30;Sales;508;1;3;Sales Representative;2;2476;0;3;1;1;0
+26;Research & Development;510;1;3;Research Scientist;1;3102;0;4;7;6;4
+22;Research & Development;511;0;3;Research Scientist;2;2244;0;3;2;2;1
+36;Sales;513;1;2;Sales Executive;3;7596;0;3;10;10;9
+30;Research & Development;514;1;3;Research Scientist;4;2285;1;4;3;1;0
+37;Research & Development;515;0;3;Laboratory Technician;1;3034;0;3;18;18;7
+40;Sales;516;0;3;Sales Executive;2;5715;0;3;8;5;4
+42;Research & Development;517;0;3;Laboratory Technician;1;2576;0;3;8;5;2
+37;Research & Development;518;1;3;Manufacturing Director;2;4197;1;3;18;1;0
+43;Research & Development;520;1;2;Research Director;2;14336;0;3;25;25;10
+40;Research & Development;521;0;2;Laboratory Technician;3;3448;0;4;20;1;0
+54;Research & Development;522;1;3;Research Director;1;19406;0;3;24;4;2
+34;Sales;523;0;3;Sales Executive;3;6538;0;3;6;3;2
+31;Research & Development;524;0;3;Manufacturing Director;1;4306;0;3;13;13;10
+43;Research & Development;525;1;3;Laboratory Technician;4;2258;0;4;8;3;2
+43;Research & Development;526;0;3;Healthcare Representative;3;4522;1;3;8;5;2
+25;Sales;527;0;2;Sales Executive;4;4487;1;3;5;5;4
+37;Research & Development;529;0;3;Research Scientist;3;4449;1;3;15;13;11
+31;Research & Development;530;1;2;Laboratory Technician;1;2218;0;3;4;4;2
+39;Research & Development;531;1;3;Manager;3;19197;1;3;21;21;8
+56;Sales;532;0;4;Sales Executive;1;13212;0;3;36;7;7
+30;Sales;533;0;3;Sales Executive;3;6577;0;3;6;5;4
+41;Sales;534;1;4;Sales Executive;1;8392;0;3;10;10;7
+28;Research & Development;536;1;3;Laboratory Technician;1;4558;0;3;10;10;0
+25;Research & Development;538;1;3;Laboratory Technician;1;4031;0;3;6;2;2
+52;Research & Development;543;1;2;Manufacturing Director;3;7969;1;3;28;5;4
+45;Research & Development;544;1;3;Research Scientist;4;2654;0;4;8;2;2
+52;Research & Development;546;0;3;Manager;4;16555;0;3;31;5;2
+42;Research & Development;547;0;3;Research Scientist;3;4556;0;3;19;5;4
+30;Research & Development;548;0;1;Manufacturing Director;4;6091;0;4;11;5;4
+60;Research & Development;549;0;3;Manager;1;19566;0;3;33;29;8
+46;Research & Development;550;0;3;Manufacturing Director;3;4810;0;3;19;10;7
+42;Research & Development;551;0;2;Healthcare Representative;4;4523;0;3;7;6;5
+24;Sales;554;0;3;Sales Representative;2;3202;1;3;6;5;3
+34;Sales;555;0;1;Sales Representative;3;2351;0;3;3;2;2
+38;Research & Development;556;1;3;Laboratory Technician;4;1702;1;4;1;1;0
+40;Sales;558;0;3;Manager;3;18041;0;3;21;20;15
+26;Research & Development;560;0;3;Research Scientist;4;2886;0;4;3;3;2
+30;Research & Development;562;1;3;Laboratory Technician;4;2097;0;3;9;5;3
+29;Research & Development;564;1;2;Research Director;3;11935;0;3;10;10;2
+29;Research & Development;565;0;2;Research Scientist;2;2546;0;3;6;2;2
+19;Human Resources;566;1;2;Human Resources;4;2564;0;3;1;1;0
+30;Sales;567;0;3;Sales Executive;1;8412;0;3;10;9;8
+57;Sales;568;1;2;Manager;4;14118;0;3;32;1;0
+50;Research & Development;569;1;2;Manager;3;17046;0;3;28;27;10
+30;Research & Development;571;0;3;Laboratory Technician;4;2564;0;3;12;11;7
+60;Sales;573;0;2;Sales Executive;1;10266;0;3;22;18;13
+47;Research & Development;574;0;3;Manufacturing Director;4;5070;0;3;20;5;0
+46;Research & Development;575;1;3;Research Director;3;17861;0;3;26;3;2
+35;Research & Development;577;1;1;Laboratory Technician;3;4230;0;3;6;5;4
+54;Research & Development;578;0;3;Laboratory Technician;3;3780;0;3;19;1;0
+34;Research & Development;579;1;2;Research Scientist;3;2768;0;3;14;7;3
+46;Sales;580;0;2;Sales Executive;4;9071;1;3;15;3;2
+31;Research & Development;581;1;3;Manufacturing Director;2;10648;0;4;13;13;8
+33;Research & Development;582;1;3;Manager;3;13610;1;3;15;7;6
+33;Research & Development;584;1;1;Laboratory Technician;4;3408;0;3;8;4;3
+30;Sales;585;1;3;Sales Representative;2;2983;0;3;4;3;2
+35;Research & Development;586;1;3;Healthcare Representative;3;7632;1;3;10;8;7
+31;Research & Development;587;1;3;Healthcare Representative;3;9824;0;3;12;1;0
+34;Human Resources;590;0;3;Human Resources;1;9950;1;3;11;3;2
+42;Research & Development;591;1;3;Laboratory Technician;3;2093;0;3;8;2;2
+36;Sales;592;1;3;Sales Executive;4;9980;0;3;10;10;3
+22;Research & Development;593;1;2;Laboratory Technician;3;3894;0;3;4;2;2
+48;Sales;595;0;3;Sales Executive;4;4051;0;3;14;9;7
+55;Sales;597;0;3;Manager;2;16835;0;4;37;10;9
+41;Sales;599;1;3;Sales Executive;4;6230;0;3;16;14;3
+35;Sales;600;1;3;Sales Executive;3;4717;0;3;15;11;9
+40;Research & Development;601;0;3;Manufacturing Director;3;13237;0;3;22;20;6
+39;Research & Development;602;0;3;Laboratory Technician;3;3755;0;3;8;8;3
+31;Sales;604;1;3;Sales Executive;4;6582;1;3;10;6;5
+42;Research & Development;605;1;3;Manufacturing Director;1;7406;1;4;10;10;9
+45;Sales;606;1;3;Sales Executive;2;4805;0;3;9;8;7
+26;Human Resources;608;0;3;Human Resources;3;2741;1;3;8;7;7
+29;Research & Development;611;1;3;Manufacturing Director;4;4262;0;3;8;3;2
+33;Research & Development;612;0;4;Research Director;3;16184;0;3;10;6;1
+31;Sales;613;1;2;Manager;4;11557;0;4;10;5;4
+18;Sales;614;1;3;Sales Representative;2;1878;1;3;0;0;0
+40;Sales;615;1;1;Sales Executive;1;10932;0;3;20;1;0
+41;Research & Development;616;0;2;Healthcare Representative;3;6811;1;3;10;8;7
+26;Sales;618;1;3;Sales Executive;3;4306;0;3;8;0;0
+35;Sales;620;0;3;Sales Executive;3;4859;0;3;5;5;4
+34;Sales;621;1;4;Sales Executive;4;5337;0;3;10;10;7
+26;Research & Development;622;1;1;Laboratory Technician;4;2340;1;3;1;1;0
+37;Research & Development;623;0;3;Manufacturing Director;4;7491;0;3;12;6;5
+46;Research & Development;624;0;3;Healthcare Representative;3;10527;0;3;28;2;2
+41;Sales;625;0;3;Manager;1;16595;0;3;22;18;16
+37;Sales;626;1;3;Sales Executive;2;8834;0;3;9;9;5
+52;Research & Development;630;1;3;Research Scientist;1;5577;1;3;18;10;9
+32;Sales;631;1;4;Sales Executive;3;4707;0;3;6;4;2
+24;Sales;632;1;3;Sales Representative;4;2400;0;3;3;2;2
+38;Research & Development;634;0;3;Healthcare Representative;3;9824;0;3;18;1;0
+37;Research & Development;635;0;3;Manufacturing Director;2;6447;0;3;8;6;5
+49;Research & Development;638;1;2;Research Director;3;19502;1;3;31;31;9
+24;Research & Development;639;1;4;Research Scientist;4;2725;1;3;6;6;5
+26;Sales;641;1;3;Sales Executive;2;6272;0;4;6;5;3
+24;Research & Development;643;1;2;Laboratory Technician;2;2127;0;4;1;1;0
+50;Human Resources;644;1;3;Manager;2;18200;0;3;32;32;5
+25;Sales;645;1;3;Sales Representative;3;2096;0;3;7;7;4
+24;Research & Development;647;0;3;Laboratory Technician;3;2886;1;3;6;6;3
+30;Sales;648;1;2;Sales Representative;1;2033;0;3;1;1;0
+34;Research & Development;649;1;2;Research Scientist;4;3622;1;3;6;6;5
+31;Sales;650;1;3;Sales Executive;1;4233;0;3;9;3;1
+35;Research & Development;652;1;2;Laboratory Technician;4;3681;0;3;9;3;2
+31;Sales;653;1;4;Sales Executive;4;5460;0;4;13;7;7
+27;Research & Development;655;0;2;Research Scientist;3;2187;0;3;6;5;3
+37;Sales;656;1;3;Sales Executive;3;9602;1;3;17;3;0
+20;Research & Development;657;0;2;Research Scientist;2;2836;0;3;1;1;0
+42;Research & Development;659;0;3;Healthcare Representative;4;4089;0;3;10;10;2
+43;Research & Development;661;1;2;Research Director;4;16627;1;3;21;1;0
+38;Research & Development;662;0;3;Research Scientist;1;2619;0;3;8;0;0
+43;Research & Development;663;1;3;Laboratory Technician;3;5679;1;3;10;8;7
+48;Research & Development;664;0;2;Manager;1;15402;0;3;21;3;2
+44;Human Resources;665;0;2;Human Resources;3;5985;0;3;10;2;2
+34;Sales;666;0;3;Sales Representative;3;2579;1;3;8;8;2
+27;Sales;667;1;3;Sales Representative;1;3041;0;3;5;4;3
+21;Sales;669;1;3;Sales Representative;3;3447;0;3;3;3;2
+44;Research & Development;671;1;3;Manager;4;19513;1;3;26;2;2
+22;Research & Development;675;1;3;Research Scientist;3;2773;0;4;3;2;2
+33;Sales;677;1;3;Sales Executive;3;7104;0;3;6;5;0
+32;Research & Development;679;0;3;Research Scientist;4;6322;1;3;6;6;4
+30;Research & Development;680;0;3;Research Scientist;3;2083;0;4;1;1;0
+53;Sales;682;0;3;Sales Executive;1;8381;0;4;18;14;7
+34;Research & Development;683;1;3;Research Scientist;4;2691;0;3;10;10;9
+45;Sales;684;0;3;Sales Executive;1;4286;0;3;5;1;1
+26;Research & Development;686;0;3;Laboratory Technician;4;2659;1;3;3;3;2
+37;Research & Development;689;1;3;Manufacturing Director;3;9434;0;3;10;10;7
+29;Sales;690;0;3;Sales Executive;3;5561;0;3;6;6;0
+35;Research & Development;691;1;1;Research Scientist;4;6646;0;3;17;17;11
+33;Research & Development;692;1;3;Healthcare Representative;4;7725;0;4;15;13;11
+54;Human Resources;698;1;3;Human Resources;2;10725;0;3;16;9;7
+36;Research & Development;699;1;2;Manufacturing Director;2;8847;1;3;13;3;2
+27;Research & Development;700;1;2;Research Scientist;4;2045;0;3;5;4;2
+20;Research & Development;701;1;3;Research Scientist;3;1009;1;3;1;1;0
+33;Research & Development;702;1;3;Research Scientist;1;3348;1;3;10;10;8
+35;Research & Development;704;1;2;Laboratory Technician;3;1281;0;3;1;1;0
+23;Research & Development;705;1;4;Research Scientist;1;2819;0;3;5;3;2
+25;Sales;707;1;4;Sales Executive;2;4851;0;4;4;3;2
+38;Sales;709;0;2;Sales Executive;4;4028;0;4;8;7;7
+29;Research & Development;710;1;1;Research Scientist;4;2720;0;3;10;10;7
+48;Sales;712;1;4;Sales Executive;2;8120;0;3;12;2;2
+27;Sales;714;0;4;Sales Executive;4;4647;1;4;6;6;5
+37;Research & Development;715;1;4;Research Scientist;4;4680;0;3;4;1;0
+50;Research & Development;716;1;4;Laboratory Technician;3;3221;1;3;20;20;8
+34;Research & Development;717;0;2;Healthcare Representative;2;8621;0;3;9;8;7
+24;Sales;720;0;3;Sales Executive;3;4577;0;3;4;2;2
+39;Research & Development;721;0;2;Healthcare Representative;3;4553;0;3;20;20;7
+32;Sales;722;1;3;Sales Executive;4;5396;0;3;10;10;7
+50;Sales;723;1;3;Sales Executive;3;6796;1;3;18;4;3
+38;Research & Development;724;0;4;Healthcare Representative;4;7625;0;3;10;9;7
+27;Research & Development;725;0;3;Manufacturing Director;1;7412;0;3;9;9;7
+32;Research & Development;727;0;3;Research Director;4;11159;0;3;10;7;7
+47;Sales;728;1;3;Sales Executive;1;4960;0;3;20;7;7
+40;Sales;729;1;2;Sales Executive;1;10475;1;4;20;18;13
+53;Research & Development;730;1;4;Research Director;3;14814;0;3;32;5;1
+41;Human Resources;731;1;2;Manager;4;19141;0;3;23;21;6
+60;Sales;732;1;3;Sales Executive;1;5405;0;3;10;2;2
+27;Research & Development;733;1;3;Manufacturing Director;1;8793;0;4;9;9;7
+41;Human Resources;734;1;2;Manager;3;19189;0;3;22;22;7
+50;Sales;738;1;3;Sales Representative;2;3875;0;3;4;2;2
+28;Research & Development;741;0;1;Research Scientist;2;2216;1;3;10;7;7
+36;Research & Development;742;0;4;Research Director;1;11713;0;3;10;8;7
+38;Research & Development;743;0;3;Manufacturing Director;3;7861;1;3;10;1;0
+44;Research & Development;744;1;1;Laboratory Technician;3;3708;0;3;9;5;2
+47;Sales;746;0;3;Sales Executive;3;13770;1;3;28;22;2
+30;Sales;747;1;3;Sales Executive;4;5304;0;4;10;8;7
+29;Sales;749;1;3;Sales Representative;3;2642;0;3;1;1;0
+42;Research & Development;752;1;4;Research Scientist;3;2759;1;3;7;2;2
+43;Sales;754;1;2;Sales Executive;4;6804;0;3;7;2;2
+34;Research & Development;757;0;3;Healthcare Representative;3;6142;0;3;10;5;1
+23;Research & Development;758;1;3;Laboratory Technician;1;2500;0;3;5;4;3
+39;Human Resources;760;0;4;Human Resources;2;6389;0;3;12;8;3
+56;Research & Development;762;1;3;Healthcare Representative;4;11103;0;3;30;10;7
+40;Research & Development;763;0;2;Research Scientist;4;2342;1;4;5;4;2
+27;Research & Development;764;0;2;Healthcare Representative;1;6811;0;3;9;7;6
+29;Sales;766;1;3;Sales Representative;2;2297;0;3;2;2;2
+53;Research & Development;769;1;3;Laboratory Technician;4;2450;0;3;19;2;2
+35;Research & Development;771;0;3;Healthcare Representative;1;5093;0;3;16;1;0
+32;Research & Development;772;1;3;Laboratory Technician;4;5309;0;3;10;10;8
+38;Research & Development;773;1;3;Research Scientist;3;3057;1;3;6;1;0
+34;Research & Development;775;0;3;Manufacturing Director;1;5121;0;3;7;0;0
+52;Sales;776;1;2;Manager;1;16856;0;3;34;34;6
+33;Research & Development;780;1;3;Research Scientist;4;2686;1;3;10;10;9
+25;Sales;781;0;3;Sales Executive;4;6180;0;4;6;6;5
+45;Sales;783;1;1;Sales Representative;3;6632;0;3;9;8;7
+23;Research & Development;784;1;4;Research Scientist;3;3505;0;3;2;2;2
+47;Sales;785;0;4;Sales Executive;3;6397;1;3;8;5;4
+34;Sales;786;1;3;Sales Executive;4;6274;0;4;6;6;5
+55;Research & Development;787;1;3;Manager;1;19859;1;3;24;5;2
+36;Sales;789;1;2;Sales Executive;1;7587;0;3;10;10;7
+52;Research & Development;791;1;3;Research Scientist;4;4258;0;3;5;4;3
+26;Research & Development;792;0;1;Laboratory Technician;4;4364;0;3;5;2;2
+29;Research & Development;793;0;3;Healthcare Representative;3;4335;0;3;11;8;7
+26;Sales;796;1;2;Sales Executive;1;5326;0;3;6;4;3
+34;Research & Development;797;0;4;Research Scientist;4;3280;0;3;10;4;2
+54;Research & Development;799;0;3;Manufacturing Director;1;5485;1;3;9;5;3
+27;Sales;800;1;3;Sales Executive;4;4342;0;3;5;4;2
+37;Research & Development;802;0;3;Research Scientist;1;2782;1;3;6;5;3
+38;Research & Development;803;0;4;Manufacturing Director;1;5980;1;3;17;15;7
+34;Research & Development;804;0;2;Research Scientist;1;4381;0;3;6;6;5
+35;Sales;805;0;3;Sales Representative;4;2572;0;3;3;3;2
+30;Research & Development;806;1;1;Laboratory Technician;3;3833;0;4;7;2;2
+40;Research & Development;807;0;4;Healthcare Representative;2;4244;0;4;8;8;7
+34;Sales;808;0;3;Sales Executive;1;6500;0;3;6;3;2
+42;Research & Development;809;1;3;Manager;4;18430;0;3;24;24;7
+23;Research & Development;811;1;4;Laboratory Technician;1;1601;1;4;1;0;0
+24;Research & Development;812;1;2;Laboratory Technician;2;2694;0;3;1;1;0
+52;Research & Development;813;0;3;Laboratory Technician;3;3149;0;4;9;5;2
+50;Research & Development;815;1;3;Research Director;3;17639;0;3;30;4;3
+29;Research & Development;816;0;2;Laboratory Technician;1;2319;1;3;1;1;0
+33;Research & Development;817;1;3;Research Director;3;11691;0;3;14;13;9
+33;Sales;819;0;3;Sales Executive;1;5324;0;3;6;3;2
+47;Research & Development;820;0;3;Manager;4;16752;1;3;26;26;14
+36;Research & Development;823;0;3;Manufacturing Director;2;5228;0;3;10;9;7
+29;Research & Development;824;1;4;Research Scientist;3;2700;0;4;10;10;7
+58;Research & Development;825;1;3;Research Director;2;19246;1;3;40;31;15
+35;Research & Development;826;0;4;Research Scientist;3;2506;0;3;7;2;2
+42;Research & Development;827;0;2;Manufacturing Director;4;6062;1;3;8;4;3
+28;Research & Development;828;1;3;Research Scientist;3;4382;0;3;5;2;2
+36;Human Resources;829;1;3;Human Resources;2;2143;0;3;8;5;2
+32;Research & Development;830;0;2;Manufacturing Director;3;6162;0;3;14;14;13
+40;Research & Development;832;1;2;Laboratory Technician;3;5094;0;3;10;1;0
+30;Research & Development;833;0;2;Manufacturing Director;4;6877;1;4;12;0;0
+45;Research & Development;834;0;2;Research Scientist;3;2274;0;3;1;1;0
+42;Research & Development;836;1;3;Manufacturing Director;2;4434;0;3;10;9;8
+38;Research & Development;837;1;2;Healthcare Representative;1;6288;0;3;13;4;3
+34;Research & Development;838;0;2;Research Scientist;4;2553;0;3;6;5;2
+49;Sales;840;0;3;Sales Executive;4;7654;0;3;9;9;8
+55;Sales;842;1;3;Sales Executive;4;5160;0;3;12;9;7
+43;Research & Development;843;1;3;Research Director;1;17159;0;4;22;4;1
+27;Research & Development;844;1;2;Research Director;4;12808;1;3;9;9;8
+35;Research & Development;845;1;3;Manufacturing Director;3;10221;0;4;17;8;5
+28;Sales;846;0;3;Sales Executive;2;4779;1;4;8;8;7
+34;Human Resources;847;1;3;Human Resources;4;3737;0;3;4;3;2
+26;Research & Development;848;0;2;Research Scientist;3;2366;1;3;8;8;7
+27;Research & Development;850;1;3;Research Scientist;4;1706;0;3;0;0;0
+51;Sales;851;0;3;Manager;3;16307;0;3;29;20;6
+44;Research & Development;852;1;3;Healthcare Representative;2;5933;0;3;10;5;2
+25;Research & Development;854;1;4;Research Scientist;1;3424;0;3;6;4;3
+33;Sales;855;1;4;Sales Executive;1;4037;0;4;9;9;8
+35;Research & Development;856;0;2;Research Scientist;1;2559;0;3;6;6;5
+36;Sales;857;1;3;Sales Executive;4;6201;1;3;18;18;14
+32;Sales;859;1;3;Sales Executive;4;4403;0;3;8;5;2
+30;Research & Development;861;1;2;Research Scientist;4;3761;0;3;10;5;4
+53;Sales;862;0;2;Sales Executive;4;10934;1;3;35;5;2
+45;Sales;864;1;3;Sales Executive;1;10761;1;3;18;5;4
+32;Research & Development;865;0;4;Research Scientist;3;5175;0;3;9;5;3
+52;Research & Development;867;0;2;Manufacturing Director;4;13826;0;4;31;9;8
+37;Sales;868;1;2;Sales Executive;3;6334;0;3;9;1;0
+28;Human Resources;869;1;2;Human Resources;4;4936;0;3;6;5;1
+22;Research & Development;872;1;2;Manufacturing Director;4;4775;0;4;4;2;2
+44;Research & Development;874;1;4;Laboratory Technician;4;2818;1;4;10;3;2
+42;Research & Development;875;1;3;Research Scientist;4;2515;1;3;8;2;1
+36;Human Resources;878;1;2;Human Resources;1;2342;0;4;6;5;4
+25;Sales;879;1;3;Sales Executive;1;4194;1;3;5;5;3
+35;Research & Development;880;0;2;Manufacturing Director;3;10685;1;4;17;17;14
+35;Research & Development;881;0;3;Research Scientist;2;2022;1;3;10;10;2
+32;Research & Development;882;1;3;Laboratory Technician;4;2314;0;3;4;3;0
+25;Sales;885;1;2;Sales Executive;1;4256;0;3;5;5;2
+49;Research & Development;887;0;3;Research Scientist;1;3580;0;3;7;4;2
+24;Research & Development;888;1;2;Laboratory Technician;4;3162;0;3;6;5;2
+32;Sales;889;1;3;Sales Executive;2;6524;0;3;10;10;8
+38;Sales;893;1;2;Sales Representative;2;2899;0;3;3;2;2
+42;Research & Development;894;0;4;Laboratory Technician;4;5231;1;3;17;5;3
+31;Research & Development;895;1;3;Research Scientist;4;2356;1;3;8;6;4
+29;Sales;896;0;2;Sales Representative;3;2800;1;3;5;3;2
+53;Sales;897;1;3;Sales Executive;4;11836;0;3;28;2;0
+35;Research & Development;899;1;2;Manufacturing Director;2;10903;0;3;16;13;10
+37;Sales;900;0;3;Sales Representative;4;2973;0;3;10;5;4
+53;Research & Development;901;0;3;Research Director;4;14275;0;3;33;12;9
+43;Research & Development;902;0;3;Healthcare Representative;4;5562;0;3;12;5;2
+47;Sales;903;0;3;Sales Executive;4;4537;1;4;8;7;6
+37;Sales;904;1;3;Sales Executive;2;7642;1;3;10;10;0
+50;Research & Development;905;1;3;Manager;1;17924;0;3;31;31;6
+39;Human Resources;909;0;2;Human Resources;4;5204;0;3;13;5;4
+33;Human Resources;910;1;3;Human Resources;2;2277;1;3;7;4;3
+32;Research & Development;911;1;3;Laboratory Technician;4;2795;1;4;1;1;0
+29;Research & Development;912;0;2;Laboratory Technician;4;2532;0;3;8;4;3
+44;Research & Development;913;1;3;Research Scientist;1;2559;1;3;8;8;7
+28;Sales;916;1;3;Sales Executive;4;4908;0;3;4;4;2
+58;Research & Development;918;1;2;Laboratory Technician;4;2380;1;3;3;1;0
+43;Research & Development;920;0;3;Manufacturing Director;2;4765;0;4;4;1;0
+20;Sales;922;0;2;Sales Representative;3;2044;0;3;2;2;2
+21;Research & Development;923;0;3;Research Scientist;4;2693;0;3;1;1;0
+36;Research & Development;924;1;3;Healthcare Representative;4;6586;1;3;17;16;8
+47;Sales;925;0;2;Sales Representative;4;3294;1;3;3;3;2
+22;Research & Development;926;0;3;Manufacturing Director;3;4171;1;3;4;3;2
+41;Research & Development;927;0;1;Laboratory Technician;4;2778;1;3;10;7;7
+28;Research & Development;930;0;3;Research Scientist;3;2377;0;3;6;2;2
+39;Research & Development;932;1;3;Laboratory Technician;1;2404;1;4;8;2;2
+27;Research & Development;933;0;3;Research Scientist;3;2318;0;3;1;1;1
+34;Research & Development;934;1;3;Laboratory Technician;2;2008;0;3;1;1;0
+42;Sales;936;0;2;Sales Executive;3;6244;0;3;10;5;4
+33;Research & Development;939;1;2;Research Scientist;1;2799;1;3;6;3;2
+58;Research & Development;940;0;2;Healthcare Representative;2;10552;1;3;24;6;0
+31;Sales;941;1;2;Sales Representative;3;2329;0;3;13;7;7
+35;Research & Development;942;0;3;Healthcare Representative;4;4014;1;4;10;10;6
+49;Research & Development;944;0;3;Laboratory Technician;2;7403;0;3;29;26;9
+48;Research & Development;945;1;3;Research Scientist;3;2259;0;3;13;0;0
+31;Sales;947;0;3;Sales Executive;3;6932;0;3;9;9;8
+36;Research & Development;949;1;3;Research Scientist;4;4678;0;3;8;6;2
+38;Research & Development;950;0;3;Research Director;1;13582;0;3;15;15;12
+32;Research & Development;951;0;2;Laboratory Technician;2;2332;0;4;5;3;0
+25;Sales;952;1;2;Sales Representative;2;2413;1;3;1;1;0
+40;Sales;954;1;2;Sales Executive;2;9705;0;3;11;1;0
+26;Sales;956;1;2;Sales Executive;1;4294;0;3;7;7;7
+41;Research & Development;957;1;3;Laboratory Technician;1;4721;1;3;20;18;13
+36;Research & Development;958;1;3;Laboratory Technician;3;2519;0;4;16;11;8
+19;Sales;959;1;2;Sales Representative;2;2121;1;3;1;1;0
+20;Research & Development;960;1;3;Laboratory Technician;1;2973;0;3;1;1;0
+31;Research & Development;961;0;3;Healthcare Representative;4;5855;1;3;10;9;7
+40;Research & Development;964;1;3;Research Scientist;2;3617;1;3;3;1;1
+32;Research & Development;966;0;3;Manufacturing Director;1;6725;0;3;8;8;7
+36;Sales;967;1;2;Sales Executive;4;10325;1;3;16;16;7
+33;Research & Development;969;0;2;Healthcare Representative;4;6949;0;3;6;5;0
+37;Sales;970;1;2;Sales Executive;3;10609;0;3;17;14;1
+45;Research & Development;972;1;3;Laboratory Technician;2;4447;0;3;9;9;7
+29;Sales;974;0;3;Sales Representative;4;2157;0;3;3;3;1
+35;Sales;975;0;3;Sales Executive;3;4601;0;3;5;5;2
+52;Research & Development;976;1;3;Manager;4;17099;0;3;26;9;8
+58;Research & Development;977;1;3;Research Scientist;3;2479;0;4;7;1;0
+53;Sales;981;1;3;Manager;3;14852;0;3;22;17;13
+30;Sales;982;1;3;Sales Executive;3;7264;0;3;10;8;4
+38;Sales;983;0;3;Sales Executive;4;5666;1;3;6;5;3
+35;Sales;984;1;3;Sales Executive;4;7823;0;3;12;10;9
+39;Sales;985;1;4;Sales Executive;3;7880;0;3;9;8;7
+40;Sales;986;0;4;Sales Executive;2;13194;1;3;22;1;0
+47;Research & Development;987;1;4;Manufacturing Director;3;5067;1;3;20;19;10
+36;Sales;990;1;3;Sales Executive;4;5079;0;3;12;7;7
+31;Research & Development;991;1;2;Research Scientist;1;2321;1;4;4;3;2
+33;Sales;992;1;3;Manager;3;17444;0;3;10;10;8
+29;Research & Development;994;0;2;Research Scientist;1;2404;1;4;3;0;0
+33;Research & Development;995;0;3;Research Scientist;4;3452;0;3;5;3;2
+45;Research & Development;996;0;3;Laboratory Technician;4;2270;0;3;8;5;3
+50;Research & Development;997;1;3;Research Director;4;17399;0;4;32;5;4
+33;Research & Development;998;0;4;Healthcare Representative;2;5488;1;3;6;6;5
+41;Research & Development;999;1;3;Research Director;3;19419;0;3;21;18;16
+27;Research & Development;1001;0;3;Laboratory Technician;2;2811;0;3;4;2;2
+45;Research & Development;1002;1;3;Laboratory Technician;1;3633;1;3;9;9;8
+47;Sales;1003;0;3;Sales Executive;4;4163;1;3;9;9;0
+30;Research & Development;1004;0;3;Research Scientist;3;2132;1;3;7;5;2
+50;Research & Development;1005;1;3;Manufacturing Director;3;13973;1;3;22;12;11
+38;Research & Development;1006;1;3;Research Scientist;3;2684;0;3;3;2;1
+46;Research & Development;1007;1;3;Manufacturing Director;3;10845;0;3;13;8;7
+24;Research & Development;1009;0;2;Manufacturing Director;3;4377;0;3;5;4;2
+35;Research & Development;1010;1;2;Laboratory Technician;2;3743;1;4;5;4;2
+31;Research & Development;1011;0;3;Manufacturing Director;1;4148;0;3;4;4;3
+18;Research & Development;1012;1;3;Research Scientist;4;1051;0;3;0;0;0
+54;Research & Development;1013;0;3;Manufacturing Director;3;10739;0;3;22;10;7
+35;Research & Development;1014;0;3;Healthcare Representative;3;10388;1;3;16;16;10
+30;Research & Development;1015;0;4;Research Director;1;11416;1;3;9;8;7
+20;Research & Development;1016;0;2;Research Scientist;1;2600;1;3;1;1;0
+30;Research & Development;1017;0;3;Laboratory Technician;2;2422;0;3;4;3;2
+26;Research & Development;1018;1;4;Manufacturing Director;4;5472;0;3;8;8;7
+22;Research & Development;1019;1;1;Laboratory Technician;1;2451;0;3;4;4;3
+48;Research & Development;1022;1;2;Healthcare Representative;3;4240;0;3;19;2;2
+48;Research & Development;1024;1;2;Healthcare Representative;3;10999;0;3;27;15;11
+41;Research & Development;1025;0;3;Manufacturing Director;3;5003;0;3;8;2;2
+39;Research & Development;1026;0;2;Manufacturing Director;4;12742;0;3;21;21;6
+27;Research & Development;1027;0;3;Manufacturing Director;4;4227;0;3;4;3;2
+35;Research & Development;1028;1;3;Laboratory Technician;4;3917;0;4;3;3;2
+42;Sales;1029;1;3;Manager;3;18303;0;3;21;1;0
+50;Research & Development;1030;1;3;Laboratory Technician;4;2380;0;3;8;1;0
+59;Research & Development;1032;0;2;Manufacturing Director;4;13726;1;3;30;5;3
+37;Research & Development;1033;0;1;Healthcare Representative;2;4777;0;3;15;1;0
+55;Research & Development;1034;1;3;Healthcare Representative;2;6385;1;3;17;8;7
+41;Research & Development;1035;0;1;Research Director;3;19973;0;4;21;21;16
+38;Sales;1036;1;3;Sales Executive;4;6861;1;3;19;1;0
+26;Sales;1037;1;1;Sales Executive;1;4969;0;3;7;2;2
+52;Sales;1038;0;1;Manager;4;19845;0;3;33;32;14
+44;Sales;1039;0;4;Sales Executive;4;13320;1;3;23;12;11
+50;Sales;1040;0;3;Sales Executive;3;6347;0;3;19;18;7
+36;Research & Development;1042;0;4;Laboratory Technician;1;2743;0;3;18;17;13
+39;Research & Development;1043;0;3;Manufacturing Director;1;10880;1;3;21;21;6
+33;Sales;1044;0;2;Sales Representative;4;2342;0;3;3;2;2
+45;Sales;1045;0;3;Manager;4;17650;0;3;26;9;3
+32;Research & Development;1046;0;3;Laboratory Technician;3;4025;0;3;10;8;7
+34;Sales;1047;1;4;Sales Executive;4;9725;0;3;16;15;1
+59;Sales;1048;1;3;Manager;4;11904;1;3;14;6;4
+45;Human Resources;1049;1;3;Human Resources;2;2177;0;3;6;6;3
+53;Sales;1050;0;2;Sales Executive;2;7525;0;3;30;15;7
+36;Research & Development;1052;1;3;Laboratory Technician;3;4834;0;3;9;1;0
+26;Research & Development;1053;1;3;Research Scientist;1;2042;1;3;6;3;2
+34;Sales;1055;0;3;Sales Representative;3;2220;1;3;1;1;1
+28;Sales;1056;1;3;Sales Representative;2;1052;0;4;1;1;0
+38;Research & Development;1060;1;3;Research Scientist;3;2821;0;3;8;2;2
+50;Research & Development;1061;1;3;Research Director;3;19237;1;3;29;8;1
+37;Research & Development;1062;0;3;Healthcare Representative;2;4107;0;3;8;4;3
+40;Sales;1066;1;3;Sales Executive;1;8396;0;3;8;7;7
+26;Research & Development;1068;0;2;Research Scientist;3;2007;0;3;5;5;3
+46;Research & Development;1069;1;3;Research Director;4;19627;0;3;23;2;2
+54;Sales;1070;0;2;Sales Executive;3;10686;0;3;13;9;4
+56;Research & Development;1071;0;3;Research Scientist;3;2942;0;3;18;5;4
+36;Research & Development;1073;0;2;Manufacturing Director;4;8858;0;3;15;14;8
+55;Research & Development;1074;1;2;Manager;1;16756;0;3;31;9;7
+43;Sales;1076;1;2;Sales Executive;4;10798;0;3;18;1;0
+20;Sales;1077;0;3;Sales Representative;4;2323;1;3;2;2;2
+21;Research & Development;1079;0;2;Laboratory Technician;1;1416;0;3;1;1;0
+46;Research & Development;1080;0;2;Research Scientist;1;4615;1;4;19;16;13
+51;Research & Development;1081;1;3;Research Scientist;3;2461;1;3;18;10;0
+28;Research & Development;1082;1;2;Healthcare Representative;1;8722;0;3;10;10;7
+26;Research & Development;1083;1;2;Laboratory Technician;1;3955;0;3;6;5;3
+30;Research & Development;1084;1;3;Manufacturing Director;1;9957;0;3;7;6;2
+41;Research & Development;1085;0;4;Research Scientist;3;3376;0;3;10;10;6
+38;Research & Development;1088;0;2;Healthcare Representative;3;8823;0;3;20;19;9
+40;Research & Development;1092;1;3;Healthcare Representative;4;10322;0;4;14;11;10
+27;Research & Development;1094;1;1;Laboratory Technician;3;4621;0;3;3;3;2
+55;Research & Development;1096;1;3;Manufacturing Director;2;10976;0;3;23;3;2
+28;Research & Development;1097;0;3;Research Scientist;3;3660;0;3;10;8;7
+44;Human Resources;1098;1;2;Human Resources;1;10482;0;3;24;20;6
+33;Research & Development;1099;1;2;Healthcare Representative;4;7119;0;3;9;3;2
+35;Sales;1100;1;3;Sales Executive;1;9582;1;4;9;8;7
+33;Research & Development;1101;0;2;Research Scientist;3;4508;0;4;14;13;7
+28;Research & Development;1102;1;3;Laboratory Technician;3;2207;0;3;4;4;2
+34;Research & Development;1103;1;3;Healthcare Representative;4;7756;0;3;7;6;2
+37;Sales;1105;0;2;Sales Executive;4;6694;1;3;8;1;0
+25;Research & Development;1106;1;3;Laboratory Technician;4;3691;1;3;7;7;7
+26;Research & Development;1107;1;3;Laboratory Technician;3;2377;0;4;1;1;1
+33;Research & Development;1108;1;2;Research Scientist;2;2313;1;4;5;2;2
+42;Research & Development;1109;1;3;Manager;1;17665;0;3;23;22;6
+28;Research & Development;1111;1;2;Laboratory Technician;2;2596;0;3;1;1;0
+50;Sales;1113;1;3;Sales Executive;3;4728;1;3;5;0;0
+33;Sales;1114;0;3;Sales Executive;2;4302;0;3;4;3;2
+34;Research & Development;1115;1;2;Research Scientist;4;2979;0;3;6;0;0
+48;Research & Development;1116;1;4;Manager;4;16885;0;4;27;5;4
+45;Sales;1117;0;2;Sales Executive;3;5593;0;3;15;15;10
+52;Research & Development;1118;1;3;Healthcare Representative;2;10445;0;3;18;8;6
+38;Sales;1119;1;2;Sales Executive;3;8740;1;3;9;8;7
+29;Research & Development;1120;0;3;Research Scientist;4;2514;0;4;11;7;5
+28;Research & Development;1121;0;3;Manufacturing Director;2;7655;0;3;10;9;7
+46;Sales;1124;1;3;Manager;3;17465;0;3;23;12;9
+38;Sales;1125;1;3;Sales Executive;2;7351;0;3;10;1;0
+43;Research & Development;1126;0;3;Manufacturing Director;1;10820;0;3;18;8;7
+39;Research & Development;1127;1;3;Healthcare Representative;4;12169;0;3;21;18;7
+40;Research & Development;1128;1;2;Research Director;3;19626;0;3;21;20;7
+21;Research & Development;1131;0;2;Research Scientist;2;2070;1;3;2;2;2
+39;Research & Development;1132;1;3;Laboratory Technician;2;6782;0;3;9;5;4
+36;Research & Development;1133;1;3;Manufacturing Director;4;7779;0;4;18;11;9
+31;Sales;1135;1;4;Sales Representative;4;2791;0;3;3;2;2
+28;Research & Development;1136;1;2;Research Scientist;2;3201;0;3;6;5;3
+35;Sales;1137;1;3;Sales Executive;4;4968;0;3;5;5;2
+49;Sales;1138;1;2;Sales Executive;2;13120;0;3;22;9;8
+34;Research & Development;1140;1;3;Manufacturing Director;3;4033;0;3;5;3;2
+29;Research & Development;1143;0;3;Research Scientist;2;3291;0;3;8;7;5
+42;Research & Development;1148;1;1;Laboratory Technician;4;4272;0;3;16;1;0
+29;Research & Development;1150;1;2;Manufacturing Director;4;5056;1;3;10;10;7
+38;Human Resources;1152;1;4;Human Resources;3;2844;0;3;7;7;6
+28;Research & Development;1154;1;2;Research Scientist;3;2703;1;3;3;3;1
+18;Research & Development;1156;1;3;Laboratory Technician;3;1904;0;3;0;0;0
+33;Sales;1157;0;3;Sales Executive;1;8224;1;3;6;5;2
+41;Research & Development;1158;1;3;Laboratory Technician;4;4766;1;3;6;1;0
+31;Research & Development;1160;1;3;Laboratory Technician;3;2610;0;3;2;2;2
+37;Research & Development;1161;0;2;Healthcare Representative;4;5731;0;3;9;6;2
+27;Research & Development;1162;1;2;Research Scientist;3;2539;0;3;4;4;2
+34;Sales;1163;0;3;Sales Executive;3;5714;0;4;6;6;5
+35;Human Resources;1164;1;3;Human Resources;3;4323;0;3;6;5;4
+29;Sales;1165;0;2;Sales Executive;1;7336;0;3;11;11;8
+40;Research & Development;1166;0;3;Research Director;3;13499;0;3;20;18;7
+42;Sales;1167;1;3;Sales Executive;1;13758;1;3;22;21;9
+42;Sales;1171;1;3;Sales Executive;1;5155;0;3;9;6;4
+35;Research & Development;1172;1;2;Laboratory Technician;3;2258;0;3;10;8;0
+24;Research & Development;1173;1;3;Laboratory Technician;2;3597;0;4;6;4;3
+28;Research & Development;1175;0;3;Laboratory Technician;4;2515;1;3;1;1;1
+26;Research & Development;1177;1;4;Laboratory Technician;4;4420;0;4;8;8;7
+30;Sales;1179;1;2;Sales Executive;3;6578;0;3;10;10;3
+40;Research & Development;1180;0;2;Research Scientist;4;4422;1;3;16;1;1
+35;Research & Development;1182;1;2;Manufacturing Director;2;10274;0;3;15;7;7
+34;Research & Development;1184;1;2;Healthcare Representative;1;5343;0;4;14;13;9
+35;Research & Development;1185;1;2;Laboratory Technician;4;2376;0;3;2;2;2
+43;Sales;1188;0;1;Sales Executive;3;5346;0;3;7;4;3
+32;Sales;1190;0;3;Sales Representative;1;2827;0;3;1;1;0
+56;Research & Development;1191;0;3;Manager;1;19943;0;3;28;5;2
+29;Research & Development;1192;0;3;Laboratory Technician;4;3131;0;3;10;10;8
+19;Research & Development;1193;1;3;Research Scientist;1;2552;0;4;1;1;1
+45;Research & Development;1195;0;3;Research Scientist;3;4477;1;3;7;3;2
+37;Research & Development;1196;0;2;Manufacturing Director;4;6474;0;3;14;14;8
+20;Research & Development;1198;1;2;Laboratory Technician;3;3033;0;3;2;2;2
+44;Research & Development;1200;1;3;Research Scientist;3;2936;1;3;6;6;4
+53;Research & Development;1201;0;3;Manager;3;18606;0;3;26;7;7
+29;Research & Development;1202;0;1;Research Scientist;4;2168;1;3;6;5;4
+22;Research & Development;1203;1;2;Research Scientist;4;2853;1;3;1;0;0
+46;Sales;1204;0;3;Manager;1;17048;0;4;28;26;15
+44;Research & Development;1206;1;1;Research Scientist;3;2290;0;3;6;0;0
+33;Human Resources;1207;1;3;Human Resources;3;3600;0;3;5;5;4
+41;Research & Development;1210;1;2;Research Scientist;1;2107;0;3;5;1;0
+30;Sales;1211;1;3;Sales Executive;1;4115;0;3;8;4;3
+40;Sales;1212;1;3;Sales Executive;2;4327;0;3;5;0;0
+50;Research & Development;1215;0;3;Manager;1;17856;0;4;32;2;2
+28;Research & Development;1216;1;2;Laboratory Technician;1;3196;0;3;6;6;5
+46;Research & Development;1217;1;3;Research Director;2;19081;0;3;25;4;2
+35;Sales;1218;1;3;Sales Executive;1;8966;1;3;15;7;7
+24;Research & Development;1219;0;3;Laboratory Technician;2;2210;0;3;1;1;0
+33;Sales;1220;0;3;Sales Executive;3;4539;0;3;10;10;7
+36;Research & Development;1221;1;1;Laboratory Technician;3;2741;0;3;7;7;7
+30;Research & Development;1224;1;3;Laboratory Technician;3;3491;0;3;10;10;7
+44;Research & Development;1225;1;3;Research Scientist;4;4541;0;4;20;20;11
+20;Sales;1226;1;4;Sales Representative;4;2678;0;3;2;2;1
+46;Research & Development;1228;1;3;Manufacturing Director;4;7379;0;3;12;6;3
+42;Human Resources;1231;1;4;Human Resources;1;6272;0;3;10;4;3
+60;Sales;1233;1;4;Sales Executive;4;5220;1;3;12;11;7
+32;Research & Development;1234;0;2;Laboratory Technician;2;2743;0;4;2;2;2
+32;Research & Development;1235;0;3;Research Scientist;3;4998;1;3;10;8;7
+36;Research & Development;1237;0;1;Manufacturing Director;1;10252;1;4;17;7;7
+33;Research & Development;1238;1;3;Research Scientist;4;2781;0;3;15;14;10
+40;Sales;1239;0;2;Sales Executive;2;6852;0;3;7;5;1
+25;Sales;1240;1;3;Sales Executive;4;4950;0;3;5;4;3
+30;Research & Development;1241;1;3;Research Scientist;2;3579;1;4;12;11;9
+42;Research & Development;1242;0;3;Research Director;1;13191;1;3;20;1;0
+35;Sales;1243;0;2;Sales Executive;4;10377;1;3;16;13;2
+27;Research & Development;1244;1;3;Research Scientist;1;2235;1;3;9;9;7
+54;Research & Development;1245;0;3;Manufacturing Director;3;10502;0;3;33;5;4
+44;Research & Development;1246;0;4;Research Scientist;4;2011;0;3;10;10;5
+19;Research & Development;1248;0;2;Research Scientist;2;1859;1;4;1;1;1
+29;Research & Development;1249;0;3;Research Scientist;4;3760;0;3;3;3;2
+54;Research & Development;1250;1;3;Research Director;4;17779;0;3;36;10;9
+31;Research & Development;1251;1;3;Healthcare Representative;1;6833;1;3;6;6;5
+31;Research & Development;1252;0;2;Healthcare Representative;1;6812;0;3;10;10;9
+59;Sales;1254;0;2;Sales Executive;4;5171;0;3;13;6;1
+43;Research & Development;1255;1;1;Research Director;4;19740;0;3;25;8;7
+49;Research & Development;1256;1;2;Manager;3;18711;0;3;23;1;0
+36;Research & Development;1257;1;3;Research Scientist;2;3692;0;3;12;11;10
+48;Research & Development;1258;1;4;Laboratory Technician;2;2559;0;3;7;1;0
+27;Research & Development;1259;1;3;Research Scientist;3;2517;0;3;5;5;3
+29;Research & Development;1260;1;3;Healthcare Representative;4;6623;1;3;6;6;0
+48;Research & Development;1263;1;2;Research Director;4;18265;0;3;25;1;0
+29;Research & Development;1264;0;2;Research Director;4;16124;0;3;9;7;7
+34;Research & Development;1265;0;4;Research Scientist;3;2585;0;3;2;1;0
+44;Sales;1267;1;3;Manager;2;18213;0;3;26;22;9
+33;Sales;1268;1;4;Sales Executive;3;8380;1;3;10;9;8
+19;Research & Development;1269;0;4;Research Scientist;4;2994;1;3;1;1;0
+23;Research & Development;1270;1;3;Research Scientist;3;1223;0;4;1;1;0
+25;Sales;1273;1;1;Sales Representative;4;1118;1;3;1;1;0
+26;Research & Development;1275;1;3;Research Scientist;4;2875;1;4;8;8;5
+45;Sales;1277;0;1;Manager;2;18824;1;3;26;24;10
+55;Research & Development;1278;1;2;Healthcare Representative;2;13577;1;3;34;33;9
+21;Research & Development;1279;0;2;Laboratory Technician;3;2625;0;4;2;2;2
+46;Sales;1280;0;2;Manager;2;18789;0;3;26;11;4
+34;Sales;1281;0;3;Sales Executive;1;4538;1;3;4;3;2
+51;Sales;1282;1;3;Manager;2;19847;1;4;31;29;10
+59;Research & Development;1283;1;3;Manufacturing Director;4;10512;0;3;25;9;7
+34;Research & Development;1285;0;3;Laboratory Technician;2;4444;0;3;15;11;8
+28;Research & Development;1286;1;3;Laboratory Technician;3;2154;1;3;5;4;2
+44;Research & Development;1288;1;4;Manager;1;19190;0;3;26;25;9
+34;Human Resources;1289;1;2;Human Resources;2;4490;0;3;14;10;9
+35;Research & Development;1291;1;3;Research Scientist;3;3506;1;3;4;3;2
+42;Research & Development;1292;0;4;Research Scientist;2;2372;1;3;18;1;0
+43;Sales;1293;0;2;Sales Executive;4;10231;0;3;23;21;7
+36;Research & Development;1294;0;3;Manufacturing Director;2;5410;1;3;18;16;14
+44;Research & Development;1295;0;3;Healthcare Representative;4;7978;0;3;10;10;7
+28;Research & Development;1296;1;2;Laboratory Technician;4;3867;1;3;2;2;2
+51;Research & Development;1297;0;2;Laboratory Technician;3;2838;0;3;8;7;0
+30;Research & Development;1298;0;3;Manufacturing Director;3;4695;1;3;10;8;4
+29;Research & Development;1299;0;3;Laboratory Technician;3;3339;1;3;10;7;7
+28;Research & Development;1301;1;3;Research Scientist;1;2080;0;3;5;3;2
+25;Research & Development;1303;0;3;Research Scientist;2;2096;0;3;2;2;2
+32;Sales;1304;1;4;Sales Executive;4;6209;0;3;10;10;7
+45;Research & Development;1306;0;3;Manager;2;18061;0;4;22;0;0
+39;Research & Development;1307;0;2;Manager;2;17123;1;3;21;19;9
+58;Research & Development;1308;1;3;Research Scientist;3;2372;0;3;2;2;2
+32;Research & Development;1309;1;3;Laboratory Technician;3;4883;0;3;10;10;4
+39;Research & Development;1310;1;3;Research Scientist;1;3904;0;3;6;5;2
+30;Research & Development;1311;0;2;Laboratory Technician;4;4627;0;3;10;9;2
+36;Research & Development;1312;0;3;Healthcare Representative;3;7094;0;3;10;7;7
+46;Human Resources;1314;0;3;Human Resources;1;3423;0;3;10;7;6
+28;Research & Development;1315;0;1;Laboratory Technician;4;6674;0;3;10;9;8
+50;Research & Development;1317;0;3;Research Director;1;16880;1;3;25;3;2
+40;Sales;1318;1;2;Sales Executive;2;9094;1;3;9;5;4
+52;Sales;1319;1;3;Sales Executive;2;8446;1;3;10;8;7
+30;Research & Development;1321;0;3;Manager;1;11916;1;4;9;9;1
+39;Research & Development;1322;1;3;Manufacturing Director;3;4534;0;3;9;8;7
+31;Sales;1324;0;3;Sales Executive;3;9852;1;3;10;10;8
+41;Sales;1329;1;1;Sales Executive;2;6151;0;3;19;19;2
+31;Sales;1331;0;3;Sales Representative;2;2302;1;3;3;3;2
+44;Research & Development;1333;1;3;Laboratory Technician;1;2362;0;3;10;3;2
+42;Research & Development;1334;1;3;Manager;3;17861;1;3;21;20;8
+55;Research & Development;1336;0;1;Manager;3;19187;0;3;23;19;9
+56;Human Resources;1338;1;3;Manager;2;19717;0;3;36;7;3
+40;Research & Development;1340;1;3;Research Scientist;3;3544;0;3;6;4;2
+34;Research & Development;1344;1;3;Healthcare Representative;4;8500;0;3;10;9;7
+40;Research & Development;1346;1;3;Research Scientist;4;4661;0;3;9;9;8
+41;Sales;1349;0;3;Sales Executive;1;4103;0;3;10;9;3
+35;Research & Development;1350;1;3;Research Scientist;3;4249;1;3;9;9;6
+51;Human Resources;1352;1;3;Manager;2;14026;1;3;33;33;9
+38;Sales;1355;0;3;Sales Executive;1;6893;0;3;11;7;7
+34;Sales;1356;0;3;Sales Executive;1;6125;0;3;10;10;8
+25;Research & Development;1358;1;3;Laboratory Technician;4;3669;0;3;7;3;2
+58;Research & Development;1360;0;2;Manufacturing Director;1;10008;1;3;31;10;9
+40;Research & Development;1361;1;3;Laboratory Technician;2;2387;0;4;7;4;2
+36;Sales;1362;0;4;Sales Executive;1;4639;0;3;17;15;7
+48;Research & Development;1363;1;3;Manufacturing Director;4;7898;0;3;11;10;9
+27;Sales;1364;0;4;Sales Representative;4;2534;0;3;5;1;0
+51;Research & Development;1367;0;2;Manufacturing Director;2;13142;0;3;29;5;2
+18;Research & Development;1368;0;3;Laboratory Technician;4;1611;0;3;0;0;0
+35;Research & Development;1369;0;2;Laboratory Technician;4;5363;0;3;10;9;7
+27;Sales;1371;1;1;Sales Executive;4;5071;0;4;8;6;2
+55;Sales;1372;1;4;Sales Executive;3;13695;1;3;24;19;7
+56;Research & Development;1373;1;3;Manufacturing Director;2;13402;1;3;33;19;16
+34;Research & Development;1374;0;2;Research Scientist;3;2029;0;4;5;5;4
+40;Research & Development;1375;0;4;Healthcare Representative;3;6377;0;4;15;12;11
+34;Research & Development;1377;1;3;Laboratory Technician;3;5429;0;3;10;8;7
+31;Sales;1379;0;2;Sales Representative;4;2785;0;3;3;1;0
+35;Sales;1380;0;3;Sales Executive;3;4614;1;3;5;4;2
+38;Research & Development;1382;1;4;Research Scientist;3;2610;0;3;4;4;2
+34;Research & Development;1383;0;3;Healthcare Representative;4;6687;0;3;14;14;11
+28;Sales;1387;1;2;Sales Executive;1;4724;0;3;5;5;3
+31;Research & Development;1389;1;3;Manufacturing Director;3;6179;1;3;10;10;2
+39;Sales;1390;1;2;Sales Executive;4;6120;1;3;8;5;4
+51;Sales;1391;1;3;Sales Executive;2;10596;0;3;14;4;2
+41;Research & Development;1392;0;3;Research Scientist;4;5467;1;3;12;6;2
+37;Research & Development;1394;1;3;Research Scientist;3;2996;1;3;8;6;4
+33;Sales;1395;1;3;Sales Executive;4;9998;0;3;8;5;4
+32;Sales;1396;1;3;Sales Executive;2;4078;1;3;4;3;2
+39;Research & Development;1397;1;3;Healthcare Representative;3;10920;0;4;13;6;4
+25;Sales;1399;1;4;Sales Executive;3;6232;0;3;6;3;2
+52;Research & Development;1401;0;4;Manufacturing Director;3;13247;1;3;24;5;3
+43;Research & Development;1402;0;2;Research Scientist;3;4081;1;3;20;20;7
+27;Sales;1403;0;2;Sales Executive;4;5769;1;3;6;6;2
+27;Research & Development;1405;0;3;Research Scientist;3;2394;1;3;8;8;2
+26;Research & Development;1407;1;2;Research Scientist;4;3904;0;3;5;4;3
+42;Human Resources;1408;0;3;Manager;1;16799;0;3;21;20;7
+52;Research & Development;1409;0;3;Laboratory Technician;1;2950;0;3;12;5;4
+37;Research & Development;1411;0;3;Laboratory Technician;3;3629;0;3;8;3;2
+35;Research & Development;1412;1;3;Manufacturing Director;4;9362;0;3;10;2;2
+25;Research & Development;1415;1;3;Laboratory Technician;4;3229;0;3;7;3;2
+26;Research & Development;1417;1;4;Laboratory Technician;1;3578;0;3;8;7;7
+29;Human Resources;1419;1;2;Human Resources;1;7988;0;3;10;10;9
+49;Research & Development;1420;1;2;Laboratory Technician;1;4284;0;4;20;4;3
+29;Research & Development;1421;0;3;Healthcare Representative;4;7553;1;3;9;8;7
+54;Research & Development;1422;0;3;Research Director;4;17328;0;3;29;20;7
+58;Research & Development;1423;0;3;Research Director;1;19701;1;4;32;9;8
+55;Research & Development;1424;1;4;Research Director;4;14732;0;3;31;7;7
+36;Sales;1425;0;3;Sales Executive;2;9278;1;3;15;5;4
+31;Sales;1427;0;1;Sales Representative;3;1359;0;3;1;1;0
+30;Sales;1428;0;3;Sales Executive;1;4779;0;3;8;3;2
+31;Research & Development;1430;0;3;Research Director;2;16422;0;3;9;3;2
+34;Research & Development;1431;1;3;Research Scientist;1;2996;0;3;10;4;3
+31;Research & Development;1433;0;2;Research Scientist;2;1261;0;3;1;1;0
+27;Research & Development;1434;1;3;Laboratory Technician;1;2099;0;3;6;5;0
+36;Research & Development;1435;1;2;Laboratory Technician;4;5810;0;3;10;10;4
+36;Sales;1436;0;2;Sales Executive;1;5647;0;3;11;3;2
+47;Research & Development;1438;1;3;Research Scientist;4;3420;0;3;17;6;5
+25;Sales;1439;1;2;Sales Representative;1;4400;0;3;6;3;2
+37;Research & Development;1440;1;4;Laboratory Technician;3;3500;0;3;7;6;5
+56;Research & Development;1441;0;3;Research Scientist;1;2066;0;4;5;3;2
+47;Research & Development;1443;0;3;Research Director;3;17169;0;3;26;20;17
+24;Sales;1445;0;3;Sales Executive;3;4162;1;3;5;5;4
+32;Sales;1446;1;3;Sales Executive;4;9204;0;3;7;4;3
+34;Research & Development;1447;0;2;Laboratory Technician;2;3294;0;3;7;5;4
+41;Research & Development;1448;1;4;Research Scientist;3;2127;1;3;7;4;2
+40;Research & Development;1449;1;3;Laboratory Technician;3;3975;0;3;11;8;7
+31;Sales;1453;1;3;Sales Executive;4;10793;0;3;13;13;7
+46;Sales;1457;1;3;Sales Executive;4;10096;0;3;28;7;7
+39;Research & Development;1458;0;2;Laboratory Technician;1;3646;1;4;11;1;0
+31;Research & Development;1459;0;4;Manufacturing Director;2;7446;0;3;10;10;8
+45;Research & Development;1460;1;1;Healthcare Representative;1;10851;1;3;24;7;7
+31;Human Resources;1461;0;4;Human Resources;2;2109;0;3;8;3;2
+31;Research & Development;1464;1;3;Laboratory Technician;4;3722;1;3;7;2;2
+45;Research & Development;1465;1;3;Manufacturing Director;4;9380;1;3;10;3;1
+48;Sales;1466;1;3;Sales Executive;1;5486;0;3;15;2;2
+34;Human Resources;1467;0;3;Human Resources;3;2742;0;3;2;2;2
+40;Research & Development;1468;1;2;Research Director;2;13757;0;3;16;9;8
+28;Sales;1469;1;3;Sales Executive;1;8463;0;3;6;5;4
+44;Research & Development;1471;1;2;Laboratory Technician;3;3162;0;3;7;5;2
+53;Research & Development;1472;1;4;Research Director;2;16598;0;3;35;9;8
+49;Research & Development;1473;1;3;Healthcare Representative;3;6651;0;3;20;3;2
+40;Research & Development;1474;1;3;Research Scientist;3;2345;0;3;8;3;1
+44;Research & Development;1475;1;3;Research Scientist;2;3420;0;3;6;5;2
+33;Sales;1477;1;3;Sales Executive;1;4373;0;3;5;4;3
+34;Sales;1478;1;1;Sales Executive;1;4759;0;3;15;13;9
+30;Sales;1479;1;3;Sales Executive;3;5301;0;3;4;2;1
+42;Research & Development;1480;0;3;Laboratory Technician;4;3673;0;3;12;12;9
+44;Sales;1481;0;3;Sales Executive;3;4768;0;3;11;1;0
+30;Research & Development;1482;1;3;Research Scientist;3;1274;0;3;1;1;0
+57;Research & Development;1483;1;4;Research Scientist;3;4900;0;4;13;12;9
+49;Research & Development;1484;1;3;Healthcare Representative;2;10466;0;3;29;8;7
+34;Research & Development;1485;1;3;Research Director;1;17007;0;3;16;14;8
+28;Sales;1486;1;3;Sales Representative;3;2909;0;3;5;3;2
+29;Sales;1487;0;3;Sales Executive;2;5765;0;3;7;5;3
+34;Sales;1489;0;2;Sales Executive;2;4599;1;4;16;15;9
+35;Sales;1492;1;3;Sales Representative;3;2404;0;3;1;1;0
+24;Research & Development;1494;1;3;Laboratory Technician;1;3172;1;3;4;0;0
+24;Sales;1495;0;3;Sales Representative;2;2033;0;3;1;1;0
+44;Research & Development;1496;1;3;Manufacturing Director;3;10209;1;3;16;2;2
+29;Sales;1497;1;2;Sales Executive;3;8620;0;3;10;10;7
+30;Human Resources;1499;1;3;Human Resources;3;2064;0;4;6;5;3
+55;Research & Development;1501;1;3;Healthcare Representative;3;4035;1;3;4;3;2
+33;Research & Development;1502;0;2;Laboratory Technician;2;3838;0;3;8;5;4
+47;Sales;1503;0;3;Sales Executive;3;4591;1;3;11;5;4
+28;Research & Development;1504;1;2;Laboratory Technician;1;2561;0;3;8;0;0
+28;Research & Development;1506;1;2;Research Scientist;3;1563;0;3;1;1;0
+28;Sales;1507;1;3;Sales Executive;1;4898;0;3;5;4;2
+49;Research & Development;1509;0;2;Laboratory Technician;1;4789;0;4;10;3;2
+29;Research & Development;1513;0;3;Laboratory Technician;2;3180;0;3;4;3;2
+28;Research & Development;1514;1;1;Manufacturing Director;2;6549;0;3;8;8;6
+33;Research & Development;1515;1;3;Healthcare Representative;3;6388;1;3;14;0;0
+32;Research & Development;1516;1;3;Manager;4;11244;0;4;10;5;2
+54;Research & Development;1520;0;3;Manager;4;16032;0;4;26;14;9
+29;Research & Development;1522;1;2;Research Scientist;1;2362;0;3;11;9;7
+44;Research & Development;1523;1;3;Research Director;1;16328;0;3;24;20;6
+39;Research & Development;1525;0;3;Manufacturing Director;2;8376;0;3;9;2;0
+46;Sales;1527;0;3;Manager;2;16606;0;3;23;13;12
+35;Research & Development;1529;0;2;Healthcare Representative;2;8606;0;3;11;11;8
+23;Research & Development;1533;1;3;Laboratory Technician;3;2272;0;3;5;4;3
+40;Research & Development;1534;1;3;Laboratory Technician;1;2018;0;3;15;5;4
+34;Sales;1535;1;2;Sales Executive;3;7083;1;3;10;10;9
+31;Research & Development;1537;0;3;Research Scientist;3;4084;0;3;7;7;2
+50;Research & Development;1539;1;1;Research Director;4;14411;1;3;32;32;6
+34;Sales;1541;1;3;Sales Representative;3;2308;1;4;12;11;10
+42;Research & Development;1542;1;2;Laboratory Technician;2;4841;0;3;4;1;0
+37;Research & Development;1543;1;3;Research Scientist;4;4285;0;3;10;10;8
+29;Research & Development;1544;0;1;Healthcare Representative;1;9715;0;3;9;7;7
+33;Research & Development;1545;1;2;Manufacturing Director;2;4320;0;3;5;5;3
+45;Research & Development;1546;1;3;Research Scientist;4;2132;0;4;8;5;4
+42;Research & Development;1547;1;3;Healthcare Representative;4;10124;1;3;24;20;8
+40;Sales;1548;1;3;Sales Executive;1;5473;0;3;9;8;4
+33;Research & Development;1549;1;3;Laboratory Technician;3;5207;1;3;15;15;14
+40;Human Resources;1550;1;3;Manager;4;16437;1;4;21;21;7
+24;Research & Development;1551;1;2;Laboratory Technician;1;2296;0;3;2;1;1
+40;Research & Development;1552;1;3;Healthcare Representative;4;4069;1;3;8;2;2
+45;Research & Development;1553;1;3;Healthcare Representative;2;7441;0;3;10;10;8
+35;Sales;1554;0;2;Sales Representative;3;2430;0;4;6;5;3
+32;Research & Development;1555;0;2;Research Scientist;2;5878;0;3;12;7;1
+36;Sales;1556;1;3;Sales Representative;4;2644;1;4;7;3;2
+48;Sales;1557;0;3;Sales Executive;3;6439;0;3;18;8;7
+29;Research & Development;1558;1;4;Research Scientist;3;2451;0;3;5;1;0
+33;Sales;1560;1;3;Sales Executive;1;6392;0;3;8;2;2
+30;Sales;1562;1;2;Sales Executive;1;9714;0;3;10;10;8
+38;Human Resources;1563;1;3;Human Resources;3;6077;0;3;10;6;3
+35;Research & Development;1564;1;2;Laboratory Technician;1;2450;0;3;3;3;0
+30;Sales;1568;1;3;Sales Executive;2;9250;0;3;9;4;2
+35;Research & Development;1569;0;3;Laboratory Technician;1;2074;1;3;1;1;0
+53;Research & Development;1572;0;2;Manufacturing Director;4;10169;0;3;34;33;7
+38;Research & Development;1573;1;3;Manufacturing Director;2;4855;0;3;7;5;2
+32;Research & Development;1574;1;3;Research Scientist;1;4087;0;3;9;6;5
+48;Research & Development;1576;0;3;Research Scientist;1;2367;0;3;10;8;2
+34;Research & Development;1577;1;3;Research Scientist;4;2972;0;3;1;1;0
+55;Sales;1578;1;2;Manager;4;19586;0;4;36;36;6
+34;Research & Development;1580;1;3;Research Scientist;4;5484;0;3;9;2;2
+26;Research & Development;1581;0;3;Research Scientist;4;2061;0;4;1;1;0
+38;Sales;1582;1;3;Sales Executive;2;9924;0;3;10;9;8
+38;Sales;1583;0;3;Sales Executive;2;4198;0;3;8;3;2
+36;Sales;1585;0;3;Sales Executive;3;6815;0;3;15;1;0
+29;Research & Development;1586;1;3;Laboratory Technician;1;4723;1;3;10;10;9
+35;Research & Development;1587;0;3;Healthcare Representative;3;6142;1;3;10;5;2
+39;Sales;1588;1;4;Sales Executive;3;8237;0;3;11;7;6
+29;Research & Development;1590;1;3;Healthcare Representative;4;8853;0;3;6;6;4
+50;Sales;1591;1;3;Manager;3;19331;1;3;27;1;0
+23;Research & Development;1592;1;4;Research Scientist;3;2073;0;3;4;2;2
+36;Research & Development;1594;1;4;Laboratory Technician;1;5562;1;3;9;3;2
+42;Research & Development;1595;1;2;Manager;4;19613;0;4;24;1;0
+35;Research & Development;1596;1;4;Laboratory Technician;3;3407;0;3;10;10;9
+34;Research & Development;1597;1;2;Healthcare Representative;3;5063;0;3;8;8;2
+40;Sales;1598;0;3;Sales Executive;1;4639;0;3;5;5;4
+43;Research & Development;1599;1;4;Laboratory Technician;2;4876;0;3;8;6;4
+35;Research & Development;1601;1;2;Laboratory Technician;4;2690;0;3;1;1;0
+46;Sales;1602;1;4;Manager;1;17567;0;3;27;26;0
+28;Research & Development;1604;1;3;Laboratory Technician;2;2408;1;3;1;1;1
+22;Research & Development;1605;0;2;Research Scientist;3;2814;1;3;4;4;2
+50;Research & Development;1606;1;3;Healthcare Representative;3;11245;1;3;32;30;8
+32;Research & Development;1607;0;4;Research Scientist;4;3312;0;3;6;3;2
+44;Research & Development;1608;0;3;Research Director;4;19049;1;3;23;22;7
+30;Research & Development;1609;1;2;Research Scientist;2;2141;0;3;6;6;4
+45;Research & Development;1611;0;1;Laboratory Technician;1;5769;1;3;10;10;7
+45;Sales;1612;1;2;Sales Executive;1;4385;0;3;10;10;7
+31;Sales;1613;1;3;Sales Executive;1;5332;0;3;10;5;2
+36;Research & Development;1614;0;3;Manufacturing Director;3;4663;1;3;7;3;2
+34;Research & Development;1615;1;4;Manufacturing Director;4;4724;0;3;9;9;7
+49;Research & Development;1617;0;3;Laboratory Technician;1;3211;0;3;10;9;6
+39;Research & Development;1618;1;3;Manufacturing Director;1;5377;0;3;10;7;7
+27;Research & Development;1619;1;2;Laboratory Technician;1;4066;0;3;7;7;7
+35;Research & Development;1621;1;4;Research Scientist;1;5208;0;3;16;16;15
+28;Research & Development;1622;0;1;Manufacturing Director;1;4877;0;4;6;5;3
+21;Research & Development;1623;1;3;Research Scientist;4;3117;0;3;3;2;2
+18;Sales;1624;0;3;Sales Representative;4;1569;1;3;0;0;0
+47;Human Resources;1625;0;3;Manager;3;19658;0;3;27;5;2
+39;Research & Development;1627;1;2;Laboratory Technician;3;3069;0;3;11;10;8
+40;Research & Development;1628;0;2;Manufacturing Director;3;10435;0;3;18;18;15
+35;Research & Development;1630;0;3;Healthcare Representative;3;4148;0;3;15;14;11
+37;Research & Development;1631;1;3;Manufacturing Director;3;5768;0;3;9;4;3
+39;Research & Development;1633;0;3;Manufacturing Director;3;5042;0;3;10;9;2
+45;Research & Development;1635;0;2;Manufacturing Director;4;5770;0;3;10;10;7
+38;Research & Development;1638;0;2;Manufacturing Director;3;7756;1;3;10;5;4
+35;Sales;1639;1;2;Sales Executive;1;10306;0;3;15;13;12
+37;Research & Development;1640;0;3;Research Scientist;2;3936;0;3;8;8;4
+40;Research & Development;1641;0;3;Manufacturing Director;4;7945;1;3;18;4;2
+44;Human Resources;1642;1;3;Human Resources;4;5743;1;3;14;10;7
+48;Research & Development;1644;1;2;Manager;4;15202;0;4;23;2;2
+35;Sales;1645;1;1;Sales Executive;4;5440;1;3;7;2;2
+24;Research & Development;1646;0;3;Research Scientist;4;3760;1;3;6;6;3
+27;Research & Development;1647;0;4;Research Scientist;3;3517;0;3;5;3;2
+27;Research & Development;1648;1;3;Research Scientist;4;2580;0;3;6;4;2
+40;Research & Development;1649;1;3;Laboratory Technician;1;2166;1;3;10;4;2
+29;Sales;1650;1;2;Sales Executive;3;5869;0;3;8;5;2
+36;Research & Development;1651;0;3;Healthcare Representative;1;8008;0;3;9;3;2
+25;Research & Development;1653;1;4;Manufacturing Director;3;5206;0;3;7;7;7
+39;Research & Development;1654;1;3;Manufacturing Director;2;5295;0;4;7;5;4
+49;Research & Development;1655;0;3;Research Director;2;16413;0;3;27;4;2
+50;Research & Development;1656;0;2;Research Director;1;13269;0;3;19;14;11
+20;Sales;1657;0;3;Sales Representative;3;2783;0;3;2;2;2
+34;Research & Development;1658;0;3;Research Scientist;2;5433;0;3;11;11;8
+36;Research & Development;1659;1;3;Laboratory Technician;2;2013;0;3;15;4;3
+49;Research & Development;1661;0;2;Healthcare Representative;3;13966;1;3;30;15;11
+36;Research & Development;1662;0;2;Manufacturing Director;3;4374;0;3;4;3;2
+36;Research & Development;1664;1;4;Healthcare Representative;1;6842;0;4;13;5;4
+54;Research & Development;1665;0;3;Manager;3;17426;0;4;36;10;8
+43;Research & Development;1666;1;2;Research Director;3;17603;0;4;14;14;10
+35;Sales;1667;1;3;Sales Executive;4;4581;1;4;13;11;9
+38;Research & Development;1668;1;3;Research Scientist;4;4735;0;3;19;13;11
+29;Sales;1669;1;2;Sales Executive;2;4187;1;3;10;10;0
+33;Sales;1670;1;3;Sales Executive;4;5505;0;3;6;6;2
+32;Research & Development;1671;1;3;Research Scientist;2;5470;0;3;10;9;5
+31;Sales;1673;0;3;Sales Executive;4;5476;0;3;10;10;0
+49;Research & Development;1674;0;3;Laboratory Technician;1;2587;1;3;17;2;2
+38;Research & Development;1675;0;2;Laboratory Technician;2;2440;0;4;4;4;3
+47;Sales;1676;0;4;Manager;2;15972;0;3;29;3;2
+49;Research & Development;1677;1;3;Manager;3;15379;0;3;23;8;7
+41;Sales;1678;1;3;Sales Executive;3;7082;1;3;21;2;0
+20;Sales;1680;1;3;Sales Representative;1;2728;0;3;2;2;2
+33;Sales;1681;0;3;Sales Executive;4;5368;1;4;7;6;5
+36;Research & Development;1682;1;3;Healthcare Representative;3;5347;0;3;10;3;2
+44;Human Resources;1683;0;3;Human Resources;4;3195;1;3;8;2;2
+23;Research & Development;1684;1;2;Laboratory Technician;3;3989;1;3;5;5;4
+38;Research & Development;1687;0;3;Laboratory Technician;3;3306;0;3;7;0;0
+53;Research & Development;1689;1;4;Healthcare Representative;4;7005;0;3;11;4;3
+48;Sales;1691;0;3;Sales Representative;3;2655;1;3;19;9;7
+32;Research & Development;1692;1;3;Laboratory Technician;2;1393;0;3;1;1;0
+26;Research & Development;1693;1;3;Laboratory Technician;4;2570;0;4;7;7;7
+55;Research & Development;1694;1;2;Research Scientist;2;3537;0;3;8;4;2
+34;Research & Development;1696;1;2;Laboratory Technician;4;3986;0;3;15;15;10
+60;Research & Development;1697;1;1;Healthcare Representative;4;10883;0;4;19;1;0
+33;Research & Development;1698;1;4;Laboratory Technician;2;2028;0;3;14;14;11
+37;Sales;1700;1;1;Sales Executive;4;9525;0;3;6;6;3
+34;Research & Development;1701;0;2;Research Scientist;4;2929;0;3;10;10;9
+23;Sales;1702;1;3;Sales Representative;4;2275;1;4;3;3;2
+44;Research & Development;1703;0;4;Healthcare Representative;4;7879;1;3;9;8;7
+35;Research & Development;1704;1;2;Research Scientist;4;4930;1;3;6;5;4
+43;Sales;1706;1;3;Sales Executive;4;7847;1;3;10;10;9
+24;Research & Development;1707;1;4;Research Scientist;3;4401;0;3;5;5;3
+41;Sales;1708;1;3;Sales Executive;3;9241;0;3;10;10;8
+29;Research & Development;1709;0;3;Laboratory Technician;3;2974;0;3;9;5;3
+36;Sales;1710;0;3;Sales Representative;4;4502;0;3;17;13;7
+45;Research & Development;1712;1;2;Healthcare Representative;3;10748;0;4;25;23;15
+24;Human Resources;1714;1;1;Human Resources;3;1555;0;3;1;1;0
+47;Sales;1716;1;1;Sales Executive;3;12936;0;3;25;23;5
+26;Research & Development;1718;1;1;Laboratory Technician;3;2305;0;3;3;3;2
+45;Research & Development;1719;0;2;Research Director;2;16704;0;3;21;21;6
+32;Research & Development;1720;1;3;Research Scientist;3;3433;0;3;10;5;2
+31;Research & Development;1721;1;3;Laboratory Technician;3;3477;0;3;6;5;2
+41;Human Resources;1722;1;1;Human Resources;2;6430;0;3;10;3;2
+40;Research & Development;1724;0;3;Manufacturing Director;1;6516;1;3;18;1;0
+24;Research & Development;1725;1;3;Laboratory Technician;1;3907;0;3;6;6;2
+46;Research & Development;1727;1;3;Healthcare Representative;2;5562;0;3;19;10;7
+35;Research & Development;1728;1;3;Manufacturing Director;3;6883;0;3;17;7;7
+30;Research & Development;1729;1;3;Research Scientist;4;2862;0;3;10;10;0
+47;Sales;1731;1;3;Sales Executive;2;4978;0;3;4;1;0
+46;Sales;1732;1;3;Sales Executive;4;10368;1;3;13;10;6
+36;Sales;1733;1;2;Sales Executive;1;6134;1;3;16;2;2
+32;Sales;1734;1;1;Sales Executive;2;6735;0;3;10;0;0
+23;Research & Development;1735;0;3;Laboratory Technician;2;3295;0;3;3;3;2
+31;Research & Development;1736;0;3;Manufacturing Director;4;5238;0;4;9;5;4
+39;Research & Development;1737;1;3;Laboratory Technician;4;6472;1;3;9;9;8
+32;Sales;1739;1;1;Sales Executive;3;9610;0;3;10;4;3
+40;Sales;1740;1;3;Manager;2;19833;0;3;21;21;8
+45;Human Resources;1744;0;1;Human Resources;3;9756;0;4;9;5;0
+30;Research & Development;1745;0;2;Research Scientist;1;4968;0;3;10;9;7
+24;Human Resources;1746;1;3;Human Resources;4;2145;0;3;3;2;2
+30;Human Resources;1747;0;2;Human Resources;4;2180;0;3;6;4;2
+31;Sales;1749;1;3;Sales Executive;3;8346;0;3;6;5;2
+27;Research & Development;1751;0;3;Research Scientist;4;3445;0;3;6;6;2
+29;Sales;1752;0;1;Sales Representative;2;2760;0;3;2;2;2
+29;Research & Development;1753;1;4;Healthcare Representative;3;6294;1;3;10;3;2
+30;Sales;1754;1;2;Sales Executive;1;7140;0;3;12;7;7
+34;Research & Development;1755;1;4;Research Scientist;4;2932;1;3;6;5;0
+33;Sales;1756;0;3;Sales Executive;2;5147;0;3;13;11;7
+49;Sales;1757;0;3;Sales Executive;4;4507;0;3;8;5;1
+33;Sales;1758;0;3;Sales Executive;1;8564;1;4;11;0;0
+38;Research & Development;1760;0;2;Laboratory Technician;2;2468;0;3;9;6;1
+31;Sales;1761;1;3;Sales Executive;3;8161;0;3;10;1;0
+29;Research & Development;1762;0;2;Research Scientist;1;2109;0;3;1;1;0
+30;Research & Development;1763;1;4;Healthcare Representative;3;5294;0;3;10;7;0
+32;Research & Development;1764;1;3;Research Scientist;2;2718;0;3;12;7;7
+38;Research & Development;1766;1;1;Healthcare Representative;4;5811;1;3;15;1;0
+43;Research & Development;1767;1;2;Research Scientist;3;2437;1;3;6;1;0
+42;Research & Development;1768;1;3;Laboratory Technician;2;2766;0;4;7;5;3
+55;Research & Development;1770;1;2;Research Director;1;19038;0;3;34;1;0
+33;Research & Development;1771;1;3;Research Scientist;2;3055;0;3;11;9;8
+41;Research & Development;1772;1;3;Laboratory Technician;1;2289;0;4;5;5;3
+34;Sales;1774;1;3;Sales Executive;3;4001;1;3;15;15;14
+53;Research & Development;1775;0;2;Manufacturing Director;3;12965;1;4;27;3;2
+43;Human Resources;1778;1;3;Human Resources;4;3539;0;3;10;9;7
+34;Sales;1779;0;1;Sales Executive;4;6029;0;3;6;2;2
+21;Sales;1780;1;3;Sales Representative;2;2679;0;3;1;1;0
+38;Research & Development;1782;0;2;Laboratory Technician;3;3702;0;3;5;5;4
+22;Research & Development;1783;0;3;Laboratory Technician;1;2398;1;3;1;1;0
+31;Sales;1784;0;2;Sales Executive;4;5468;0;3;13;12;7
+51;Research & Development;1786;0;3;Manager;3;13116;0;3;15;2;2
+37;Sales;1787;1;2;Sales Executive;2;4189;0;3;5;5;2
+46;Research & Development;1789;1;3;Research Director;4;19328;1;3;24;2;1
+36;Research & Development;1790;1;3;Healthcare Representative;1;8321;1;3;15;12;8
+44;Research & Development;1792;1;3;Research Scientist;2;2342;1;3;6;5;3
+37;Human Resources;1794;1;3;Human Resources;2;4071;0;3;19;10;0
+35;Sales;1797;1;3;Sales Executive;4;5813;1;3;10;10;7
+33;Research & Development;1798;1;4;Research Scientist;1;3143;0;3;14;10;8
+28;Research & Development;1799;1;3;Research Scientist;4;2044;0;3;5;5;3
+39;Research & Development;1800;1;3;Research Director;3;13464;0;4;9;4;3
+46;Sales;1801;1;2;Sales Executive;2;7991;0;3;6;2;2
+40;Research & Development;1802;0;3;Laboratory Technician;1;3377;0;3;7;4;3
+42;Research & Development;1803;1;4;Healthcare Representative;1;5538;0;3;10;0;0
+35;Research & Development;1804;1;3;Manufacturing Director;4;5762;0;3;15;7;7
+38;Human Resources;1805;1;3;Human Resources;2;2592;0;3;13;11;10
+34;Research & Development;1807;1;3;Laboratory Technician;1;5346;0;3;11;7;1
+37;Research & Development;1809;1;3;Manufacturing Director;1;4213;0;3;10;10;3
+39;Sales;1812;1;3;Sales Executive;4;4127;0;3;7;2;1
+43;Research & Development;1813;1;3;Research Scientist;3;2438;0;3;7;3;2
+41;Research & Development;1814;1;4;Healthcare Representative;2;6870;0;3;11;3;2
+41;Sales;1815;0;3;Sales Executive;3;10447;1;3;23;22;14
+30;Research & Development;1816;0;3;Manufacturing Director;3;9667;0;3;9;7;7
+26;Human Resources;1818;0;3;Human Resources;2;2148;1;3;6;5;1
+46;Research & Development;1821;0;3;Healthcare Representative;2;8926;0;4;13;9;7
+40;Research & Development;1822;0;3;Healthcare Representative;4;6513;0;3;12;5;3
+34;Sales;1823;1;4;Sales Executive;3;6799;0;4;10;10;8
+58;Sales;1824;1;3;Manager;2;16291;0;4;37;16;9
+35;Research & Development;1826;1;1;Laboratory Technician;3;2705;0;3;6;5;4
+47;Research & Development;1827;0;2;Manufacturing Director;2;10333;1;3;28;22;11
+40;Research & Development;1829;0;3;Healthcare Representative;1;4448;0;3;15;7;4
+54;Research & Development;1830;0;3;Research Scientist;4;6854;0;3;14;7;1
+31;Sales;1833;0;3;Sales Executive;1;9637;0;3;9;3;2
+28;Research & Development;1834;0;3;Research Scientist;1;3591;0;4;3;3;2
+38;Sales;1835;0;1;Sales Representative;4;5405;1;4;20;4;2
+26;Sales;1836;1;3;Sales Executive;4;4684;0;3;5;5;3
+58;Research & Development;1837;1;3;Research Director;3;15787;1;3;23;2;2
+18;Research & Development;1839;0;3;Research Scientist;3;1514;0;3;0;0;0
+31;Human Resources;1842;1;4;Human Resources;1;2956;0;3;2;1;0
+29;Human Resources;1844;1;2;Human Resources;1;2335;1;3;4;2;2
+45;Sales;1845;0;3;Sales Executive;3;5154;0;4;10;8;7
+36;Research & Development;1847;0;3;Research Scientist;2;6962;1;4;15;1;0
+43;Sales;1849;1;3;Sales Executive;4;5675;0;4;7;7;7
+27;Research & Development;1850;0;3;Laboratory Technician;4;2379;1;3;6;5;4
+29;Research & Development;1852;1;3;Laboratory Technician;4;3812;0;3;11;11;8
+32;Sales;1853;1;3;Sales Executive;4;4648;0;3;4;0;0
+42;Research & Development;1854;1;3;Research Scientist;3;2936;0;4;10;6;3
+47;Research & Development;1856;0;3;Laboratory Technician;3;2105;0;3;7;2;2
+46;Research & Development;1857;1;3;Manufacturing Director;4;8578;0;3;12;9;8
+28;Human Resources;1858;1;3;Human Resources;4;2706;0;3;3;3;2
+29;Research & Development;1859;1;1;Healthcare Representative;3;6384;0;3;11;7;0
+42;Research & Development;1860;1;3;Laboratory Technician;3;3968;0;3;8;0;0
+32;Sales;1862;1;2;Sales Executive;2;9907;1;3;7;2;2
+46;Sales;1863;0;4;Sales Executive;1;13225;0;3;25;19;17
+27;Sales;1864;0;2;Sales Representative;3;3540;0;4;9;9;8
+29;Human Resources;1865;1;2;Human Resources;2;2804;0;3;1;1;0
+43;Research & Development;1866;0;2;Manager;3;19392;0;3;21;16;12
+48;Research & Development;1867;1;2;Research Director;2;19665;0;3;29;22;10
+29;Research & Development;1868;1;2;Research Scientist;4;2439;1;4;1;1;0
+46;Sales;1869;0;3;Sales Executive;2;7314;0;4;14;8;7
+27;Research & Development;1870;0;2;Research Scientist;1;4774;0;3;8;7;6
+39;Research & Development;1871;1;3;Research Scientist;4;3902;0;3;7;2;2
+55;Research & Development;1873;1;2;Research Scientist;4;2662;0;4;19;5;2
+28;Sales;1875;0;3;Sales Representative;2;2856;0;3;1;1;0
+30;Sales;1876;1;3;Sales Representative;4;1081;0;3;1;1;0
+22;Research & Development;1878;1;3;Research Scientist;2;2472;1;4;1;1;0
+36;Sales;1880;0;2;Sales Executive;3;5673;1;3;10;10;9
+31;Research & Development;1881;1;3;Laboratory Technician;3;4197;0;3;10;10;8
+34;Sales;1882;1;3;Sales Executive;4;9713;1;3;9;5;3
+29;Research & Development;1883;1;3;Laboratory Technician;1;2062;0;3;11;3;2
+37;Research & Development;1885;1;3;Research Scientist;1;4284;1;4;16;5;3
+35;Research & Development;1886;0;2;Manufacturing Director;2;4788;1;3;4;3;2
+45;Research & Development;1888;0;2;Manufacturing Director;4;5906;0;3;10;9;8
+36;Human Resources;1890;1;2;Human Resources;4;3886;0;4;10;10;1
+40;Research & Development;1892;1;3;Manager;1;16823;0;3;22;19;7
+26;Research & Development;1893;0;2;Research Scientist;3;2933;1;3;1;1;0
+27;Sales;1898;0;4;Sales Executive;3;6500;0;3;9;8;7
+48;Research & Development;1900;0;3;Manager;4;17174;0;3;24;22;17
+44;Research & Development;1903;1;4;Healthcare Representative;1;5033;0;3;10;2;0
+34;Research & Development;1905;1;1;Research Scientist;1;2307;1;4;5;5;2
+56;Research & Development;1907;1;3;Laboratory Technician;4;2587;0;3;5;4;2
+36;Sales;1908;1;2;Sales Executive;2;5507;0;3;12;4;2
+41;Sales;1909;0;3;Sales Executive;2;4393;0;4;14;5;4
+42;Research & Development;1911;1;3;Research Director;1;13348;0;3;18;13;7
+31;Sales;1912;0;3;Sales Executive;4;6583;1;3;8;5;2
+34;Sales;1915;0;2;Sales Executive;4;8103;1;3;9;4;2
+31;Research & Development;1916;0;4;Laboratory Technician;3;3978;0;3;4;2;2
+26;Research & Development;1918;1;4;Laboratory Technician;4;2544;0;3;8;7;7
+45;Research & Development;1922;1;3;Healthcare Representative;3;5399;0;3;12;4;2
+33;Sales;1924;1;3;Sales Executive;3;5487;0;3;10;10;4
+28;Sales;1927;1;2;Sales Executive;4;6834;1;3;7;7;7
+29;Sales;1928;1;4;Sales Representative;1;1091;0;3;1;1;0
+39;Sales;1929;0;1;Sales Executive;3;5736;0;3;10;3;2
+27;Research & Development;1931;1;3;Research Scientist;2;2226;0;3;6;5;3
+34;Research & Development;1932;1;2;Research Scientist;4;5747;1;3;16;15;10
+28;Sales;1933;0;3;Sales Executive;3;9854;1;3;6;2;0
+47;Research & Development;1934;1;3;Research Scientist;2;5467;0;3;16;8;7
+56;Sales;1935;0;2;Sales Executive;1;5380;0;3;6;0;0
+39;Research & Development;1936;1;3;Manufacturing Director;1;5151;0;4;10;10;0
+38;Research & Development;1937;0;2;Research Scientist;2;2133;1;3;20;20;11
+58;Sales;1938;0;3;Manager;4;17875;1;3;29;1;0
+32;Research & Development;1939;0;4;Research Scientist;3;2432;1;3;8;4;1
+38;Research & Development;1940;1;3;Research Scientist;4;4771;0;3;10;5;2
+49;Research & Development;1941;1;3;Research Director;4;19161;0;3;28;5;4
+42;Sales;1943;1;3;Sales Executive;4;5087;1;3;14;0;0
+27;Human Resources;1944;0;2;Human Resources;2;2863;0;3;1;1;0
+35;Sales;1945;1;3;Sales Executive;1;5561;0;3;6;5;3
+28;Research & Development;1947;1;3;Research Scientist;3;2144;0;3;5;5;3
+31;Research & Development;1948;1;3;Research Scientist;1;3065;1;3;4;4;2
+36;Research & Development;1949;1;4;Laboratory Technician;2;2810;0;4;5;5;4
+34;Sales;1950;1;3;Sales Executive;4;9888;0;4;14;14;8
+34;Sales;1951;1;3;Sales Executive;3;8628;0;3;9;8;7
+26;Research & Development;1952;1;3;Laboratory Technician;1;2867;0;3;8;7;7
+29;Research & Development;1954;1;3;Healthcare Representative;1;5373;0;3;6;5;3
+32;Research & Development;1955;0;3;Healthcare Representative;4;6667;0;3;9;5;1
+31;Research & Development;1956;1;1;Research Scientist;1;5003;0;4;10;10;8
+28;Research & Development;1960;1;2;Laboratory Technician;4;2367;0;3;6;4;1
+38;Sales;1961;1;2;Sales Representative;1;2858;0;3;20;1;0
+35;Sales;1962;0;3;Sales Executive;4;5204;1;3;10;10;8
+27;Sales;1965;1;3;Sales Executive;4;4105;0;3;7;7;7
+32;Research & Development;1966;1;2;Manufacturing Director;4;9679;0;4;8;1;0
+31;Sales;1967;1;3;Sales Executive;4;5617;1;3;10;10;7
+53;Sales;1968;1;3;Sales Executive;1;10448;1;3;15;2;2
+54;Research & Development;1969;0;3;Research Scientist;3;2897;0;3;9;4;3
+33;Research & Development;1970;1;3;Healthcare Representative;3;5968;0;4;9;9;7
+43;Research & Development;1971;1;3;Healthcare Representative;3;7510;0;3;10;10;9
+38;Human Resources;1972;1;3;Human Resources;2;2991;1;3;7;6;2
+55;Human Resources;1973;1;4;Manager;2;19636;1;3;35;10;9
+31;Research & Development;1974;0;1;Laboratory Technician;4;1129;1;3;1;1;0
+39;Sales;1975;1;3;Sales Executive;1;13341;0;3;21;20;8
+42;Research & Development;1976;1;2;Research Scientist;3;4332;0;3;20;20;9
+31;Research & Development;1979;0;3;Research Director;3;11031;0;4;13;11;7
+54;Research & Development;1980;0;3;Manufacturing Director;1;4440;1;3;9;5;2
+24;Research & Development;1981;1;2;Healthcare Representative;3;4617;0;3;4;4;3
+23;Research & Development;1982;1;3;Laboratory Technician;4;2647;0;3;5;5;2
+40;Research & Development;1985;0;3;Laboratory Technician;3;6323;0;3;10;10;9
+40;Sales;1986;0;3;Sales Executive;2;5677;0;3;15;11;8
+25;Human Resources;1987;0;3;Human Resources;2;2187;0;3;6;2;0
+30;Research & Development;1989;1;3;Laboratory Technician;2;3748;0;3;12;12;8
+25;Research & Development;1992;1;3;Laboratory Technician;3;3977;1;3;7;2;2
+47;Research & Development;1993;1;3;Healthcare Representative;3;8633;0;4;25;17;14
+33;Research & Development;1994;1;2;Laboratory Technician;3;2008;0;3;1;1;1
+38;Sales;1995;1;3;Sales Executive;2;4440;0;3;16;15;13
+31;Sales;1996;1;3;Sales Representative;3;3067;0;3;3;2;2
+38;Research & Development;1997;1;2;Manufacturing Director;3;5321;0;3;10;8;3
+42;Research & Development;1998;1;3;Research Scientist;1;5410;1;3;9;4;3
+41;Research & Development;1999;1;3;Research Scientist;4;2782;0;4;12;5;3
+47;Research & Development;2000;0;3;Research Director;2;11957;0;3;14;13;8
+35;Research & Development;2003;1;3;Laboratory Technician;3;2660;1;3;5;2;2
+22;Research & Development;2007;1;3;Research Scientist;3;3375;0;3;4;3;2
+35;Research & Development;2008;1;3;Research Scientist;3;5098;0;3;10;10;7
+33;Research & Development;2009;0;3;Healthcare Representative;4;4878;1;3;10;9;7
+32;Research & Development;2010;0;2;Laboratory Technician;2;2837;0;3;6;6;2
+40;Research & Development;2012;1;3;Laboratory Technician;4;2406;0;3;8;1;0
+32;Sales;2013;1;2;Sales Representative;2;2269;0;3;3;2;2
+39;Research & Development;2014;1;3;Research Scientist;4;4108;0;3;18;7;7
+38;Research & Development;2015;0;1;Research Director;3;13206;0;3;20;18;16
+32;Sales;2016;0;3;Sales Executive;4;10422;0;3;14;14;10
+37;Research & Development;2017;0;4;Research Director;4;13744;1;4;16;16;11
+25;Sales;2018;0;3;Sales Executive;3;4907;1;4;6;5;3
+52;Sales;2019;1;3;Sales Representative;4;3482;0;3;16;9;8
+44;Research & Development;2020;1;3;Research Scientist;4;2436;1;3;6;4;3
+21;Sales;2021;1;3;Sales Representative;1;2380;1;3;2;2;2
+39;Research & Development;2022;1;3;Manager;4;19431;0;3;21;6;0
+23;Sales;2023;1;3;Sales Representative;1;1790;0;3;1;1;0
+36;Sales;2024;0;2;Sales Executive;4;7644;0;3;10;9;7
+36;Research & Development;2025;0;3;Manufacturing Director;2;5131;0;3;18;4;2
+56;Research & Development;2026;1;3;Healthcare Representative;3;6306;0;4;13;13;12
+29;Research & Development;2027;1;3;Research Scientist;4;4787;1;3;4;2;2
+42;Research & Development;2031;1;3;Manager;3;18880;0;3;24;22;6
+56;Research & Development;2032;1;3;Laboratory Technician;3;2339;0;3;14;10;9
+41;Research & Development;2034;0;2;Manufacturing Director;2;13570;0;4;21;20;7
+34;Sales;2035;0;2;Sales Executive;3;6712;0;4;8;8;7
+36;Sales;2036;1;1;Sales Executive;4;5406;0;4;15;15;12
+41;Sales;2037;1;2;Sales Executive;2;8938;0;3;14;5;4
+32;Research & Development;2038;1;3;Research Scientist;1;2439;0;3;4;4;2
+35;Human Resources;2040;0;3;Human Resources;4;8837;1;3;9;9;0
+38;Sales;2041;0;3;Sales Executive;4;5343;0;3;10;10;7
+50;Sales;2044;1;3;Sales Executive;3;6728;0;3;12;6;3
+36;Sales;2045;0;2;Sales Executive;4;6652;0;3;8;6;3
+45;Sales;2046;0;3;Sales Executive;3;4850;0;3;8;5;3
+40;Research & Development;2048;1;2;Research Scientist;3;2809;0;3;8;2;2
+35;Research & Development;2049;1;3;Healthcare Representative;3;5689;1;3;10;10;2
+40;Research & Development;2051;0;3;Research Scientist;3;2001;0;3;20;5;3
+35;Research & Development;2052;0;1;Research Scientist;4;2977;0;3;4;4;3
+29;Research & Development;2053;1;2;Laboratory Technician;2;4025;1;3;10;4;3
+29;Research & Development;2054;0;2;Research Scientist;1;3785;0;3;5;5;4
+50;Sales;2055;1;2;Sales Executive;1;10854;1;3;20;3;2
+39;Sales;2056;0;2;Sales Executive;4;12031;0;3;21;20;9
+31;Research & Development;2057;1;3;Manufacturing Director;1;9936;0;3;10;9;4
+26;Sales;2060;0;2;Sales Representative;3;2966;0;3;5;4;2
+36;Research & Development;2061;1;4;Laboratory Technician;4;2571;0;3;17;5;2
+39;Research & Development;2062;1;2;Healthcare Representative;1;9991;0;3;9;7;7
+27;Research & Development;2064;1;4;Manufacturing Director;2;6142;1;4;6;6;2
+49;Sales;2065;1;2;Sales Executive;2;5390;0;3;17;9;6
+34;Research & Development;2068;1;4;Laboratory Technician;3;4404;0;3;6;4;3
